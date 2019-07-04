@@ -21,10 +21,14 @@ class Neuron
 
     public:
     Neuron(TypeOfNeuron type);
+    float get_bias(void){return bias;}
+    float get_activation(void){return activation;}
+    void  set_activation(float a){activation = a;}
+    TypeOfNeuron get_type(void){return type;}
     void self_introduction(void);
 };
 
-Neuron::Neuron(TypeOfNeuron t) //initialize randomly
+Neuron::Neuron(TypeOfNeuron t) //initialize bias randomly
 {
     bias = rnd(-1000000,1000000) / 1000000.0;
     activation = 0.0;
@@ -39,11 +43,15 @@ void Neuron::self_introduction(void)
     std::cout << "my type is: " << type << std::endl;
 }
 
+
 int main(void)
 {
     Neuron n(Input);
     Neuron n2(Output);
     n.self_introduction();
     n2.self_introduction();
+    std::cout << n.get_bias() << std::endl;
+    std::cout << n.get_activation() << std::endl;
+    std::cout << n.get_type() << std::endl;
     return 0;
 }
