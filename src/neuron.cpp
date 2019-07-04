@@ -7,9 +7,7 @@ enum TypeOfNeuron
     Input = 0,
     Hidden = 1,
     Output = 2,
-    Moduration_1 = 3,
-    Moduration_2 = 4,
-    Moduration_3 = 5,
+    Moduration = 3,
 };
 
 class Neuron
