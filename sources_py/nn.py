@@ -97,17 +97,19 @@ class NeuralNetwork:
             elif self.neurons[i].neuron_type.name == 'MODULATION':
                 self.neurons[i].modulation = float(result_v[i])
 
-    def hebbian_update(self):
-        pass
-
-    def get_output(self, input_vector, is_weight_update=True, is_overwrite_input=True):
-        pass
+    def get_output(self, input_vector, overwrite_input = True):
+        for i in range(input_vector):
+            if overwrite_input == True:
+                self.neurons[i].activation = input_vector[i]
+            elif overwrite_input == False:
+                self.neurons[i].activation += input_vector[i]
+        self.update_activations_and_modulations()
 
 if __name__=='__main__':
     nn = NeuralNetwork()
     nn.push_neuron(Neuron(NeuronType.INPUT))
     nn.push_neuron(Neuron(NeuronType.HIDDEN))
-    nn.update_activation_and_modulation()
+    nn.update_activations_and_modulations()
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
     nn.push_neuron(Neuron(NeuronType.MODULATION))
-    nn.update_activation_and_modulation()
+    nn.update_activations_and_modulations()
