@@ -97,7 +97,7 @@ class NeuralNetwork:
             elif self.neurons[i].neuron_type.name == 'MODULATION':
                 self.neurons[i].modulation = float(result_v[i])
 
-    def update_connections(self):
+    def hebbian_update(self):
         pass
 
     def get_output(self, input_vector, is_weight_update=True, is_overwrite_input=True):
