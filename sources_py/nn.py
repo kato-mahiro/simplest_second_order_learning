@@ -62,6 +62,13 @@ class NeuralNetwork:
 if __name__=='__main__':
     nn = NeuralNetwork()
     nn.push_neuron(Neuron(NeuronType.INPUT))
+    print(nn.activation_vector)
     nn.push_neuron(Neuron(NeuronType.HIDDEN))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
     nn.push_neuron(Neuron(NeuronType.MODURATION))
+    print(nn.neurons[0].neuron_type)
+    print(nn.neurons[1].neuron_type)
+    print(nn.neurons[2].neuron_type)
+    print(nn.neurons[3].neuron_type)
+    print(nn.num_of_neuron)
+    print(nn.activation_vector)
