@@ -98,18 +98,32 @@ class NeuralNetwork:
                 self.neurons[i].modulation = float(result_v[i])
 
     def get_output(self, input_vector, overwrite_input = True):
-        for i in range(input_vector):
+        if len(input_vector) != self.num_of_input_neuron:
+            raise Exception('invalid length of input_vector')
+        for i in range(self.num_of_input_neuron):
+            if self.neurons[i].neuron_type.name != 'INPUT':
+                raise Exception('input neurons must be at the beginning')
             if overwrite_input == True:
                 self.neurons[i].activation = input_vector[i]
             elif overwrite_input == False:
                 self.neurons[i].activation += input_vector[i]
         self.update_activations_and_modulations()
 
+        output_vector = []
+        for i in range(self.num_of_output_neuron):
+            if self.neurons[self.num_of_input_neuron +i].neuron_type.name != 'OUTPUT':
+                raise Exception('output neurons must be at the next of input neurons in line.')
+            output_vector.append(self.neurons[self.num_of_input_neuron +i].activation)
+        return output_vector
+
 if __name__=='__main__':
     nn = NeuralNetwork()
     nn.push_neuron(Neuron(NeuronType.INPUT))
-    nn.push_neuron(Neuron(NeuronType.HIDDEN))
-    nn.update_activations_and_modulations()
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
-    nn.push_neuron(Neuron(NeuronType.MODULATION))
-    nn.update_activations_and_modulations()
+    nn.push_neuron(Neuron(NeuronType.OUTPUT))
+    nn.push_neuron(Neuron(NeuronType.OUTPUT))
+    nn.push_neuron(Neuron(NeuronType.OUTPUT))
+
+    print(nn.connections)
+    print(nn.get_output([0]))
+    print(nn.get_output([1]))
