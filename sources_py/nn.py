@@ -1,4 +1,5 @@
 import numpy as np
+import math
 import random
 from enum import Enum
 
@@ -93,9 +94,9 @@ class NeuralNetwork:
         result_v = np.dot(self.connections, input_v)
         for i in range (self.num_of_neuron):
             if self.neurons[i].neuron_type.name != 'MODULATION':
-                self.neurons[i].activation = float(result_v[i])
+                self.neurons[i].activation = float(math.tanh(result_v[i] +self.neurons[i].bias))
             elif self.neurons[i].neuron_type.name == 'MODULATION':
-                self.neurons[i].modulation = float(result_v[i])
+                self.neurons[i].modulation = float(math.tanh(result_v[i] +self.neurons[i].bias))
 
     def get_output(self, input_vector, overwrite_input = True):
         if len(input_vector) != self.num_of_input_neuron:
@@ -126,4 +127,7 @@ if __name__=='__main__':
 
     print(nn.connections)
     print(nn.get_output([0]))
-    print(nn.get_output([1]))
+    print(nn.get_output([0]))
+    print(nn.get_output([0]))
+    print(nn.get_output([0]))
+    print(nn.get_output([0], overwrite_input=False))
