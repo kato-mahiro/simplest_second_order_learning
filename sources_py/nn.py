@@ -25,10 +25,6 @@ class Neuron:
 class NeuralNetwork:
     def __init__(self):
         self.num_of_neuron = 0
-        self.num_of_input_neuron = 0
-        self.num_of_hidden_neuron = 0
-        self.num_of_output_neuron = 0
-        self.num_of_modulation_neuron = 0
         self.neurons = []
         self.connections = np.zeros((self.num_of_neuron, self.num_of_neuron))
 
@@ -45,6 +41,38 @@ class NeuralNetwork:
         for i in range(self.num_of_neuron):
             modulation_vector.append(self.neurons[i].modulation)
         return modulation_vector
+
+    @property
+    def num_of_input_neuron(self):
+        num = 0
+        for i in range(self.num_of_neuron):
+            if self.neurons[i].neuron_type.name == 'INPUT':
+                num += 1
+        return num
+
+    @property
+    def num_of_hidden_neuron(self):
+        num = 0
+        for i in range(self.num_of_neuron):
+            if self.neurons[i].neuron_type.name == 'HIDDEN':
+                num += 1
+        return num
+
+    @property
+    def num_of_output_neuron(self):
+        num = 0
+        for i in range(self.num_of_neuron):
+            if self.neurons[i].neuron_type.name == 'OUTPUT':
+                num += 1
+        return num
+
+    @property
+    def num_of_modulation_neuron(self):
+        num = 0
+        for i in range(self.num_of_neuron):
+            if self.neurons[i].neuron_type.name == 'MODULATION':
+                num += 1
+        return num
 
     def push_neuron(self, neuron):
         if(not type(neuron) == Neuron):
