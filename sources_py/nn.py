@@ -8,14 +8,14 @@ class NeuronType(Enum):
     INPUT = 1
     HIDDEN = 2
     OUTPUT = 3
-    MODURATION = 4
+    MODULATION = 4
 
 class Neuron:
     def __init__(self, neuron_type:NeuronType):
         self.neuron_type = neuron_type
         self.bias = random.uniform(BIAS_LOWER_LIMIT, BIAS_UPPER_LIMIT)
         self.activation = 0.0
-        self.moduration = 0.0
+        self.modulation = 0.0
 
     def set_activation(self,input_val):
         if self.neuron_type != 1:
@@ -40,11 +40,11 @@ class NeuralNetwork:
         return activation_vector
 
     @property
-    def moduration_vector(self):
-        moduration_vector = []
+    def modulation_vector(self):
+        modulation_vector = []
         for i in range(self.num_of_neuron):
-            moduration_vector.append(self.neurons[i].moduration)
-        return moduration_vector
+            modulation_vector.append(self.neurons[i].modulation)
+        return modulation_vector
 
     def push_neuron(self, neuron):
         if(not type(neuron) == Neuron):
@@ -60,26 +60,26 @@ class NeuralNetwork:
     def pop_neuron(self, idx):
         pass
 
-    def update_activation_and_moduration(self):
+    def update_activation_and_modulation(self):
         input_v = np.array(self.activation_vector)
         result_v = np.dot(self.connections, input_v)
         for i in range (self.num_of_neuron):
-            if self.neurons[i].neuron_type.name != 'MODURATION':
+            if self.neurons[i].neuron_type.name != 'MODULATION':
                 self.neurons[i].activation = float(result_v[i])
-            elif self.neurons[i].neuron_type.name == 'MODURATION':
-                self.neurons[i].moduration = float(result_v[i])
+            elif self.neurons[i].neuron_type.name == 'MODULATION':
+                self.neurons[i].modulation = float(result_v[i])
 
     def update_weiht(self):
         pass
 
     def get_output(self, input_vector, is_weight_update=True, is_overwrite_input=True):
-        
+        pass
 
 if __name__=='__main__':
     nn = NeuralNetwork()
     nn.push_neuron(Neuron(NeuronType.INPUT))
     nn.push_neuron(Neuron(NeuronType.HIDDEN))
-    nn.update_activation_and_moduration()
+    nn.update_activation_and_modulation()
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
-    nn.push_neuron(Neuron(NeuronType.MODURATION))
-    nn.update_activation_and_moduration()
+    nn.push_neuron(Neuron(NeuronType.MODULATION))
+    nn.update_activation_and_modulation()
