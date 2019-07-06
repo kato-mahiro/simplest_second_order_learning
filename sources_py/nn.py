@@ -88,7 +88,7 @@ class NeuralNetwork:
     def pop_neuron(self, idx):
         pass
 
-    def update_activation_and_modulation(self):
+    def update_activations_and_modulations(self):
         input_v = np.array(self.activation_vector)
         result_v = np.dot(self.connections, input_v)
         for i in range (self.num_of_neuron):
@@ -97,7 +97,7 @@ class NeuralNetwork:
             elif self.neurons[i].neuron_type.name == 'MODULATION':
                 self.neurons[i].modulation = float(result_v[i])
 
-    def update_weiht(self):
+    def update_connections(self):
         pass
 
     def get_output(self, input_vector, is_weight_update=True, is_overwrite_input=True):
