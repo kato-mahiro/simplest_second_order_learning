@@ -20,11 +20,15 @@ class Neuron:
     def set_activation(self,input_val):
         if self.neuron_type != 1:
             raise Exception('Error you are setting activation of non input neuron(at Neuron.set_activation() ) ')
-        self.activation = input_val
+        self.activation = float(input_val)
 
 class NeuralNetwork:
     def __init__(self):
         self.num_of_neuron = 0
+        self.num_of_input_neuron = 0
+        self.num_of_hidden_neuron = 0
+        self.num_of_output_neuron = 0
+        self.num_of_modulation_neuron = 0
         self.neurons = []
         self.connections = np.zeros((self.num_of_neuron, self.num_of_neuron))
 
@@ -56,19 +60,26 @@ class NeuralNetwork:
     def pop_neuron(self, idx):
         pass
 
-    def update_activation(self):
+    def update_activation_and_moduration(self):
+        input_v = np.array(self.activation_vector)
+        result_v = np.dot(self.connections, input_v)
+        for i in range (self.num_of_neuron):
+            if self.neurons[i].neuron_type.name != 'MODURATION':
+                self.neurons[i].activation = float(result_v[i])
+            elif self.neurons[i].neuron_type.name == 'MODURATION':
+                self.neurons[i].moduration = float(result_v[i])
+
+    def update_weiht(self):
         pass
+
+    def get_output(self, input_vector, is_weight_update=True, is_overwrite_input=True):
+        
 
 if __name__=='__main__':
     nn = NeuralNetwork()
     nn.push_neuron(Neuron(NeuronType.INPUT))
-    print(nn.activation_vector)
     nn.push_neuron(Neuron(NeuronType.HIDDEN))
+    nn.update_activation_and_moduration()
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
     nn.push_neuron(Neuron(NeuronType.MODURATION))
-    print(nn.neurons[0].neuron_type)
-    print(nn.neurons[1].neuron_type)
-    print(nn.neurons[2].neuron_type)
-    print(nn.neurons[3].neuron_type)
-    print(nn.num_of_neuron)
-    print(nn.activation_vector)
+    nn.update_activation_and_moduration()
