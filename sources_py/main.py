@@ -5,7 +5,7 @@ from task import *
 
 class Agent:
     def __init__(self):
-        self.nn = NeuralNetwork()
+        self.nn = HebbianNetwork()
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
@@ -18,11 +18,10 @@ class Agent:
         self.num_correct_answer = 0
         self.fitness = 0.0
 
-
 if __name__=='__main__':
     agents = [Agent() for i in range(POPULATION_NUM)]
     for g_num in range(GENERATION_NUM):
-        task = Task(g_num)
+        task = Task_1(g_num)
         for a_num in range(POPULATION_NUM):
             for l_num in range(LIFETIME_NUM):
                 q_v,a_v = task.question()
@@ -44,7 +43,7 @@ if __name__=='__main__':
         agents = sorted(agents, key=attrgetter('fitness'), reverse=True)
         for i in range(POPULATION_NUM):
             fitness_list.append(agents[i].fitness)
-        print('generation: ',g_num)
+        print('generation: ',g_num+1)
         print('max: ',fitness_list[0])
         print('ave: ',sum(fitness_list)/len(fitness_list))
         next_agents = agents[0:4] #エリート選択
@@ -56,7 +55,11 @@ if __name__=='__main__':
                 for c in range(new_Agent.nn.num_of_neuron):
                     new_Agent.nn.connections[r][c] = \
                     random.choice([ parent_A.nn.connections[r][c], parent_B.nn.connections[r][c] ])
+                    #if(random.random() < 0.001):
+                        #new_Agent.nn.connections[r][c] += random.uniform(-0.1,0.1)
                 new_Agent.nn.neurons[r].bias = \
                 random.choice( [ parent_A.nn.neurons[r].bias, parent_B.nn.neurons[r].bias ])
+                #if(random.random() < 0.001):
+                    #new_Agent.nn.neurons[r].bias += random.uniform(-0.1,0.1)
             next_agents.append(new_Agent)
         agents = next_agents
