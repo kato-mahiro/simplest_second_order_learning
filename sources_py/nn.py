@@ -133,7 +133,7 @@ class HebbianNetwork(NeuralNetwork):
                 self.connections[r][c] += epsilon * self.neurons[r].activation * self.neurons[c].activation
                 if(self.connections[r][c] > WEIGHT_UPPER_LIMIT):
                     self.connections[r][c] = WEIGHT_UPPER_LIMIT 
-                elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT)
+                elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
                     self.connections[r][c] = WEIGHT_LOWER_LIMIT
         self.make_self_connections_zero()
 
@@ -176,7 +176,7 @@ class ExtendedHebbianNetwork(NeuralNetwork):
                 self.D
                 if(self.connections[r][c] > WEIGHT_UPPER_LIMIT):
                     self.connections[r][c] = WEIGHT_UPPER_LIMIT 
-                elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT)
+                elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
                     self.connections[r][c] = WEIGHT_LOWER_LIMIT
         self.make_self_connections_zero()
 
@@ -221,7 +221,7 @@ class ModulatedHebbianNetwork(ExtendedHebbianNetwork):
                 * m_v[r]
                 if(self.connections[r][c] > WEIGHT_UPPER_LIMIT):
                     self.connections[r][c] = WEIGHT_UPPER_LIMIT 
-                elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT)
+                elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
                     self.connections[r][c] = WEIGHT_LOWER_LIMIT
 
         self.make_self_connections_zero()
