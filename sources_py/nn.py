@@ -24,10 +24,12 @@ class Neuron:
         self.activation = float(input_val)
 
 class NeuralNetwork:
-    def __init__(self):
+    def __init__(self,is_overwrite_input=True,is_self_connectoin=False):
         self.num_of_neuron = 0
         self.neurons = []
         self.connections = np.zeros((self.num_of_neuron, self.num_of_neuron))
+        self.is_overwrite_input = is_overwrite_input
+        self.is_self_connectoin = is_self_connectoin
 
     @property
     def activation_vector(self):
@@ -75,6 +77,16 @@ class NeuralNetwork:
                 num += 1
         return num
 
+    def make_self_connections_zero(self):
+        if(self.is_self_connectoin == False):
+            try:
+                for r in range(self.num_of_neuron):
+                    for l in range(self.num_of_neuron):
+                        if r == l:
+                            self.connections[r][l] = 0.0
+            except:
+                pass
+
     def push_neuron(self, neuron):
         if(not type(neuron) == Neuron):
             raise Exception('Type error at NeuralNetwork.push_neuron()')
@@ -84,6 +96,7 @@ class NeuralNetwork:
         connections_list.append( [random.uniform(WEIGHT_LOWER_LIMIT, WEIGHT_UPPER_LIMIT) for i in range(self.num_of_neuron-1) ])
         for i in range(self.num_of_neuron):
             connections_list[i].append( random.uniform(WEIGHT_LOWER_LIMIT, WEIGHT_UPPER_LIMIT) )
+        self.make_self_connections_zero()
         self.connections = np.array(connections_list)
 
     def pop_neuron(self, idx):
@@ -98,15 +111,15 @@ class NeuralNetwork:
             elif self.neurons[i].neuron_type.name == 'MODULATION':
                 self.neurons[i].modulation = float(math.tanh(result_v[i] +self.neurons[i].bias))
 
-    def get_output(self, input_vector, overwrite_input = True):
+    def get_output(self, input_vector):
         if len(input_vector) != self.num_of_input_neuron:
             raise Exception('invalid length of input_vector')
         for i in range(self.num_of_input_neuron):
             if self.neurons[i].neuron_type.name != 'INPUT':
                 raise Exception('input neurons must be at the beginning')
-            if overwrite_input == True:
+            if self.is_overwrite_input == True:
                 self.neurons[i].activation = input_vector[i]
-            elif overwrite_input == False:
+            elif self.is_overwrite_input == False:
                 self.neurons[i].activation += input_vector[i]
         self.update_activations_and_modulations()
 
@@ -117,17 +130,48 @@ class NeuralNetwork:
             output_vector.append(self.neurons[self.num_of_input_neuron +i].activation)
         return output_vector
 
+class HebbianNetwork(NeuralNetwork):
+
+    def hebbian_update(self, epsilon = EPSILON):
+        for r in range(self.num_of_neuron):
+            for c in range(self.num_of_neuron):
+                self.connections[r][c] += epsilon * self.neurons[r].activation * self.neurons[c].activation
+        self.make_self_connections_zero()
+
+    def get_output(self, input_vector):
+        if len(input_vector) != self.num_of_input_neuron:
+            raise Exception('invalid length of input_vector')
+        for i in range(self.num_of_input_neuron):
+            if self.neurons[i].neuron_type.name != 'INPUT':
+                raise Exception('input neurons must be at the beginning')
+            if self.is_overwrite_input == True:
+                self.neurons[i].activation = input_vector[i]
+            elif self.is_overwrite_input == False:
+                self.neurons[i].activation += input_vector[i]
+        self.update_activations_and_modulations()
+
+        self.hebbian_update()
+
+        output_vector = []
+        for i in range(self.num_of_output_neuron):
+            if self.neurons[self.num_of_input_neuron +i].neuron_type.name != 'OUTPUT':
+                raise Exception('output neurons must be at the next of input neurons in line.')
+            output_vector.append(self.neurons[self.num_of_input_neuron +i].activation)
+        return output_vector
+
 if __name__=='__main__':
-    nn = NeuralNetwork()
+    nn = HebbianNetwork()
     nn.push_neuron(Neuron(NeuronType.INPUT))
-    nn.push_neuron(Neuron(NeuronType.OUTPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
 
     print(nn.connections)
     print(nn.get_output([0]))
+    print(nn.connections)
     print(nn.get_output([0]))
+    print(nn.connections)
     print(nn.get_output([0]))
+    print(nn.connections)
     print(nn.get_output([0]))
-    print(nn.get_output([0], overwrite_input=False))
+    print(nn.connections)
