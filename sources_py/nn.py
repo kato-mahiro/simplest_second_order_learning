@@ -154,12 +154,54 @@ class HebbianNetwork(NeuralNetwork):
             output_vector.append(self.neurons[self.num_of_input_neuron +i].activation)
         return output_vector
 
+class ExtendedHebbianNetwork(NeuralNetwork):
+    def __init__(self,is_overwrite_input=True,is_self_connectoin=False):
+        super(ExtendedHebbianNetwork,self).__init__(is_overwrite_input,is_self_connectoin)
+        self.A = random.uniform(-1.0,1.0)
+        self.B = random.uniform(-1.0,1.0)
+        self.C = random.uniform(-1.0,1.0)
+        self.D = random.uniform(-1.0,1.0)
+
+    def extended_hebbian_update(self, epsilon = EPSILON):
+        for r in range(self.num_of_neuron):
+            for c in range(self.num_of_neuron):
+                self.connections[r][c] += \
+                self.A * self.neurons[r].activation * self.neurons[c].activation + \
+                self.B * self.neurons[r].activation + \
+                self.C * self.neurons[c].activation + \
+                self.D
+        self.make_self_connections_zero()
+
+    def get_output(self, input_vector):
+        if len(input_vector) != self.num_of_input_neuron:
+            raise Exception('invalid length of input_vector')
+        for i in range(self.num_of_input_neuron):
+            if self.neurons[i].neuron_type.name != 'INPUT':
+                raise Exception('input neurons must be at the beginning')
+            if self.is_overwrite_input == True:
+                self.neurons[i].activation = input_vector[i]
+            elif self.is_overwrite_input == False:
+                self.neurons[i].activation += input_vector[i]
+        self.update_activations_and_modulations()
+
+        self.extended_hebbian_update()
+
+        output_vector = []
+        for i in range(self.num_of_output_neuron):
+            if self.neurons[self.num_of_input_neuron +i].neuron_type.name != 'OUTPUT':
+                raise Exception('output neurons must be at the next of input neurons in line.')
+            output_vector.append(self.neurons[self.num_of_input_neuron +i].activation)
+        return output_vector
+
 if __name__=='__main__':
-    nn = HebbianNetwork()
+    nn = ExtendedHebbianNetwork()
     nn.push_neuron(Neuron(NeuronType.INPUT))
     nn.push_neuron(Neuron(NeuronType.INPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
+
+    print(nn.num_of_neuron)
+    print(nn.A)
 
     print(nn.connections)
     print(nn.get_output([0,1]))
