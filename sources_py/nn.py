@@ -162,7 +162,7 @@ class ExtendedHebbianNetwork(NeuralNetwork):
         self.C = random.uniform(-1.0,1.0)
         self.D = random.uniform(-1.0,1.0)
 
-    def extended_hebbian_update(self, epsilon = EPSILON):
+    def extended_hebbian_update(self):
         for r in range(self.num_of_neuron):
             for c in range(self.num_of_neuron):
                 self.connections[r][c] += \
@@ -195,7 +195,7 @@ class ExtendedHebbianNetwork(NeuralNetwork):
 
 class ModulatedHebbianNetwork(ExtendedHebbianNetwork):
 
-    def extended_hebbian_update(self, epsilon = EPSILON):
+    def extended_hebbian_update(self):
         input_v = np.array(self.modulation_vector)
         print(input_v)
         m_v = np.dot(self.connections, input_v)
