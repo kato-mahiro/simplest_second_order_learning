@@ -197,7 +197,6 @@ class ModulatedHebbianNetwork(ExtendedHebbianNetwork):
 
     def extended_hebbian_update(self):
         input_v = np.array(self.modulation_vector)
-        print(input_v)
         m_v = np.dot(self.connections, input_v)
         for i in range (self.num_of_neuron):
             m_v[i] = float(math.tanh(m_v[i]))
