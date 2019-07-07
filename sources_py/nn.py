@@ -193,22 +193,41 @@ class ExtendedHebbianNetwork(NeuralNetwork):
             output_vector.append(self.neurons[self.num_of_input_neuron +i].activation)
         return output_vector
 
+class ModulatedHebbianNetwork(ExtendedHebbianNetwork):
+
+    def extended_hebbian_update(self, epsilon = EPSILON):
+        input_v = np.array(self.modulation_vector)
+        print(input_v)
+        m_v = np.dot(self.connections, input_v)
+        for i in range (self.num_of_neuron):
+            m_v[i] = float(math.tanh(m_v[i]))
+
+        for r in range(self.num_of_neuron):
+            for c in range(self.num_of_neuron):
+                self.connections[r][c] += \
+                (\
+                self.A * self.neurons[r].activation * self.neurons[c].activation + \
+                self.B * self.neurons[r].activation + \
+                self.C * self.neurons[c].activation + \
+                self.D \
+                ) \
+                * m_v[r]
+
+        self.make_self_connections_zero()
+
 if __name__=='__main__':
-    nn = ExtendedHebbianNetwork()
-    nn.push_neuron(Neuron(NeuronType.INPUT))
+    nn = ModulatedHebbianNetwork()
     nn.push_neuron(Neuron(NeuronType.INPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
-    nn.push_neuron(Neuron(NeuronType.OUTPUT))
+    nn.push_neuron(Neuron(NeuronType.MODULATION))
 
     print(nn.num_of_neuron)
-    print(nn.A)
-
     print(nn.connections)
-    print(nn.get_output([0,1]))
+    print(nn.get_output([0]))
     print(nn.connections)
-    print(nn.get_output([0,1]))
+    print(nn.get_output([0]))
     print(nn.connections)
-    print(nn.get_output([0,0]))
+    print(nn.get_output([0]))
     print(nn.connections)
-    print(nn.get_output([1,1]))
+    print(nn.get_output([1]))
     print(nn.connections)
