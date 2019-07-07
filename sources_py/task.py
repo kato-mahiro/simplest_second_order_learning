@@ -10,6 +10,8 @@ class CurrentState(Enum):
     DANGER = 1
 
 class Task:
+    def __init__(self,generation_num=0):
+       self.generation_num = generation_num
 
     def get_current_rule(self):
         return CurrentRule.PIECE
@@ -64,8 +66,6 @@ class Task_3(Task_1): # Rule change randomly by time.
             return CurrentRule.EMERGENCY
 
 class Task_4(Task_1): # Rule change alternately every generation.
-    def __init__(self,generation_num):
-       self.generation_num = generation_num
     def get_current_rule(self):
         if(self.generation_num % 2):
             return CurrentRule.PIECE
@@ -102,8 +102,13 @@ class Task_7(Task_1):
             return CurrentRule.EMERGENCY
 
 if __name__=='__main__':
-    task = Task_7()
-    for i in range(100):
+    task = Task_4(10)
+    for i in range(10):
+        print("question:",task.question())
+        result = input()
+        print(task.feedback(result))
+    task = Task_4(11)
+    for i in range(10):
         print("question:",task.question())
         result = input()
         print(task.feedback(result))
