@@ -18,11 +18,6 @@ class Neuron:
         self.activation = 0.0
         self.modulation = 0.0
 
-    def set_activation(self,input_val):
-        if self.neuron_type != 1:
-            raise Exception('Error you are setting activation of non input neuron(at Neuron.set_activation() ) ')
-        self.activation = float(input_val)
-
 class NeuralNetwork:
     def __init__(self,is_overwrite_input=True,is_self_connectoin=False):
         self.num_of_neuron = 0
@@ -162,16 +157,16 @@ class HebbianNetwork(NeuralNetwork):
 if __name__=='__main__':
     nn = HebbianNetwork()
     nn.push_neuron(Neuron(NeuronType.INPUT))
-    nn.push_neuron(Neuron(NeuronType.OUTPUT))
+    nn.push_neuron(Neuron(NeuronType.INPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
 
     print(nn.connections)
-    print(nn.get_output([0]))
+    print(nn.get_output([0,1]))
     print(nn.connections)
-    print(nn.get_output([0]))
+    print(nn.get_output([0,1]))
     print(nn.connections)
-    print(nn.get_output([0]))
+    print(nn.get_output([0,0]))
     print(nn.connections)
-    print(nn.get_output([0]))
+    print(nn.get_output([1,1]))
     print(nn.connections)
