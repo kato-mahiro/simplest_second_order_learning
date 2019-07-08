@@ -2,8 +2,9 @@ import numpy as np
 import math
 import random
 from enum import Enum
-
 from const import *
+
+random.seed(SEED)
 
 class NeuronType(Enum):
     INPUT = 1
