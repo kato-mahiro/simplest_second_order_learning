@@ -6,15 +6,15 @@ from task import *
 
 class Agent:
     def __init__(self):
-        self.nn = ModulatedHebbianNetwork()
+        self.nn = NeuralNetwork()
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
         self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
-        self.nn.push_neuron(Neuron(NeuronType.MODULATION))
-        self.nn.push_neuron(Neuron(NeuronType.MODULATION))
+        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
         self.initial_connections = copy.deepcopy(self.nn.connections)
         self.num_correct_answer = 0
         self.fitness = 0.0
@@ -62,9 +62,9 @@ if __name__=='__main__':
                 random.choice( [ parent_A.nn.neurons[r].bias, parent_B.nn.neurons[r].bias ])
                 #if(random.random() < 0.001):
                     #new_Agent.nn.neurons[r].bias += random.uniform(-0.1,0.1)
-                new_Agent.nn.A = random.choice([ parent_A.nn.A ,parent_B.nn.A ])
-                new_Agent.nn.B = random.choice([ parent_A.nn.B ,parent_B.nn.B ])
-                new_Agent.nn.C = random.choice([ parent_A.nn.C ,parent_B.nn.C ])
-                new_Agent.nn.D = random.choice([ parent_A.nn.D ,parent_B.nn.D ])
+                #new_Agent.nn.A = random.choice([ parent_A.nn.A ,parent_B.nn.A ])
+                #new_Agent.nn.B = random.choice([ parent_A.nn.B ,parent_B.nn.B ])
+                #new_Agent.nn.C = random.choice([ parent_A.nn.C ,parent_B.nn.C ])
+                #new_Agent.nn.D = random.choice([ parent_A.nn.D ,parent_B.nn.D ])
             next_agents.append(copy.deepcopy(new_Agent))
         agents = next_agents
