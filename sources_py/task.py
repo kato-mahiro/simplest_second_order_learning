@@ -1,5 +1,7 @@
+from const import *
 import random
 from enum import Enum
+random.seed(SEED)
 
 class CurrentRule(Enum):
     PIECE= 0
@@ -21,9 +23,7 @@ class Task:
 
     def question(self):
         current_rule = self.get_current_rule()
-        print("ruleは",current_rule.name,"です")
         current_state = self.get_current_state()
-        print("stateは",current_state.name,"です")
         if(current_state.name == 'SAFE'):
             if(current_rule.name == 'PIECE'):
                 return([1,0,0,0],[1,0])
@@ -49,7 +49,7 @@ class Task_1(Task): #Doesn't change rule
             return CurrentState.DANGER
 
 class Task_2(Task_1): # Rule change randomly initialy.
-    def __init__(self):
+    def __init__(self,generation):
         if(random.randint(0,1)):
             self.rule = CurrentRule.PIECE
         else:
@@ -73,7 +73,7 @@ class Task_4(Task_1): # Rule change alternately every generation.
             return CurrentRule.EMERGENCY
 
 class Task_5(Task_1):
-    def __init__(self):
+    def __init__(self,generation_num):
         self.step = 0
     def get_current_rule(self):
         self.step += 1
@@ -92,7 +92,7 @@ class Task_6(Task_1):
             return CurrentRule.EMERGENCY
 
 class Task_7(Task_1):
-    def __init__(self):
+    def __init__(self,generation_num):
         self.step = -1
     def get_current_rule(self):
         self.step += 1
