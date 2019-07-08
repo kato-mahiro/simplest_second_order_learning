@@ -15,14 +15,14 @@ class Agent:
         self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
         self.nn.push_neuron(Neuron(NeuronType.MODULATION))
         self.nn.push_neuron(Neuron(NeuronType.MODULATION))
-        self.initial_connections = self.nn.connections
+        self.initial_connections = copy.deepcopy(self.nn.connections)
         self.num_correct_answer = 0
         self.fitness = 0.0
 
 if __name__=='__main__':
     agents = [Agent() for i in range(POPULATION_NUM)]
     for g_num in range(GENERATION_NUM):
-        task = Task_5(g_num)
+        task = Task_1(g_num)
         for a_num in range(POPULATION_NUM):
             for l_num in range(LIFETIME_NUM):
                 q_v,a_v = task.question()
@@ -36,7 +36,7 @@ if __name__=='__main__':
                     agents[a_num].nn.get_output(task.feedback(False))
             agents[a_num].fitness = agents[a_num].num_correct_answer / LIFETIME_NUM
             agents[a_num].num_correct_answer = 0
-            agents[a_num].nn.connections = agents[a_num].initial_connections
+            agents[a_num].nn.connections = copy.deepcopy(agents[a_num].initial_connections)
 
         # evolution
         next_agents=[]
