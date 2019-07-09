@@ -1,5 +1,6 @@
 from operator import attrgetter
 import copy
+import sys
 from const import *
 from nn import *
 from task import *
@@ -20,9 +21,28 @@ class Agent:
         self.fitness = 0.0
 
 if __name__=='__main__':
+    args = sys.argv
+    print(args)
+    print(args[1])
     agents = [Agent() for i in range(POPULATION_NUM)]
     for g_num in range(GENERATION_NUM):
-        task = Task_1(g_num)
+        if args[1] == '0':
+            task = Task(g_num)
+        elif args[1] == '1':
+            task = Task_1(g_num)
+        elif args[1] == '2':
+            task = Task_2(g_num)
+        elif args[1] == '3':
+            task = Task_3(g_num)
+        elif args[1] == '4':
+            task = Task_4(g_num)
+        elif args[1] == '5':
+            task = Task_5(g_num)
+        elif args[1] == '6':
+            task = Task_6(g_num)
+        elif args[1] == '7':
+            task = Task_7(g_num)
+            
         for a_num in range(POPULATION_NUM):
             for l_num in range(LIFETIME_NUM):
                 q_v,a_v = task.question()
