@@ -97,8 +97,17 @@ class NeuralNetwork:
         self.make_self_connections_zero()
         self.connections = np.array(connections_list)
 
-    def pop_neuron(self, idx):
-        pass
+    def del_neuron(self, idx):
+        print('num:',self.num_of_neuron)
+        try:
+            del(self.neurons[idx])
+        except:
+            raise Exception('invalid index')
+        print('connections:',self.connections)
+        self.connections = np.delete(self.connections, idx, axis = 0)
+        self.connections = np.delete(self.connections, idx, axis = 1)
+        print('num:',self.num_of_neuron)
+        print('connections:',self.connections)
 
     def update_activations_and_modulations(self):
         input_v = np.array(self.activation_vector)
@@ -246,3 +255,5 @@ if __name__=='__main__':
     print(nn.connections)
     print(nn.get_output([1]))
     print(nn.connections)
+
+    nn.del_neuron(1)
