@@ -21,11 +21,14 @@ class Neuron:
 
 class NeuralNetwork:
     def __init__(self,is_overwrite_input=True,is_self_connectoin=False):
-        self.num_of_neuron = 0
         self.neurons = []
-        self.connections = np.zeros((self.num_of_neuron, self.num_of_neuron))
+        self.connections = np.zeros((0, 0))
         self.is_overwrite_input = is_overwrite_input
         self.is_self_connectoin = is_self_connectoin
+
+    @property
+    def num_of_neuron(self):
+        return len(self.neurons)
 
     @property
     def activation_vector(self):
@@ -86,7 +89,6 @@ class NeuralNetwork:
     def push_neuron(self, neuron):
         if(not type(neuron) == Neuron):
             raise Exception('Type error at NeuralNetwork.push_neuron()')
-        self.num_of_neuron += 1
         self.neurons.append(neuron)
         connections_list = self.connections.tolist()
         connections_list.append( [random.uniform(WEIGHT_LOWER_LIMIT, WEIGHT_UPPER_LIMIT) for i in range(self.num_of_neuron-1) ])
@@ -229,6 +231,7 @@ class ModulatedHebbianNetwork(ExtendedHebbianNetwork):
 
 if __name__=='__main__':
     nn = ModulatedHebbianNetwork()
+    print(nn.num_of_neuron)
     nn.push_neuron(Neuron(NeuronType.INPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
     nn.push_neuron(Neuron(NeuronType.MODULATION))
