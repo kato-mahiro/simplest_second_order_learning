@@ -23,6 +23,7 @@ class NeuralNetwork:
     def __init__(self,is_overwrite_input=True,is_self_connectoin=False):
         self.neurons = []
         self.connections = np.zeros((0, 0))
+        self.mask_array = np.zeros((0, 0))
         self.is_overwrite_input = is_overwrite_input
         self.is_self_connectoin = is_self_connectoin
 
@@ -85,6 +86,9 @@ class NeuralNetwork:
                             self.connections[r][l] = 0.0
             except:
                 pass
+
+    def make_masking(self):
+        self.connections = self.connections * self.mask_array
 
     def push_neuron(self, neuron):
         if(not type(neuron) == Neuron):
