@@ -77,6 +77,19 @@ class NeuralNetwork:
                 num += 1
         return num
 
+    @property
+    def num_of_active_connection(self):
+        num = 0
+        try:
+            for i in range(self.num_of_neuron):
+                for ii in range(self.num_of_neuron):
+                    if self.mask_array[i][ii] == 1:
+                        num += 1
+        except:
+            pass
+        print("num_of_active_connection:",num)
+        return num
+
     def make_self_connections_zero(self):
         if(self.is_self_connectoin == False):
             try:
@@ -98,6 +111,7 @@ class NeuralNetwork:
         connections_list.append( [random.uniform(WEIGHT_LOWER_LIMIT, WEIGHT_UPPER_LIMIT) for i in range(self.num_of_neuron-1) ])
         for i in range(self.num_of_neuron):
             connections_list[i].append( random.uniform(WEIGHT_LOWER_LIMIT, WEIGHT_UPPER_LIMIT) )
+
         self.make_self_connections_zero()
         self.connections = np.array(connections_list)
 
