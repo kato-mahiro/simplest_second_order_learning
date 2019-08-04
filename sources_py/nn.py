@@ -119,7 +119,10 @@ class NeuralNetwork:
 
         self.make_self_connections_zero()
         self.connections = np.array(connections_list)
+<<<<<<< HEAD
         self.mask_array = np.array(mask_list)
+=======
+>>>>>>> 0f2855ff0975718e2e6df6429aae2eb4e32ab3f9
 
     def del_neuron(self, idx):
         print('num:',self.num_of_neuron)
