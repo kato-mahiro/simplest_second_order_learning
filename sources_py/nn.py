@@ -80,6 +80,7 @@ class NeuralNetwork:
     @property
     def num_of_active_connection(self):
         num = 0
+        print(self.mask_array)
         try:
             for i in range(self.num_of_neuron):
                 for ii in range(self.num_of_neuron):
@@ -111,9 +112,14 @@ class NeuralNetwork:
         connections_list.append( [random.uniform(WEIGHT_LOWER_LIMIT, WEIGHT_UPPER_LIMIT) for i in range(self.num_of_neuron-1) ])
         for i in range(self.num_of_neuron):
             connections_list[i].append( random.uniform(WEIGHT_LOWER_LIMIT, WEIGHT_UPPER_LIMIT) )
+        mask_list = self.mask_array.tolist()
+        mask_list.append( [random.choices([0,1],[1.0 - ACTIVE_CONNECTION_RATIO, ACTIVE_CONNECTION_RATIO])[0] for i in range(self.num_of_neuron-1)] )
+        for i in range(self.num_of_neuron):
+            mask_list[i].append( random.choices([0,1],[1.0 - ACTIVE_CONNECTION_RATIO, ACTIVE_CONNECTION_RATIO])[0] )
 
         self.make_self_connections_zero()
         self.connections = np.array(connections_list)
+        self.mask_array = np.array(mask_list)
 
     def del_neuron(self, idx):
         print('num:',self.num_of_neuron)
@@ -259,6 +265,9 @@ class ModulatedHebbianNetwork(ExtendedHebbianNetwork):
 if __name__=='__main__':
     nn = ModulatedHebbianNetwork()
     print(nn.num_of_neuron)
+
+    print(nn.mask_array)
+    print(nn.num_of_active_connection)
     nn.push_neuron(Neuron(NeuronType.INPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
     nn.push_neuron(Neuron(NeuronType.MODULATION))
@@ -274,4 +283,10 @@ if __name__=='__main__':
     print(nn.get_output([1]))
     print(nn.connections)
 
+    print(nn.mask_array)
+    print(nn.num_of_active_connection)
+
     nn.del_neuron(1)
+
+    print(nn.mask_array)
+    print(nn.num_of_active_connection)
