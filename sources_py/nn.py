@@ -121,20 +121,19 @@ class NeuralNetwork:
 
         self.connections = np.array(connections_list)
         self.mask_array = np.array(mask_list)
+        self.make_masking()
+        print('mask_array is this:',self.mask_array)
+        print('masked_connection is this:',self.connections)
 
     def del_neuron(self, idx):
-        print('num:',self.num_of_neuron)
         try:
             del(self.neurons[idx])
         except:
             raise Exception('invalid index')
-        print('connections:',self.connections)
         self.connections = np.delete(self.connections, idx, axis = 0)
         self.connections = np.delete(self.connections, idx, axis = 1)
         self.mask_array = np.delete(self.mask_array, idx, axis = 0)
         self.mask_array = np.delete(self.mask_array, idx, axis = 1)
-        print('num:',self.num_of_neuron)
-        print('connections:',self.connections)
 
     def update_activations_and_modulations(self):
         input_v = np.array(self.activation_vector)
