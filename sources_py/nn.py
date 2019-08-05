@@ -131,6 +131,8 @@ class NeuralNetwork:
         print('connections:',self.connections)
         self.connections = np.delete(self.connections, idx, axis = 0)
         self.connections = np.delete(self.connections, idx, axis = 1)
+        self.mask_array = np.delete(self.mask_array, idx, axis = 0)
+        self.mask_array = np.delete(self.mask_array, idx, axis = 1)
         print('num:',self.num_of_neuron)
         print('connections:',self.connections)
 
