@@ -226,7 +226,7 @@ class ExtendedHebbianNetwork(NeuralNetwork):
             output_vector.append(self.neurons[self.num_of_input_neuron +i].activation)
         return output_vector
 
-class ModulatedHebbianNetwork(ExtendedHebbianNetwork):
+class ModulatedExtendedHebbianNetwork(ExtendedHebbianNetwork):
 
     def extended_hebbian_update(self):
         input_v = np.array(self.modulation_vector)
