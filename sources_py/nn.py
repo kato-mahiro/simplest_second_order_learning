@@ -183,6 +183,24 @@ class HebbianNetwork(NeuralNetwork):
             output_vector.append(self.neurons[self.num_of_input_neuron +i].activation)
         return output_vector
 
+class ModulatedHebbianNetwork(HebbianNetwork):
+    def hebbian_update(self, epsilon = EPSILON):
+        input_v = np.array(self.modulation_vector)
+        m_v = np.dot(self.connections, input_v)
+        for i in range (self.num_of_neuron):
+            m_v[i] = float(math.tanh(m_v[i]))
+
+        for r in range(self.num_of_neuron):
+            for c in range(self.num_of_neuron):
+                self.connections[r][c] += \
+                    epsilon * self.neurons[r].activation * self.neurons[c].activation * m_v[r]
+                if(self.connections[r][c] > WEIGHT_UPPER_LIMIT):
+                    self.connections[r][c] = WEIGHT_UPPER_LIMIT
+                elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
+                    self.connections[r][c] = WEIGHT_LOWER_LIMIT
+
+        self.make_masking()
+
 class ExtendedHebbianNetwork(NeuralNetwork):
     def __init__(self,is_overwrite_input=True):
         super(ExtendedHebbianNetwork,self).__init__(is_overwrite_input)
