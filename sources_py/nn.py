@@ -20,12 +20,11 @@ class Neuron:
         self.modulation = 0.0
 
 class NeuralNetwork:
-    def __init__(self,is_overwrite_input=True,is_self_connectoin=False):
+    def __init__(self,is_overwrite_input=True):
         self.neurons = []
         self.connections = np.zeros((0, 0))
         self.mask_array = np.zeros((0, 0))
         self.is_overwrite_input = is_overwrite_input
-        self.is_self_connectoin = is_self_connectoin
 
     @property
     def num_of_neuron(self):
@@ -91,16 +90,6 @@ class NeuralNetwork:
         print("num_of_active_connection:",num)
         return num
 
-    def make_self_connections_zero(self):
-        if(self.is_self_connectoin == False):
-            try:
-                for r in range(self.num_of_neuron):
-                    for l in range(self.num_of_neuron):
-                        if r == l:
-                            self.connections[r][l] = 0.0
-            except:
-                pass
-
     def make_masking(self):
         self.connections = self.connections * self.mask_array
 
@@ -116,8 +105,6 @@ class NeuralNetwork:
         mask_list.append( [random.choices([0,1],[1.0 - ACTIVE_CONNECTION_RATIO, ACTIVE_CONNECTION_RATIO])[0] for i in range(self.num_of_neuron-1)] )
         for i in range(self.num_of_neuron):
             mask_list[i].append( random.choices([0,1],[1.0 - ACTIVE_CONNECTION_RATIO, ACTIVE_CONNECTION_RATIO])[0] )
-
-        self.make_self_connections_zero()
 
         self.connections = np.array(connections_list)
         self.mask_array = np.array(mask_list)
@@ -173,7 +160,6 @@ class HebbianNetwork(NeuralNetwork):
                     self.connections[r][c] = WEIGHT_UPPER_LIMIT 
                 elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
                     self.connections[r][c] = WEIGHT_LOWER_LIMIT
-        self.make_self_connections_zero()
         self.make_masking()
 
     def get_output(self, input_vector):
@@ -198,8 +184,8 @@ class HebbianNetwork(NeuralNetwork):
         return output_vector
 
 class ExtendedHebbianNetwork(NeuralNetwork):
-    def __init__(self,is_overwrite_input=True,is_self_connectoin=False):
-        super(ExtendedHebbianNetwork,self).__init__(is_overwrite_input,is_self_connectoin)
+    def __init__(self,is_overwrite_input=True):
+        super(ExtendedHebbianNetwork,self).__init__(is_overwrite_input)
         self.A = random.uniform(-1.0,1.0)
         self.B = random.uniform(-1.0,1.0)
         self.C = random.uniform(-1.0,1.0)
@@ -217,7 +203,6 @@ class ExtendedHebbianNetwork(NeuralNetwork):
                     self.connections[r][c] = WEIGHT_UPPER_LIMIT 
                 elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
                     self.connections[r][c] = WEIGHT_LOWER_LIMIT
-        self.make_self_connections_zero()
         self.make_masking()
 
     def get_output(self, input_vector):
@@ -264,7 +249,6 @@ class ModulatedHebbianNetwork(ExtendedHebbianNetwork):
                 elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
                     self.connections[r][c] = WEIGHT_LOWER_LIMIT
 
-        self.make_self_connections_zero()
         self.make_masking()
 
 if __name__=='__main__':
