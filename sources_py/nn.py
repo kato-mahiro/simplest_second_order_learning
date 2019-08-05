@@ -118,11 +118,9 @@ class NeuralNetwork:
             mask_list[i].append( random.choices([0,1],[1.0 - ACTIVE_CONNECTION_RATIO, ACTIVE_CONNECTION_RATIO])[0] )
 
         self.make_self_connections_zero()
+
         self.connections = np.array(connections_list)
-<<<<<<< HEAD
         self.mask_array = np.array(mask_list)
-=======
->>>>>>> 0f2855ff0975718e2e6df6429aae2eb4e32ab3f9
 
     def del_neuron(self, idx):
         print('num:',self.num_of_neuron)
