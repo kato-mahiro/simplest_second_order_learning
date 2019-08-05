@@ -79,7 +79,6 @@ class NeuralNetwork:
     @property
     def num_of_active_connection(self):
         num = 0
-        print(self.mask_array)
         try:
             for i in range(self.num_of_neuron):
                 for ii in range(self.num_of_neuron):
@@ -87,7 +86,6 @@ class NeuralNetwork:
                         num += 1
         except:
             pass
-        print("num_of_active_connection:",num)
         return num
 
     def make_masking(self):
@@ -109,8 +107,6 @@ class NeuralNetwork:
         self.connections = np.array(connections_list)
         self.mask_array = np.array(mask_list)
         self.make_masking()
-        print('mask_array is this:',self.mask_array)
-        print('masked_connection is this:',self.connections)
 
     def del_neuron(self, idx):
         try:
@@ -296,4 +292,4 @@ if __name__=='__main__':
     nn.del_neuron(1)
 
     print(nn.mask_array)
-    print(nn.num_of_active_connection)
+    print(nn.connections)
