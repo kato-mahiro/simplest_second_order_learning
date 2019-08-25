@@ -21,13 +21,7 @@ class Agent:
         self.original_mask_array = copy.deepcopy(self.nn.mask_array)
 
         self.num_correct_answer = 0
-
-    @property
-    def fitness(self):
-        try:
-            return self.num_correct_answer / LIFETIME_NUM
-        except:
-            return 0.0
+        self.fitness = 0.0
 
     def make_initial_state(self):
         self.nn.connections = self.original_connections
@@ -36,7 +30,7 @@ class Agent:
 if __name__=='__main__':
     agents = [Agent() for i in range(POPULATION_NUM)]
     task = Task_1(g_num)
-            
+
         for a_num in range(POPULATION_NUM):
             for l_num in range(LIFETIME_NUM):
                 q_v,a_v = task.question()
