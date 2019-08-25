@@ -16,9 +16,22 @@ class Agent:
         self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
         self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
         self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
-        self.initial_connections = copy.deepcopy(self.nn.connections)
+
+        self.original_connections = copy.deepcopy(self.nn.connections)
+        self.original_mask_array = copy.deepcopy(self.nn.mask_array)
+
         self.num_correct_answer = 0
-        self.fitness = 0.0
+
+    @property
+    def fitness(self):
+        try:
+            return self.num_correct_answer / LIFETIME_NUM
+        except:
+            return 0.0
+
+    def make_initial_state(self):
+        self.nn.connections = self.original_connections
+        self.nn.mask_array = self.original_mask_array
 
 if __name__=='__main__':
     args = sys.argv
