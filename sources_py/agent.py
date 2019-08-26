@@ -1,3 +1,5 @@
+import copy
+
 from const import *
 from nn import *
 
@@ -31,8 +33,31 @@ class NeuralNetworkAgent:
                     self.nn.connections[r][c] += random.uniform(-0.1,0.1)
                     self.nn.mask_array[r][c] = random.choice([0,1])
             if(random.random() < MUTATION_PROB):
-            self.nn.neurons[r].bias += random.uniform(-0.1,0.1)
+                self.nn.neurons[r].bias += random.uniform(-0.1,0.1)
 
-    def crossover(self,agent_B)]
-        #Agent_Bと交叉を行い、子孫を返す関数です
-        pass
+    def crossover(self,agent_B):
+        for r in range(self.nn.num_of_neuron):
+            for c in range(self.nn.num_of_neuron):
+                self.nn.connections[r][c], self.nn.mask_array[r][c] = \
+                random.choice([ [self.nn.connections[r][c],self.nn.mask_array[r][c]] ,\
+                                [agent_B.nn.connections[r][c],agent_B.nn.mask_array[r][c]] ])
+
+            self.nn.neurons[r].bias = \
+            random.choice( [ self.nn.neurons[r].bias, agent_B.nn.neurons[r].bias ])
+
+
+if __name__=='__main__':
+    a = NeuralNetworkAgent()
+    print("--a--")
+    print(a.nn.mask_array)
+    b = NeuralNetworkAgent()
+    print("--b--")
+    print(b.nn.mask_array)
+
+    #a.mutate()
+    #print("--a--")
+    #print(a.nn.mask_array)
+
+    a.crossover(b)
+    print("-a+b-")
+    print(a.nn.mask_array)
