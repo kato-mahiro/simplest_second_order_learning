@@ -36,14 +36,16 @@ class NeuralNetworkAgent:
                 self.nn.neurons[r].bias += random.uniform(-0.1,0.1)
 
     def crossover(self,agent_B):
+        new_agent = copy.deepcopy(self)
         for r in range(self.nn.num_of_neuron):
             for c in range(self.nn.num_of_neuron):
-                self.nn.connections[r][c], self.nn.mask_array[r][c] = \
+                new_agent.nn.connections[r][c], new_agent.nn.mask_array[r][c] = \
                 random.choice([ [self.nn.connections[r][c],self.nn.mask_array[r][c]] ,\
                                 [agent_B.nn.connections[r][c],agent_B.nn.mask_array[r][c]] ])
 
-            self.nn.neurons[r].bias = \
+            new_agent.nn.neurons[r].bias = \
             random.choice( [ self.nn.neurons[r].bias, agent_B.nn.neurons[r].bias ])
+        return new_agent
 
 
 if __name__=='__main__':
@@ -58,6 +60,9 @@ if __name__=='__main__':
     #print("--a--")
     #print(a.nn.mask_array)
 
-    a.crossover(b)
+    c = a.crossover(b)
     print("-a+b-")
+
+    print(c.nn.mask_array)
+    print("--a--")
     print(a.nn.mask_array)
