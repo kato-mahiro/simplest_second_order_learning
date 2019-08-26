@@ -1,7 +1,7 @@
 from const import *
 from nn import *
 
-class Agent:
+class NeuralNetworkAgent:
     def __init__(self):
         self.nn = NeuralNetwork()
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
