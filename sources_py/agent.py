@@ -1,3 +1,6 @@
+from const import *
+from nn import *
+
 class Agent:
     def __init__(self):
         self.nn = NeuralNetwork()
