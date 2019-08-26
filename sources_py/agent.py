@@ -47,6 +47,26 @@ class NeuralNetworkAgent:
             random.choice( [ self.nn.neurons[r].bias, agent_B.nn.neurons[r].bias ])
         return new_agent
 
+class HebbianNetworkAgent(NeuralNetworkAgent):
+    def __init__(self):
+        self.nn = HebbianNetwork()
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
+        self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
+        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+
+        self.original_connections = copy.deepcopy(self.nn.connections)
+        self.original_mask_array = copy.deepcopy(self.nn.mask_array)
+
+        self.num_correct_answer = 0
+        self.fitness = 0.0
+
+class ModulatedHebbianNetworkAgent_1(HebbianNetworkAgent):
+
 
 if __name__=='__main__':
     a = NeuralNetworkAgent()
