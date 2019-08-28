@@ -168,6 +168,53 @@ class ExtendedHebbianNetworkAgent(NeuralNetworkAgent):
 
         return new_agent
 
+class ModulatedExtendedHebbianNetworkAgent_1(ExtendedHebbianNetworkAgent):
+    def __init__(self):
+        self.nn = ModulatedExtendedHebbianNetwork()
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
+        self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
+        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+        self.nn.push_neuron(Neuron(NeuronType.MODULATION))
+
+        self.original_connections = copy.deepcopy(self.nn.connections)
+        self.original_mask_array = copy.deepcopy(self.nn.mask_array)
+        self.original_A = self.nn.A
+        self.original_B = self.nn.B
+        self.original_C = self.nn.C
+        self.original_D = self.nn.D
+
+        self.num_correct_answer = 0
+        self.fitness = 0.0
+
+class ModulatedExtendedHebbianNetworkAgent_2(ExtendedHebbianNetworkAgent):
+    def __init__(self):
+        self.nn = ModulatedExtendedHebbianNetwork()
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
+        self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
+        self.nn.push_neuron(Neuron(NeuronType.MODULATION))
+        self.nn.push_neuron(Neuron(NeuronType.MODULATION))
+
+        self.original_connections = copy.deepcopy(self.nn.connections)
+        self.original_mask_array = copy.deepcopy(self.nn.mask_array)
+        self.original_A = self.nn.A
+        self.original_B = self.nn.B
+        self.original_C = self.nn.C
+        self.original_D = self.nn.D
+
+        self.num_correct_answer = 0
+        self.fitness = 0.0
+
+        self.num_correct_answer = 0
+        self.fitness = 0.0
+
 if __name__=='__main__':
     a = NeuralNetworkAgent()
     print("--a--")
