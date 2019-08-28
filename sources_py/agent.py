@@ -21,6 +21,8 @@ class NeuralNetworkAgent:
         self.num_correct_answer = 0
         self.fitness = 0.0
 
+        self.lifelog = []
+
     def revert_to_initial_state(self):
         self.nn.connections = self.original_connections
         self.nn.mask_array = self.original_mask_array
@@ -65,6 +67,8 @@ class HebbianNetworkAgent(NeuralNetworkAgent):
         self.num_correct_answer = 0
         self.fitness = 0.0
 
+        self.lifelog = []
+
 class ModulatedHebbianNetworkAgent_1(NeuralNetworkAgent):
     def __init__(self):
         self.nn = ModulatedHebbianNetwork()
@@ -83,6 +87,8 @@ class ModulatedHebbianNetworkAgent_1(NeuralNetworkAgent):
         self.num_correct_answer = 0
         self.fitness = 0.0
 
+        self.lifelog = []
+
 class ModulatedHebbianNetworkAgent_2(NeuralNetworkAgent):
     def __init__(self):
         self.nn = ModulatedHebbianNetwork()
@@ -100,6 +106,8 @@ class ModulatedHebbianNetworkAgent_2(NeuralNetworkAgent):
 
         self.num_correct_answer = 0
         self.fitness = 0.0
+
+        self.lifelog = []
 
 class ExtendedHebbianNetworkAgent(NeuralNetworkAgent):
     def __init__(self):
@@ -122,6 +130,8 @@ class ExtendedHebbianNetworkAgent(NeuralNetworkAgent):
 
         self.num_correct_answer = 0
         self.fitness = 0.0
+
+        self.lifelog = []
 
     def revert_to_initial_state(self):
         self.nn.connections = self.original_connections
@@ -190,6 +200,8 @@ class ModulatedExtendedHebbianNetworkAgent_1(ExtendedHebbianNetworkAgent):
         self.num_correct_answer = 0
         self.fitness = 0.0
 
+        self.lifelog = []
+
 class ModulatedExtendedHebbianNetworkAgent_2(ExtendedHebbianNetworkAgent):
     def __init__(self):
         self.nn = ModulatedExtendedHebbianNetwork()
@@ -214,6 +226,8 @@ class ModulatedExtendedHebbianNetworkAgent_2(ExtendedHebbianNetworkAgent):
 
         self.num_correct_answer = 0
         self.fitness = 0.0
+
+        self.lifelog = []
 
 if __name__=='__main__':
     a = NeuralNetworkAgent()
