@@ -67,7 +67,7 @@ class HebbianNetworkAgent(NeuralNetworkAgent):
 
 class ModulatedHebbianNetworkAgent_1(NeuralNetworkAgent):
     def __init__(self):
-        self.nn = HebbianNetwork()
+        self.nn = ModulatedHebbianNetwork()
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
@@ -85,7 +85,7 @@ class ModulatedHebbianNetworkAgent_1(NeuralNetworkAgent):
 
 class ModulatedHebbianNetworkAgent_2(NeuralNetworkAgent):
     def __init__(self):
-        self.nn = HebbianNetwork()
+        self.nn = ModulatedHebbianNetwork()
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
