@@ -7,7 +7,7 @@ from task import *
 from agent import *
 
 if __name__=='__main__':
-    agents = [ModulatedHebbianNetworkAgent_1() for i in range(POPULATION_NUM)]
+    agents = [ExtendedHebbianNetworkAgent() for i in range(POPULATION_NUM)]
     for g_num in range(GENERATION_NUM):
         task = Task_7(g_num)
 
