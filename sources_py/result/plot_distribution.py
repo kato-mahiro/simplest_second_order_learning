@@ -42,15 +42,14 @@ add_lines = []
 for i in range(500):
     can_lines[i] = int(can_lines[i])
     cannot_lines[i] = int(cannot_lines[i])
-    add_lines.append(can_lines[i] + cannot_lines[i])
     perfect_lines[i] = int(perfect_lines[i])
-
+    add_lines.append(cannot_lines[i] + can_lines[i])
 
 x = np.arange(1,501)
 fig,axes = plt.subplots()
-axes.bar(x, can_lines,width=1.0)
-axes.bar(x, cannot_lines, width=1.0,bottom = can_lines)
-axes.bar(x,perfect_lines, width=1.0,bottom = add_lines)
+axes.bar(x, cannot_lines,width=1.0,color='plum')
+axes.bar(x, can_lines, width=1.0,bottom = cannot_lines,color='aquamarine')
+axes.bar(x,perfect_lines, width=1.0,bottom = add_lines,color='darkblue')
 
 plt.show()
 
