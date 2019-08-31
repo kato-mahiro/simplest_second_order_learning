@@ -21,7 +21,16 @@ class NeuralNetworkAgent:
         self.num_correct_answer = 0
         self.fitness = 0.0
 
-        self.lifelog = []
+        self.answer_history = []
+
+    @property
+    def correct_answer_rate_history(self):
+        l = LIFETIME_NUM // 4
+        rate_1 = sum(self.answer_history[0:l]) / l
+        rate_2 = sum(self.answer_history[l:l*2]) / l
+        rate_3 = sum(self.answer_history[l*2:l*3]) / l
+        rate_4 = sum(self.answer_history[l*3:l*4]) / l
+        return [rate_1, rate_2, rate_3, rate_4]
 
     def revert_to_initial_state(self):
         self.nn.connections = self.original_connections
@@ -67,7 +76,7 @@ class HebbianNetworkAgent(NeuralNetworkAgent):
         self.num_correct_answer = 0
         self.fitness = 0.0
 
-        self.lifelog = []
+        self.answer_history = []
 
 class ModulatedHebbianNetworkAgent_1(NeuralNetworkAgent):
     def __init__(self):
@@ -87,7 +96,7 @@ class ModulatedHebbianNetworkAgent_1(NeuralNetworkAgent):
         self.num_correct_answer = 0
         self.fitness = 0.0
 
-        self.lifelog = []
+        self.answer_history = []
 
 class ModulatedHebbianNetworkAgent_2(NeuralNetworkAgent):
     def __init__(self):
@@ -107,7 +116,7 @@ class ModulatedHebbianNetworkAgent_2(NeuralNetworkAgent):
         self.num_correct_answer = 0
         self.fitness = 0.0
 
-        self.lifelog = []
+        self.answer_history = []
 
 class ExtendedHebbianNetworkAgent(NeuralNetworkAgent):
     def __init__(self):
@@ -131,7 +140,7 @@ class ExtendedHebbianNetworkAgent(NeuralNetworkAgent):
         self.num_correct_answer = 0
         self.fitness = 0.0
 
-        self.lifelog = []
+        self.answer_history = []
 
     def revert_to_initial_state(self):
         self.nn.connections = self.original_connections
@@ -200,7 +209,7 @@ class ModulatedExtendedHebbianNetworkAgent_1(ExtendedHebbianNetworkAgent):
         self.num_correct_answer = 0
         self.fitness = 0.0
 
-        self.lifelog = []
+        self.answer_history = []
 
 class ModulatedExtendedHebbianNetworkAgent_2(ExtendedHebbianNetworkAgent):
     def __init__(self):
@@ -227,7 +236,7 @@ class ModulatedExtendedHebbianNetworkAgent_2(ExtendedHebbianNetworkAgent):
         self.num_correct_answer = 0
         self.fitness = 0.0
 
-        self.lifelog = []
+        self.answer_history = []
 
 if __name__=='__main__':
     a = NeuralNetworkAgent()
