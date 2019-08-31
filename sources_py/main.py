@@ -7,7 +7,7 @@ from task import *
 from agent import *
 
 if __name__=='__main__':
-    agents = [ModulatedExtendedHebbianNetworkAgent_2() for i in range(POPULATION_NUM)]
+    agents = [ModulatedHebbianNetworkAgent_1() for i in range(POPULATION_NUM)]
     for g_num in range(GENERATION_NUM):
         task = Task_2(g_num)
 
@@ -30,6 +30,7 @@ if __name__=='__main__':
         # evolution
         next_agents=[]
         fitness_list = []
+        learning_ability_list = []
         agents = sorted(agents, key=attrgetter('fitness'), reverse=True)
         for i in range(POPULATION_NUM):
             fitness_list.append(agents[i].fitness)
@@ -40,11 +41,21 @@ if __name__=='__main__':
         print('min: ',fitness_list[-1])
         print('ave: ',sum(fitness_list)/len(fitness_list))
 
-        print('history_of_best:',agents[0].correct_answer_rate_history)
-        print('history_of_worst:',agents[-1].correct_answer_rate_history)
+        for a_num in range(POPULATION_NUM):
+            learning_ability_list.append(agents[a_num].is_exis_learning_ability)
+
+        print('can_learning: ', learning_ability_list.count('yes'))
+        print('cannot_learning: ', learning_ability_list.count('no'))
+        print('perfect: ', learning_ability_list.count('unknown'))
+        
+        learning_ability_list = []
+        #print('history_of_best:',agents[0].correct_answer_rate_history)
+        #print(agents[0].is_exis_learning_ability)
+        #print('history_of_worst:',agents[-1].correct_answer_rate_history)
 
         for a_num in range(POPULATION_NUM):
             agents[a_num].answer_history = []
+
 
         next_agents = copy.deepcopy(agents[0:ELITE_NUM]) #エリート選択
         for i in range(POPULATION_NUM - ELITE_NUM):
