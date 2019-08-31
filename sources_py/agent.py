@@ -32,6 +32,15 @@ class NeuralNetworkAgent:
         rate_4 = sum(self.answer_history[l*3:l*4]) / l
         return [rate_1, rate_2, rate_3, rate_4]
 
+    @property 
+    def is_exis_learning_ability(self):
+        if self.correct_answer_rate_history[3] == self.correct_answer_rate_history[0] == 1.0:
+            return 'unknown'
+        elif self.correct_answer_rate_history[3] - self.correct_answer_rate_history[0] > 0.0:
+            return 'yes'
+        else:
+            return 'no'
+
     def revert_to_initial_state(self):
         self.nn.connections = self.original_connections
         self.nn.mask_array = self.original_mask_array
