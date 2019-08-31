@@ -38,12 +38,23 @@ perfect_data = open("perfect","r")
 perfect_lines = perfect_data.readlines()
 perfect_data.close()
 
-x = np.arange(1,501,1)
+add_lines = []
 for i in range(500):
     can_lines[i] = int(can_lines[i])
     cannot_lines[i] = int(cannot_lines[i])
+    add_lines.append(can_lines[i] + cannot_lines[i])
     perfect_lines[i] = int(perfect_lines[i])
 
+
+x = np.arange(1,501)
+fig,axes = plt.subplots()
+axes.bar(x, can_lines,width=1.0)
+axes.bar(x, cannot_lines, width=1.0,bottom = can_lines)
+axes.bar(x,perfect_lines, width=1.0,bottom = add_lines)
+
+plt.show()
+
+"""
 can_ave_line = [sum(can_lines)/len(can_lines) for i in range(len(can_lines))]
 cannot_cannot_line = [sum(cannot_lines)/len(cannot_lines) for i in range(len(cannot_lines))]
 perfect_ave_line = [sum(perfect_lines)/len(perfect_lines) for i in range(len(perfect_lines))]
@@ -75,3 +86,4 @@ print('perfect-max:',max(perfect_lines))
 
 plt.legend()
 plt.show()
+"""
