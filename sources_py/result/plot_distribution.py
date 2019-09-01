@@ -1,6 +1,8 @@
 import os
 import sys
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 args = sys.argv
@@ -52,4 +54,5 @@ axes.bar(x, can_lines, width=1.0,bottom = cannot_lines,color='aquamarine',label=
 axes.bar(x,perfect_lines, width=1.0,bottom = add_lines,color='darkblue',label="perfect")
 
 plt.legend()
-plt.show()
+#plt.show()
+plt.savefig('./graphs/' + args[1] + '_distribution.png')

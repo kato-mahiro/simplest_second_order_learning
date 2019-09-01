@@ -75,4 +75,4 @@ print('ave-max:',max(ave_lines))
 
 plt.legend()
 #plt.show()
-plt.savefig('./graphs/' + args[1] + '.png')
+elt.savefig('./graphs/' + args[1] + '_result.png')
