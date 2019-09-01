@@ -1,0 +1,3522 @@
+ --- generation:  1 ---
+max:  1.0
+min:  0.31
+ave:  0.5196
+can_learning:  24
+cannot_learning:  25
+perfect:  1
+ --- generation:  2 ---
+max:  1.0
+min:  0.03
+ave:  0.495
+can_learning:  18
+cannot_learning:  31
+perfect:  1
+ --- generation:  3 ---
+max:  1.0
+min:  0.22
+ave:  0.5372
+can_learning:  18
+cannot_learning:  29
+perfect:  3
+ --- generation:  4 ---
+max:  1.0
+min:  0.06
+ave:  0.5636000000000001
+can_learning:  21
+cannot_learning:  24
+perfect:  5
+ --- generation:  5 ---
+max:  1.0
+min:  0.37
+ave:  0.6184000000000003
+can_learning:  22
+cannot_learning:  22
+perfect:  6
+ --- generation:  6 ---
+max:  1.0
+min:  0.0
+ave:  0.6134
+can_learning:  22
+cannot_learning:  20
+perfect:  8
+ --- generation:  7 ---
+max:  1.0
+min:  0.09
+ave:  0.6502000000000002
+can_learning:  21
+cannot_learning:  19
+perfect:  10
+ --- generation:  8 ---
+max:  1.0
+min:  0.07
+ave:  0.6772
+can_learning:  13
+cannot_learning:  23
+perfect:  14
+ --- generation:  9 ---
+max:  1.0
+min:  0.14
+ave:  0.7676000000000002
+can_learning:  13
+cannot_learning:  16
+perfect:  21
+ --- generation:  10 ---
+max:  1.0
+min:  0.15
+ave:  0.7443999999999997
+can_learning:  17
+cannot_learning:  18
+perfect:  15
+ --- generation:  11 ---
+max:  1.0
+min:  0.22
+ave:  0.7292000000000002
+can_learning:  12
+cannot_learning:  22
+perfect:  16
+ --- generation:  12 ---
+max:  1.0
+min:  0.2
+ave:  0.7634000000000001
+can_learning:  12
+cannot_learning:  24
+perfect:  14
+ --- generation:  13 ---
+max:  1.0
+min:  0.45
+ave:  0.8546000000000002
+can_learning:  9
+cannot_learning:  15
+perfect:  26
+ --- generation:  14 ---
+max:  1.0
+min:  0.16
+ave:  0.8441999999999993
+can_learning:  13
+cannot_learning:  14
+perfect:  23
+ --- generation:  15 ---
+max:  1.0
+min:  0.31
+ave:  0.8610000000000001
+can_learning:  7
+cannot_learning:  14
+perfect:  29
+ --- generation:  16 ---
+max:  1.0
+min:  0.13
+ave:  0.8621999999999997
+can_learning:  11
+cannot_learning:  12
+perfect:  27
+ --- generation:  17 ---
+max:  1.0
+min:  0.45
+ave:  0.8625999999999999
+can_learning:  10
+cannot_learning:  19
+perfect:  21
+ --- generation:  18 ---
+max:  1.0
+min:  0.43
+ave:  0.8286
+can_learning:  9
+cannot_learning:  18
+perfect:  23
+ --- generation:  19 ---
+max:  1.0
+min:  0.46
+ave:  0.9164000000000003
+can_learning:  10
+cannot_learning:  9
+perfect:  31
+ --- generation:  20 ---
+max:  1.0
+min:  0.41
+ave:  0.9285999999999998
+can_learning:  10
+cannot_learning:  10
+perfect:  30
+ --- generation:  21 ---
+max:  1.0
+min:  0.44
+ave:  0.9224
+can_learning:  17
+cannot_learning:  8
+perfect:  25
+ --- generation:  22 ---
+max:  1.0
+min:  0.56
+ave:  0.9456000000000003
+can_learning:  12
+cannot_learning:  9
+perfect:  29
+ --- generation:  23 ---
+max:  1.0
+min:  0.47
+ave:  0.9454000000000005
+can_learning:  9
+cannot_learning:  5
+perfect:  36
+ --- generation:  24 ---
+max:  1.0
+min:  0.44
+ave:  0.9730000000000003
+can_learning:  6
+cannot_learning:  5
+perfect:  39
+ --- generation:  25 ---
+max:  1.0
+min:  0.43
+ave:  0.9662000000000003
+can_learning:  10
+cannot_learning:  4
+perfect:  36
+ --- generation:  26 ---
+max:  1.0
+min:  0.57
+ave:  0.9786
+can_learning:  4
+cannot_learning:  4
+perfect:  42
+ --- generation:  27 ---
+max:  1.0
+min:  0.61
+ave:  0.9906000000000003
+can_learning:  9
+cannot_learning:  0
+perfect:  41
+ --- generation:  28 ---
+max:  1.0
+min:  0.56
+ave:  0.9558000000000004
+can_learning:  11
+cannot_learning:  6
+perfect:  33
+ --- generation:  29 ---
+max:  1.0
+min:  0.43
+ave:  0.9586000000000002
+can_learning:  8
+cannot_learning:  8
+perfect:  34
+ --- generation:  30 ---
+max:  1.0
+min:  0.16
+ave:  0.9676
+can_learning:  6
+cannot_learning:  5
+perfect:  39
+ --- generation:  31 ---
+max:  1.0
+min:  0.71
+ave:  0.9816000000000001
+can_learning:  3
+cannot_learning:  4
+perfect:  43
+ --- generation:  32 ---
+max:  1.0
+min:  0.57
+ave:  0.9834000000000002
+can_learning:  7
+cannot_learning:  3
+perfect:  40
+ --- generation:  33 ---
+max:  1.0
+min:  0.7
+ave:  0.9894000000000003
+can_learning:  7
+cannot_learning:  2
+perfect:  41
+ --- generation:  34 ---
+max:  1.0
+min:  0.58
+ave:  0.9772000000000004
+can_learning:  12
+cannot_learning:  3
+perfect:  35
+ --- generation:  35 ---
+max:  1.0
+min:  0.41
+ave:  0.9826000000000004
+can_learning:  9
+cannot_learning:  2
+perfect:  39
+ --- generation:  36 ---
+max:  1.0
+min:  0.49
+ave:  0.9802000000000004
+can_learning:  9
+cannot_learning:  2
+perfect:  39
+ --- generation:  37 ---
+max:  1.0
+min:  0.66
+ave:  0.9892000000000004
+can_learning:  14
+cannot_learning:  1
+perfect:  35
+ --- generation:  38 ---
+max:  1.0
+min:  0.52
+ave:  0.9722000000000005
+can_learning:  17
+cannot_learning:  2
+perfect:  31
+ --- generation:  39 ---
+max:  1.0
+min:  0.51
+ave:  0.9690000000000003
+can_learning:  15
+cannot_learning:  1
+perfect:  34
+ --- generation:  40 ---
+max:  1.0
+min:  0.41
+ave:  0.9672000000000004
+can_learning:  8
+cannot_learning:  5
+perfect:  37
+ --- generation:  41 ---
+max:  1.0
+min:  0.51
+ave:  0.9792000000000006
+can_learning:  15
+cannot_learning:  1
+perfect:  34
+ --- generation:  42 ---
+max:  1.0
+min:  0.37
+ave:  0.9666000000000003
+can_learning:  12
+cannot_learning:  3
+perfect:  35
+ --- generation:  43 ---
+max:  1.0
+min:  0.57
+ave:  0.9808000000000006
+can_learning:  18
+cannot_learning:  2
+perfect:  30
+ --- generation:  44 ---
+max:  1.0
+min:  0.99
+ave:  0.9980000000000004
+can_learning:  10
+cannot_learning:  0
+perfect:  40
+ --- generation:  45 ---
+max:  1.0
+min:  0.96
+ave:  0.9970000000000004
+can_learning:  11
+cannot_learning:  0
+perfect:  39
+ --- generation:  46 ---
+max:  1.0
+min:  0.88
+ave:  0.9966000000000003
+can_learning:  5
+cannot_learning:  0
+perfect:  45
+ --- generation:  47 ---
+max:  1.0
+min:  0.69
+ave:  0.9838000000000003
+can_learning:  11
+cannot_learning:  4
+perfect:  35
+ --- generation:  48 ---
+max:  1.0
+min:  0.49
+ave:  0.9612000000000003
+can_learning:  12
+cannot_learning:  7
+perfect:  31
+ --- generation:  49 ---
+max:  1.0
+min:  0.51
+ave:  0.9820000000000003
+can_learning:  10
+cannot_learning:  4
+perfect:  36
+ --- generation:  50 ---
+max:  1.0
+min:  0.98
+ave:  0.9978000000000002
+can_learning:  9
+cannot_learning:  1
+perfect:  40
+ --- generation:  51 ---
+max:  1.0
+min:  0.7
+ave:  0.9832000000000005
+can_learning:  12
+cannot_learning:  4
+perfect:  34
+ --- generation:  52 ---
+max:  1.0
+min:  0.52
+ave:  0.9748000000000006
+can_learning:  11
+cannot_learning:  5
+perfect:  34
+ --- generation:  53 ---
+max:  1.0
+min:  0.7
+ave:  0.9852000000000003
+can_learning:  7
+cannot_learning:  3
+perfect:  40
+ --- generation:  54 ---
+max:  1.0
+min:  0.51
+ave:  0.9856000000000005
+can_learning:  11
+cannot_learning:  2
+perfect:  37
+ --- generation:  55 ---
+max:  1.0
+min:  0.57
+ave:  0.9748000000000004
+can_learning:  12
+cannot_learning:  5
+perfect:  33
+ --- generation:  56 ---
+max:  1.0
+min:  0.57
+ave:  0.9756000000000004
+can_learning:  10
+cannot_learning:  4
+perfect:  36
+ --- generation:  57 ---
+max:  1.0
+min:  0.92
+ave:  0.9962000000000004
+can_learning:  11
+cannot_learning:  1
+perfect:  38
+ --- generation:  58 ---
+max:  1.0
+min:  0.71
+ave:  0.9854000000000004
+can_learning:  6
+cannot_learning:  3
+perfect:  41
+ --- generation:  59 ---
+max:  1.0
+min:  0.64
+ave:  0.9858000000000005
+can_learning:  9
+cannot_learning:  2
+perfect:  39
+ --- generation:  60 ---
+max:  1.0
+min:  0.55
+ave:  0.9796000000000002
+can_learning:  7
+cannot_learning:  3
+perfect:  40
+ --- generation:  61 ---
+max:  1.0
+min:  0.61
+ave:  0.9882000000000002
+can_learning:  10
+cannot_learning:  1
+perfect:  39
+ --- generation:  62 ---
+max:  1.0
+min:  0.65
+ave:  0.9768000000000002
+can_learning:  14
+cannot_learning:  1
+perfect:  35
+ --- generation:  63 ---
+max:  1.0
+min:  0.49
+ave:  0.9654000000000004
+can_learning:  17
+cannot_learning:  7
+perfect:  26
+ --- generation:  64 ---
+max:  1.0
+min:  0.53
+ave:  0.9772000000000005
+can_learning:  15
+cannot_learning:  3
+perfect:  32
+ --- generation:  65 ---
+max:  1.0
+min:  0.88
+ave:  0.9882000000000005
+can_learning:  20
+cannot_learning:  0
+perfect:  30
+ --- generation:  66 ---
+max:  1.0
+min:  0.97
+ave:  0.9954000000000004
+can_learning:  17
+cannot_learning:  0
+perfect:  33
+ --- generation:  67 ---
+max:  1.0
+min:  0.94
+ave:  0.9940000000000002
+can_learning:  13
+cannot_learning:  2
+perfect:  35
+ --- generation:  68 ---
+max:  1.0
+min:  0.5
+ave:  0.9820000000000003
+can_learning:  13
+cannot_learning:  2
+perfect:  35
+ --- generation:  69 ---
+max:  1.0
+min:  0.54
+ave:  0.9874000000000004
+can_learning:  12
+cannot_learning:  1
+perfect:  37
+ --- generation:  70 ---
+max:  1.0
+min:  0.54
+ave:  0.9872000000000001
+can_learning:  6
+cannot_learning:  1
+perfect:  43
+ --- generation:  71 ---
+max:  1.0
+min:  0.85
+ave:  0.9944000000000002
+can_learning:  11
+cannot_learning:  0
+perfect:  39
+ --- generation:  72 ---
+max:  1.0
+min:  0.87
+ave:  0.9932000000000001
+can_learning:  9
+cannot_learning:  0
+perfect:  41
+ --- generation:  73 ---
+max:  1.0
+min:  0.88
+ave:  0.9956000000000003
+can_learning:  7
+cannot_learning:  0
+perfect:  43
+ --- generation:  74 ---
+max:  1.0
+min:  0.82
+ave:  0.9912000000000001
+can_learning:  5
+cannot_learning:  1
+perfect:  44
+ --- generation:  75 ---
+max:  1.0
+min:  0.56
+ave:  0.9838000000000001
+can_learning:  3
+cannot_learning:  3
+perfect:  44
+ --- generation:  76 ---
+max:  1.0
+min:  0.99
+ave:  0.9992000000000002
+can_learning:  4
+cannot_learning:  0
+perfect:  46
+ --- generation:  77 ---
+max:  1.0
+min:  0.99
+ave:  0.9992000000000002
+can_learning:  4
+cannot_learning:  0
+perfect:  46
+ --- generation:  78 ---
+max:  1.0
+min:  0.88
+ave:  0.9972000000000001
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  79 ---
+max:  1.0
+min:  0.64
+ave:  0.9920000000000002
+can_learning:  4
+cannot_learning:  1
+perfect:  45
+ --- generation:  80 ---
+max:  1.0
+min:  0.64
+ave:  0.9846000000000003
+can_learning:  7
+cannot_learning:  3
+perfect:  40
+ --- generation:  81 ---
+max:  1.0
+min:  0.63
+ave:  0.9872000000000003
+can_learning:  5
+cannot_learning:  2
+perfect:  43
+ --- generation:  82 ---
+max:  1.0
+min:  0.63
+ave:  0.9848000000000002
+can_learning:  3
+cannot_learning:  2
+perfect:  45
+ --- generation:  83 ---
+max:  1.0
+min:  0.64
+ave:  0.9888000000000001
+can_learning:  1
+cannot_learning:  2
+perfect:  47
+ --- generation:  84 ---
+max:  1.0
+min:  0.6
+ave:  0.9918
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  85 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  2
+cannot_learning:  0
+perfect:  48
+ --- generation:  86 ---
+max:  1.0
+min:  0.99
+ave:  0.9994000000000001
+can_learning:  3
+cannot_learning:  0
+perfect:  47
+ --- generation:  87 ---
+max:  1.0
+min:  0.99
+ave:  0.9990000000000002
+can_learning:  5
+cannot_learning:  0
+perfect:  45
+ --- generation:  88 ---
+max:  1.0
+min:  0.99
+ave:  0.9984000000000003
+can_learning:  8
+cannot_learning:  0
+perfect:  42
+ --- generation:  89 ---
+max:  1.0
+min:  0.91
+ave:  0.9970000000000002
+can_learning:  6
+cannot_learning:  1
+perfect:  43
+ --- generation:  90 ---
+max:  1.0
+min:  0.99
+ave:  0.9988000000000002
+can_learning:  6
+cannot_learning:  0
+perfect:  44
+ --- generation:  91 ---
+max:  1.0
+min:  0.86
+ave:  0.9958000000000002
+can_learning:  7
+cannot_learning:  1
+perfect:  42
+ --- generation:  92 ---
+max:  1.0
+min:  0.99
+ave:  0.9992000000000002
+can_learning:  4
+cannot_learning:  0
+perfect:  46
+ --- generation:  93 ---
+max:  1.0
+min:  0.99
+ave:  0.9992000000000002
+can_learning:  4
+cannot_learning:  0
+perfect:  46
+ --- generation:  94 ---
+max:  1.0
+min:  0.99
+ave:  0.9982000000000003
+can_learning:  9
+cannot_learning:  0
+perfect:  41
+ --- generation:  95 ---
+max:  1.0
+min:  0.68
+ave:  0.9854000000000004
+can_learning:  7
+cannot_learning:  3
+perfect:  40
+ --- generation:  96 ---
+max:  1.0
+min:  0.67
+ave:  0.9858000000000002
+can_learning:  8
+cannot_learning:  3
+perfect:  39
+ --- generation:  97 ---
+max:  1.0
+min:  0.92
+ave:  0.9970000000000003
+can_learning:  7
+cannot_learning:  1
+perfect:  42
+ --- generation:  98 ---
+max:  1.0
+min:  0.83
+ave:  0.9956000000000002
+can_learning:  5
+cannot_learning:  1
+perfect:  44
+ --- generation:  99 ---
+max:  1.0
+min:  0.9
+ave:  0.9968000000000002
+can_learning:  6
+cannot_learning:  1
+perfect:  43
+ --- generation:  100 ---
+max:  1.0
+min:  0.65
+ave:  0.9916000000000003
+can_learning:  8
+cannot_learning:  0
+perfect:  42
+ --- generation:  101 ---
+max:  1.0
+min:  0.67
+ave:  0.9888000000000001
+can_learning:  4
+cannot_learning:  3
+perfect:  43
+ --- generation:  102 ---
+max:  1.0
+min:  0.62
+ave:  0.9906000000000001
+can_learning:  5
+cannot_learning:  2
+perfect:  43
+ --- generation:  103 ---
+max:  1.0
+min:  0.99
+ave:  0.9992000000000002
+can_learning:  4
+cannot_learning:  0
+perfect:  46
+ --- generation:  104 ---
+max:  1.0
+min:  0.62
+ave:  0.9854
+can_learning:  3
+cannot_learning:  3
+perfect:  44
+ --- generation:  105 ---
+max:  1.0
+min:  0.74
+ave:  0.9936000000000003
+can_learning:  6
+cannot_learning:  1
+perfect:  43
+ --- generation:  106 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  2
+cannot_learning:  0
+perfect:  48
+ --- generation:  107 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  108 ---
+max:  1.0
+min:  0.75
+ave:  0.9940000000000002
+can_learning:  5
+cannot_learning:  1
+perfect:  44
+ --- generation:  109 ---
+max:  1.0
+min:  0.99
+ave:  0.9984000000000003
+can_learning:  8
+cannot_learning:  0
+perfect:  42
+ --- generation:  110 ---
+max:  1.0
+min:  0.99
+ave:  0.9978000000000005
+can_learning:  11
+cannot_learning:  0
+perfect:  39
+ --- generation:  111 ---
+max:  1.0
+min:  0.99
+ave:  0.9988000000000002
+can_learning:  6
+cannot_learning:  0
+perfect:  44
+ --- generation:  112 ---
+max:  1.0
+min:  0.54
+ave:  0.9902000000000001
+can_learning:  3
+cannot_learning:  1
+perfect:  46
+ --- generation:  113 ---
+max:  1.0
+min:  0.99
+ave:  0.9994000000000001
+can_learning:  3
+cannot_learning:  0
+perfect:  47
+ --- generation:  114 ---
+max:  1.0
+min:  0.5
+ave:  0.9884000000000003
+can_learning:  9
+cannot_learning:  0
+perfect:  41
+ --- generation:  115 ---
+max:  1.0
+min:  0.57
+ave:  0.9866000000000003
+can_learning:  7
+cannot_learning:  1
+perfect:  42
+ --- generation:  116 ---
+max:  1.0
+min:  0.6
+ave:  0.9866000000000006
+can_learning:  12
+cannot_learning:  2
+perfect:  36
+ --- generation:  117 ---
+max:  1.0
+min:  0.69
+ave:  0.9878000000000003
+can_learning:  9
+cannot_learning:  2
+perfect:  39
+ --- generation:  118 ---
+max:  1.0
+min:  0.74
+ave:  0.9922000000000005
+can_learning:  13
+cannot_learning:  1
+perfect:  36
+ --- generation:  119 ---
+max:  1.0
+min:  0.48
+ave:  0.9802000000000004
+can_learning:  11
+cannot_learning:  2
+perfect:  37
+ --- generation:  120 ---
+max:  1.0
+min:  0.9
+ave:  0.9962000000000003
+can_learning:  9
+cannot_learning:  1
+perfect:  40
+ --- generation:  121 ---
+max:  1.0
+min:  0.57
+ave:  0.9848
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  122 ---
+max:  1.0
+min:  0.56
+ave:  0.9850000000000004
+can_learning:  9
+cannot_learning:  2
+perfect:  39
+ --- generation:  123 ---
+max:  1.0
+min:  0.74
+ave:  0.9936000000000003
+can_learning:  6
+cannot_learning:  1
+perfect:  43
+ --- generation:  124 ---
+max:  1.0
+min:  0.62
+ave:  0.9798000000000002
+can_learning:  4
+cannot_learning:  2
+perfect:  44
+ --- generation:  125 ---
+max:  1.0
+min:  0.62
+ave:  0.9878000000000001
+can_learning:  4
+cannot_learning:  2
+perfect:  44
+ --- generation:  126 ---
+max:  1.0
+min:  0.63
+ave:  0.9814
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  127 ---
+max:  1.0
+min:  0.69
+ave:  0.9894000000000002
+can_learning:  5
+cannot_learning:  3
+perfect:  42
+ --- generation:  128 ---
+max:  1.0
+min:  0.59
+ave:  0.9882000000000002
+can_learning:  3
+cannot_learning:  3
+perfect:  44
+ --- generation:  129 ---
+max:  1.0
+min:  0.76
+ave:  0.9892
+can_learning:  2
+cannot_learning:  3
+perfect:  45
+ --- generation:  130 ---
+max:  1.0
+min:  0.72
+ave:  0.9908
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  131 ---
+max:  1.0
+min:  0.98
+ave:  0.9992
+can_learning:  1
+cannot_learning:  2
+perfect:  47
+ --- generation:  132 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  133 ---
+max:  1.0
+min:  0.99
+ave:  0.9994000000000001
+can_learning:  3
+cannot_learning:  0
+perfect:  47
+ --- generation:  134 ---
+max:  1.0
+min:  0.83
+ave:  0.996
+can_learning:  1
+cannot_learning:  2
+perfect:  47
+ --- generation:  135 ---
+max:  1.0
+min:  0.99
+ave:  0.9994000000000001
+can_learning:  3
+cannot_learning:  0
+perfect:  47
+ --- generation:  136 ---
+max:  1.0
+min:  0.82
+ave:  0.9958000000000001
+can_learning:  3
+cannot_learning:  1
+perfect:  46
+ --- generation:  137 ---
+max:  1.0
+min:  0.42
+ave:  0.9792000000000002
+can_learning:  3
+cannot_learning:  2
+perfect:  45
+ --- generation:  138 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  139 ---
+max:  1.0
+min:  0.65
+ave:  0.9918
+can_learning:  3
+cannot_learning:  2
+perfect:  45
+ --- generation:  140 ---
+max:  1.0
+min:  0.75
+ave:  0.9938000000000001
+can_learning:  1
+cannot_learning:  2
+perfect:  47
+ --- generation:  141 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  2
+cannot_learning:  0
+perfect:  48
+ --- generation:  142 ---
+max:  1.0
+min:  0.89
+ave:  0.9976
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  143 ---
+max:  1.0
+min:  0.63
+ave:  0.987
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  144 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  2
+cannot_learning:  0
+perfect:  48
+ --- generation:  145 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  146 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  147 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  2
+cannot_learning:  0
+perfect:  48
+ --- generation:  148 ---
+max:  1.0
+min:  0.53
+ave:  0.9900000000000001
+can_learning:  3
+cannot_learning:  1
+perfect:  46
+ --- generation:  149 ---
+max:  1.0
+min:  0.72
+ave:  0.9942
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  150 ---
+max:  1.0
+min:  0.63
+ave:  0.9926
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  151 ---
+max:  1.0
+min:  0.78
+ave:  0.9956
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  152 ---
+max:  1.0
+min:  0.7
+ave:  0.9936000000000001
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  153 ---
+max:  1.0
+min:  0.61
+ave:  0.9912000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  154 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  155 ---
+max:  1.0
+min:  0.95
+ave:  0.9988000000000001
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  156 ---
+max:  1.0
+min:  0.59
+ave:  0.9910000000000002
+can_learning:  4
+cannot_learning:  1
+perfect:  45
+ --- generation:  157 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  158 ---
+max:  1.0
+min:  0.74
+ave:  0.9944000000000002
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  159 ---
+max:  1.0
+min:  0.99
+ave:  0.9994000000000001
+can_learning:  3
+cannot_learning:  0
+perfect:  47
+ --- generation:  160 ---
+max:  1.0
+min:  0.97
+ave:  0.9986000000000002
+can_learning:  4
+cannot_learning:  1
+perfect:  45
+ --- generation:  161 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  162 ---
+max:  1.0
+min:  0.93
+ave:  0.9982000000000001
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  163 ---
+max:  1.0
+min:  0.63
+ave:  0.9858000000000001
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  164 ---
+max:  1.0
+min:  0.65
+ave:  0.9906
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  165 ---
+max:  1.0
+min:  0.7
+ave:  0.9938000000000001
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  166 ---
+max:  1.0
+min:  0.61
+ave:  0.9764
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  167 ---
+max:  1.0
+min:  0.57
+ave:  0.9840000000000001
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  168 ---
+max:  1.0
+min:  0.54
+ave:  0.9873999999999999
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  169 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  170 ---
+max:  1.0
+min:  0.65
+ave:  0.9861999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  171 ---
+max:  1.0
+min:  0.6
+ave:  0.9786
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  172 ---
+max:  1.0
+min:  0.89
+ave:  0.997
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  173 ---
+max:  1.0
+min:  0.85
+ave:  0.9968
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  174 ---
+max:  1.0
+min:  0.61
+ave:  0.9912000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  175 ---
+max:  1.0
+min:  0.55
+ave:  0.9551999999999999
+can_learning:  0
+cannot_learning:  8
+perfect:  42
+ --- generation:  176 ---
+max:  1.0
+min:  0.42
+ave:  0.9494000000000001
+can_learning:  0
+cannot_learning:  7
+perfect:  43
+ --- generation:  177 ---
+max:  1.0
+min:  0.59
+ave:  0.9772
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  178 ---
+max:  1.0
+min:  0.55
+ave:  0.966
+can_learning:  0
+cannot_learning:  7
+perfect:  43
+ --- generation:  179 ---
+max:  1.0
+min:  0.68
+ave:  0.9872000000000001
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  180 ---
+max:  1.0
+min:  0.61
+ave:  0.9898
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  181 ---
+max:  1.0
+min:  0.66
+ave:  0.9932
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  182 ---
+max:  1.0
+min:  0.61
+ave:  0.9793999999999999
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  183 ---
+max:  1.0
+min:  0.59
+ave:  0.9790000000000001
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  184 ---
+max:  1.0
+min:  0.64
+ave:  0.9803999999999999
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  185 ---
+max:  1.0
+min:  0.57
+ave:  0.9834
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  186 ---
+max:  1.0
+min:  0.65
+ave:  0.991
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  187 ---
+max:  1.0
+min:  0.53
+ave:  0.9692000000000001
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  188 ---
+max:  1.0
+min:  0.6
+ave:  0.9818000000000001
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  189 ---
+max:  1.0
+min:  0.58
+ave:  0.9792000000000001
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  190 ---
+max:  1.0
+min:  0.56
+ave:  0.988
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  191 ---
+max:  1.0
+min:  0.52
+ave:  0.9786
+can_learning:  2
+cannot_learning:  4
+perfect:  44
+ --- generation:  192 ---
+max:  1.0
+min:  0.57
+ave:  0.9762000000000002
+can_learning:  3
+cannot_learning:  3
+perfect:  44
+ --- generation:  193 ---
+max:  1.0
+min:  0.5
+ave:  0.9816000000000001
+can_learning:  3
+cannot_learning:  3
+perfect:  44
+ --- generation:  194 ---
+max:  1.0
+min:  0.56
+ave:  0.9780000000000001
+can_learning:  3
+cannot_learning:  2
+perfect:  45
+ --- generation:  195 ---
+max:  1.0
+min:  0.61
+ave:  0.9846000000000003
+can_learning:  6
+cannot_learning:  1
+perfect:  43
+ --- generation:  196 ---
+max:  1.0
+min:  0.53
+ave:  0.9676000000000002
+can_learning:  3
+cannot_learning:  4
+perfect:  43
+ --- generation:  197 ---
+max:  1.0
+min:  0.63
+ave:  0.9830000000000004
+can_learning:  7
+cannot_learning:  3
+perfect:  40
+ --- generation:  198 ---
+max:  1.0
+min:  0.54
+ave:  0.9898
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  199 ---
+max:  1.0
+min:  0.58
+ave:  0.9838000000000001
+can_learning:  5
+cannot_learning:  2
+perfect:  43
+ --- generation:  200 ---
+max:  1.0
+min:  0.98
+ave:  0.9992
+can_learning:  3
+cannot_learning:  0
+perfect:  47
+ --- generation:  201 ---
+max:  1.0
+min:  0.92
+ave:  0.9972000000000003
+can_learning:  7
+cannot_learning:  0
+perfect:  43
+ --- generation:  202 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  2
+cannot_learning:  0
+perfect:  48
+ --- generation:  203 ---
+max:  1.0
+min:  0.58
+ave:  0.987
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  204 ---
+max:  1.0
+min:  0.61
+ave:  0.9866000000000001
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  205 ---
+max:  1.0
+min:  0.59
+ave:  0.9912000000000002
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  206 ---
+max:  1.0
+min:  0.83
+ave:  0.9965999999999999
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  207 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  2
+cannot_learning:  0
+perfect:  48
+ --- generation:  208 ---
+max:  1.0
+min:  0.98
+ave:  0.9990000000000001
+can_learning:  3
+cannot_learning:  1
+perfect:  46
+ --- generation:  209 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  2
+cannot_learning:  0
+perfect:  48
+ --- generation:  210 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  2
+cannot_learning:  0
+perfect:  48
+ --- generation:  211 ---
+max:  1.0
+min:  0.57
+ave:  0.9914000000000001
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  212 ---
+max:  1.0
+min:  0.56
+ave:  0.9830000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  213 ---
+max:  1.0
+min:  0.59
+ave:  0.9844000000000002
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  214 ---
+max:  1.0
+min:  0.52
+ave:  0.9648000000000003
+can_learning:  4
+cannot_learning:  5
+perfect:  41
+ --- generation:  215 ---
+max:  1.0
+min:  0.57
+ave:  0.9704
+can_learning:  1
+cannot_learning:  4
+perfect:  45
+ --- generation:  216 ---
+max:  1.0
+min:  0.5
+ave:  0.9754
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  217 ---
+max:  1.0
+min:  0.59
+ave:  0.9856
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  218 ---
+max:  1.0
+min:  0.57
+ave:  0.9765999999999999
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  219 ---
+max:  1.0
+min:  0.58
+ave:  0.9772
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  220 ---
+max:  1.0
+min:  0.51
+ave:  0.9811999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  221 ---
+max:  1.0
+min:  0.55
+ave:  0.9688
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  222 ---
+max:  1.0
+min:  0.56
+ave:  0.9746000000000001
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  223 ---
+max:  1.0
+min:  0.64
+ave:  0.987
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  224 ---
+max:  1.0
+min:  0.47
+ave:  0.9757999999999999
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  225 ---
+max:  1.0
+min:  0.64
+ave:  0.9872
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  226 ---
+max:  1.0
+min:  0.62
+ave:  0.973
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  227 ---
+max:  1.0
+min:  0.62
+ave:  0.9924
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  228 ---
+max:  1.0
+min:  0.66
+ave:  0.9932
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  229 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  230 ---
+max:  1.0
+min:  0.88
+ave:  0.9976
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  231 ---
+max:  1.0
+min:  0.56
+ave:  0.9910000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  232 ---
+max:  1.0
+min:  0.94
+ave:  0.9987999999999999
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  233 ---
+max:  1.0
+min:  0.55
+ave:  0.9546000000000001
+can_learning:  0
+cannot_learning:  6
+perfect:  44
+ --- generation:  234 ---
+max:  1.0
+min:  0.57
+ave:  0.9842
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  235 ---
+max:  1.0
+min:  0.53
+ave:  0.9814
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  236 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  237 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  238 ---
+max:  1.0
+min:  0.53
+ave:  0.9828
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  239 ---
+max:  1.0
+min:  0.5
+ave:  0.99
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  240 ---
+max:  1.0
+min:  0.51
+ave:  0.949
+can_learning:  1
+cannot_learning:  5
+perfect:  44
+ --- generation:  241 ---
+max:  1.0
+min:  0.53
+ave:  0.9688000000000001
+can_learning:  0
+cannot_learning:  6
+perfect:  44
+ --- generation:  242 ---
+max:  1.0
+min:  0.36
+ave:  0.9623999999999999
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  243 ---
+max:  1.0
+min:  0.5
+ave:  0.9662000000000001
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  244 ---
+max:  1.0
+min:  0.48
+ave:  0.9717999999999999
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  245 ---
+max:  1.0
+min:  0.57
+ave:  0.9848
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  246 ---
+max:  1.0
+min:  0.63
+ave:  0.9786000000000001
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  247 ---
+max:  1.0
+min:  0.62
+ave:  0.9924
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  248 ---
+max:  1.0
+min:  0.66
+ave:  0.9932
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  249 ---
+max:  1.0
+min:  0.62
+ave:  0.9847999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  250 ---
+max:  1.0
+min:  0.59
+ave:  0.9778
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  251 ---
+max:  1.0
+min:  0.52
+ave:  0.9904000000000001
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  252 ---
+max:  1.0
+min:  0.66
+ave:  0.993
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  253 ---
+max:  1.0
+min:  0.84
+ave:  0.9968
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  254 ---
+max:  1.0
+min:  0.49
+ave:  0.9832000000000001
+can_learning:  1
+cannot_learning:  2
+perfect:  47
+ --- generation:  255 ---
+max:  1.0
+min:  0.63
+ave:  0.9812000000000001
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  256 ---
+max:  1.0
+min:  0.55
+ave:  0.9753999999999999
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  257 ---
+max:  1.0
+min:  0.57
+ave:  0.9854
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  258 ---
+max:  1.0
+min:  0.59
+ave:  0.9918
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  259 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  260 ---
+max:  1.0
+min:  0.45
+ave:  0.9890000000000001
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  261 ---
+max:  1.0
+min:  0.55
+ave:  0.991
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  262 ---
+max:  1.0
+min:  0.56
+ave:  0.9832000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  263 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  264 ---
+max:  1.0
+min:  0.5
+ave:  0.9814
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  265 ---
+max:  1.0
+min:  0.51
+ave:  0.9758
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  266 ---
+max:  1.0
+min:  0.51
+ave:  0.9884000000000001
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  267 ---
+max:  1.0
+min:  0.64
+ave:  0.9915999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  268 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  269 ---
+max:  1.0
+min:  0.88
+ave:  0.9972000000000001
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  270 ---
+max:  1.0
+min:  0.59
+ave:  0.9918
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  271 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  272 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  273 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  274 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  275 ---
+max:  1.0
+min:  0.51
+ave:  0.9898
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  276 ---
+max:  1.0
+min:  0.57
+ave:  0.977
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  277 ---
+max:  1.0
+min:  0.56
+ave:  0.9912000000000001
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  278 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  279 ---
+max:  1.0
+min:  0.67
+ave:  0.9934000000000001
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  280 ---
+max:  1.0
+min:  0.66
+ave:  0.993
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  281 ---
+max:  1.0
+min:  0.53
+ave:  0.9898000000000002
+can_learning:  4
+cannot_learning:  1
+perfect:  45
+ --- generation:  282 ---
+max:  1.0
+min:  0.64
+ave:  0.9856
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  283 ---
+max:  1.0
+min:  0.75
+ave:  0.9948
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  284 ---
+max:  1.0
+min:  0.57
+ave:  0.9860000000000001
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  285 ---
+max:  1.0
+min:  0.72
+ave:  0.9892
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  286 ---
+max:  1.0
+min:  0.49
+ave:  0.9760000000000001
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  287 ---
+max:  1.0
+min:  0.58
+ave:  0.9581999999999999
+can_learning:  0
+cannot_learning:  6
+perfect:  44
+ --- generation:  288 ---
+max:  1.0
+min:  0.63
+ave:  0.9728
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  289 ---
+max:  1.0
+min:  0.53
+ave:  0.9690000000000001
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  290 ---
+max:  1.0
+min:  0.58
+ave:  0.9732
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  291 ---
+max:  1.0
+min:  0.51
+ave:  0.9898
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  292 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  293 ---
+max:  1.0
+min:  0.99
+ave:  0.9994000000000001
+can_learning:  3
+cannot_learning:  0
+perfect:  47
+ --- generation:  294 ---
+max:  1.0
+min:  0.44
+ave:  0.9684
+can_learning:  1
+cannot_learning:  4
+perfect:  45
+ --- generation:  295 ---
+max:  1.0
+min:  0.49
+ave:  0.9622000000000002
+can_learning:  4
+cannot_learning:  5
+perfect:  41
+ --- generation:  296 ---
+max:  1.0
+min:  0.61
+ave:  0.9803999999999999
+can_learning:  2
+cannot_learning:  4
+perfect:  44
+ --- generation:  297 ---
+max:  1.0
+min:  0.63
+ave:  0.9754
+can_learning:  0
+cannot_learning:  6
+perfect:  44
+ --- generation:  298 ---
+max:  1.0
+min:  0.56
+ave:  0.9896
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  299 ---
+max:  1.0
+min:  0.6
+ave:  0.9908
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  300 ---
+max:  1.0
+min:  0.57
+ave:  0.9822
+can_learning:  1
+cannot_learning:  4
+perfect:  45
+ --- generation:  301 ---
+max:  1.0
+min:  0.57
+ave:  0.9832000000000001
+can_learning:  4
+cannot_learning:  2
+perfect:  44
+ --- generation:  302 ---
+max:  1.0
+min:  0.56
+ave:  0.9852000000000001
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  303 ---
+max:  1.0
+min:  0.64
+ave:  0.992
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  304 ---
+max:  1.0
+min:  0.57
+ave:  0.9816000000000001
+can_learning:  4
+cannot_learning:  4
+perfect:  42
+ --- generation:  305 ---
+max:  1.0
+min:  0.53
+ave:  0.9888000000000001
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  306 ---
+max:  1.0
+min:  0.62
+ave:  0.9754
+can_learning:  3
+cannot_learning:  4
+perfect:  43
+ --- generation:  307 ---
+max:  1.0
+min:  0.57
+ave:  0.9790000000000001
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  308 ---
+max:  1.0
+min:  0.52
+ave:  0.9656000000000001
+can_learning:  1
+cannot_learning:  4
+perfect:  45
+ --- generation:  309 ---
+max:  1.0
+min:  0.57
+ave:  0.9756
+can_learning:  3
+cannot_learning:  3
+perfect:  44
+ --- generation:  310 ---
+max:  1.0
+min:  0.44
+ave:  0.9538
+can_learning:  2
+cannot_learning:  5
+perfect:  43
+ --- generation:  311 ---
+max:  1.0
+min:  0.65
+ave:  0.9886000000000003
+can_learning:  5
+cannot_learning:  4
+perfect:  41
+ --- generation:  312 ---
+max:  1.0
+min:  0.7
+ave:  0.9854
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  313 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  314 ---
+max:  1.0
+min:  0.7
+ave:  0.9934000000000002
+can_learning:  3
+cannot_learning:  1
+perfect:  46
+ --- generation:  315 ---
+max:  1.0
+min:  0.59
+ave:  0.9912000000000002
+can_learning:  3
+cannot_learning:  1
+perfect:  46
+ --- generation:  316 ---
+max:  1.0
+min:  0.75
+ave:  0.9946
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  317 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  318 ---
+max:  1.0
+min:  0.8
+ave:  0.9958
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  319 ---
+max:  1.0
+min:  0.59
+ave:  0.9842
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  320 ---
+max:  1.0
+min:  0.49
+ave:  0.988
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  321 ---
+max:  1.0
+min:  0.72
+ave:  0.9944
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  322 ---
+max:  1.0
+min:  0.7
+ave:  0.9936000000000001
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  323 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  324 ---
+max:  1.0
+min:  0.59
+ave:  0.9916000000000001
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  325 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  326 ---
+max:  1.0
+min:  0.99
+ave:  0.9992000000000002
+can_learning:  4
+cannot_learning:  0
+perfect:  46
+ --- generation:  327 ---
+max:  1.0
+min:  0.55
+ave:  0.991
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  328 ---
+max:  1.0
+min:  0.99
+ave:  0.9996
+can_learning:  2
+cannot_learning:  0
+perfect:  48
+ --- generation:  329 ---
+max:  1.0
+min:  0.45
+ave:  0.9860000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  330 ---
+max:  1.0
+min:  0.59
+ave:  0.9868000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  331 ---
+max:  1.0
+min:  0.54
+ave:  0.976
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  332 ---
+max:  1.0
+min:  0.55
+ave:  0.9663999999999998
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  333 ---
+max:  1.0
+min:  0.5
+ave:  0.9892
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  334 ---
+max:  1.0
+min:  0.9
+ave:  0.9945999999999998
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  335 ---
+max:  1.0
+min:  0.58
+ave:  0.9819999999999999
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  336 ---
+max:  1.0
+min:  0.65
+ave:  0.9806
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  337 ---
+max:  1.0
+min:  0.59
+ave:  0.9918
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  338 ---
+max:  1.0
+min:  0.67
+ave:  0.9868000000000001
+can_learning:  1
+cannot_learning:  2
+perfect:  47
+ --- generation:  339 ---
+max:  1.0
+min:  0.52
+ave:  0.9824
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  340 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  341 ---
+max:  1.0
+min:  0.91
+ave:  0.9972
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  342 ---
+max:  1.0
+min:  0.51
+ave:  0.9806
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  343 ---
+max:  1.0
+min:  0.65
+ave:  0.993
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  344 ---
+max:  1.0
+min:  0.43
+ave:  0.9638000000000001
+can_learning:  1
+cannot_learning:  4
+perfect:  45
+ --- generation:  345 ---
+max:  1.0
+min:  0.47
+ave:  0.9648
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  346 ---
+max:  1.0
+min:  0.57
+ave:  0.9674
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  347 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  348 ---
+max:  1.0
+min:  0.58
+ave:  0.9915999999999999
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  349 ---
+max:  1.0
+min:  0.94
+ave:  0.9987999999999999
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  350 ---
+max:  1.0
+min:  0.57
+ave:  0.9914000000000001
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  351 ---
+max:  1.0
+min:  0.67
+ave:  0.9918
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  352 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  353 ---
+max:  1.0
+min:  0.54
+ave:  0.9846
+can_learning:  2
+cannot_learning:  3
+perfect:  45
+ --- generation:  354 ---
+max:  1.0
+min:  0.55
+ave:  0.991
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  355 ---
+max:  1.0
+min:  0.59
+ave:  0.9884000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  356 ---
+max:  1.0
+min:  0.61
+ave:  0.9786
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  357 ---
+max:  1.0
+min:  0.6
+ave:  0.9834000000000002
+can_learning:  4
+cannot_learning:  2
+perfect:  44
+ --- generation:  358 ---
+max:  1.0
+min:  0.53
+ave:  0.9814
+can_learning:  1
+cannot_learning:  2
+perfect:  47
+ --- generation:  359 ---
+max:  1.0
+min:  0.74
+ave:  0.9946
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  360 ---
+max:  1.0
+min:  0.5
+ave:  0.9778
+can_learning:  2
+cannot_learning:  3
+perfect:  45
+ --- generation:  361 ---
+max:  1.0
+min:  0.64
+ave:  0.9922000000000001
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  362 ---
+max:  1.0
+min:  0.51
+ave:  0.9575999999999999
+can_learning:  0
+cannot_learning:  6
+perfect:  44
+ --- generation:  363 ---
+max:  1.0
+min:  0.56
+ave:  0.9866000000000001
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  364 ---
+max:  1.0
+min:  0.66
+ave:  0.9841999999999999
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  365 ---
+max:  1.0
+min:  0.62
+ave:  0.9873999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  366 ---
+max:  1.0
+min:  0.52
+ave:  0.9844000000000002
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  367 ---
+max:  1.0
+min:  0.55
+ave:  0.9828
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  368 ---
+max:  1.0
+min:  0.64
+ave:  0.9872
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  369 ---
+max:  1.0
+min:  0.48
+ave:  0.9675999999999999
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  370 ---
+max:  1.0
+min:  0.55
+ave:  0.9608000000000001
+can_learning:  0
+cannot_learning:  6
+perfect:  44
+ --- generation:  371 ---
+max:  1.0
+min:  0.57
+ave:  0.9691999999999998
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  372 ---
+max:  1.0
+min:  0.55
+ave:  0.9828
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  373 ---
+max:  1.0
+min:  0.97
+ave:  0.9992
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  374 ---
+max:  1.0
+min:  0.62
+ave:  0.9924
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  375 ---
+max:  1.0
+min:  0.62
+ave:  0.9849999999999999
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  376 ---
+max:  1.0
+min:  0.62
+ave:  0.9911999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  377 ---
+max:  1.0
+min:  0.58
+ave:  0.9914000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  378 ---
+max:  1.0
+min:  0.65
+ave:  0.993
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  379 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  380 ---
+max:  1.0
+min:  0.57
+ave:  0.986
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  381 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  382 ---
+max:  1.0
+min:  0.48
+ave:  0.9808
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  383 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  384 ---
+max:  1.0
+min:  0.49
+ave:  0.9896
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  385 ---
+max:  1.0
+min:  0.94
+ave:  0.9987999999999999
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  386 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  387 ---
+max:  1.0
+min:  0.97
+ave:  0.9994
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  388 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  389 ---
+max:  1.0
+min:  0.57
+ave:  0.9914000000000001
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  390 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  391 ---
+max:  1.0
+min:  0.61
+ave:  0.9842
+can_learning:  1
+cannot_learning:  2
+perfect:  47
+ --- generation:  392 ---
+max:  1.0
+min:  0.53
+ave:  0.9714000000000002
+can_learning:  1
+cannot_learning:  5
+perfect:  44
+ --- generation:  393 ---
+max:  1.0
+min:  0.64
+ave:  0.9910000000000001
+can_learning:  1
+cannot_learning:  2
+perfect:  47
+ --- generation:  394 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  395 ---
+max:  1.0
+min:  0.54
+ave:  0.9904000000000001
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  396 ---
+max:  1.0
+min:  0.49
+ave:  0.9780000000000001
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  397 ---
+max:  1.0
+min:  0.53
+ave:  0.9564
+can_learning:  2
+cannot_learning:  3
+perfect:  45
+ --- generation:  398 ---
+max:  1.0
+min:  0.47
+ave:  0.9484
+can_learning:  2
+cannot_learning:  5
+perfect:  43
+ --- generation:  399 ---
+max:  1.0
+min:  0.47
+ave:  0.9534000000000001
+can_learning:  1
+cannot_learning:  5
+perfect:  44
+ --- generation:  400 ---
+max:  1.0
+min:  0.44
+ave:  0.9716
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  401 ---
+max:  1.0
+min:  0.55
+ave:  0.9823999999999999
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  402 ---
+max:  1.0
+min:  0.46
+ave:  0.9786
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  403 ---
+max:  1.0
+min:  0.49
+ave:  0.9822
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  404 ---
+max:  1.0
+min:  0.53
+ave:  0.9887999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  405 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  406 ---
+max:  1.0
+min:  0.51
+ave:  0.9902
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  407 ---
+max:  1.0
+min:  0.62
+ave:  0.9832
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  408 ---
+max:  1.0
+min:  0.85
+ave:  0.997
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  409 ---
+max:  1.0
+min:  0.9
+ave:  0.9961999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  410 ---
+max:  1.0
+min:  0.62
+ave:  0.9922
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  411 ---
+max:  1.0
+min:  0.57
+ave:  0.9808000000000001
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  412 ---
+max:  1.0
+min:  0.94
+ave:  0.9987999999999999
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  413 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  414 ---
+max:  1.0
+min:  0.57
+ave:  0.9914000000000001
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  415 ---
+max:  1.0
+min:  0.51
+ave:  0.9902
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  416 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  417 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  418 ---
+max:  1.0
+min:  0.93
+ave:  0.9982
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  419 ---
+max:  1.0
+min:  0.59
+ave:  0.98
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  420 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  421 ---
+max:  1.0
+min:  0.64
+ave:  0.9856
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  422 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  423 ---
+max:  1.0
+min:  0.85
+ave:  0.9966000000000002
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  424 ---
+max:  1.0
+min:  0.54
+ave:  0.9889999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  425 ---
+max:  1.0
+min:  0.6
+ave:  0.9772
+can_learning:  2
+cannot_learning:  3
+perfect:  45
+ --- generation:  426 ---
+max:  1.0
+min:  0.62
+ave:  0.9802
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  427 ---
+max:  1.0
+min:  0.57
+ave:  0.9754
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  428 ---
+max:  1.0
+min:  0.5
+ave:  0.99
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  429 ---
+max:  1.0
+min:  0.99
+ave:  0.9998
+can_learning:  1
+cannot_learning:  0
+perfect:  49
+ --- generation:  430 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  431 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  432 ---
+max:  1.0
+min:  0.69
+ave:  0.9937999999999999
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  433 ---
+max:  1.0
+min:  0.83
+ave:  0.9927999999999999
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  434 ---
+max:  1.0
+min:  0.58
+ave:  0.9846
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  435 ---
+max:  1.0
+min:  0.61
+ave:  0.9922
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  436 ---
+max:  1.0
+min:  0.56
+ave:  0.9830000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  437 ---
+max:  1.0
+min:  0.56
+ave:  0.9894
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  438 ---
+max:  1.0
+min:  0.59
+ave:  0.9854
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  439 ---
+max:  1.0
+min:  0.53
+ave:  0.9814
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  440 ---
+max:  1.0
+min:  0.51
+ave:  0.9782
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  441 ---
+max:  1.0
+min:  0.53
+ave:  0.9606
+can_learning:  0
+cannot_learning:  6
+perfect:  44
+ --- generation:  442 ---
+max:  1.0
+min:  0.54
+ave:  0.966
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  443 ---
+max:  1.0
+min:  0.55
+ave:  0.9569999999999999
+can_learning:  0
+cannot_learning:  6
+perfect:  44
+ --- generation:  444 ---
+max:  1.0
+min:  0.52
+ave:  0.9506000000000001
+can_learning:  0
+cannot_learning:  7
+perfect:  43
+ --- generation:  445 ---
+max:  1.0
+min:  0.57
+ave:  0.9621999999999999
+can_learning:  0
+cannot_learning:  7
+perfect:  43
+ --- generation:  446 ---
+max:  1.0
+min:  0.72
+ave:  0.9939999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  447 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  448 ---
+max:  1.0
+min:  0.57
+ave:  0.9914000000000001
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  449 ---
+max:  1.0
+min:  0.6
+ave:  0.9892000000000002
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  450 ---
+max:  1.0
+min:  0.63
+ave:  0.9926
+can_learning:  0
+cannot_learning:  1
+perfect:  49
+ --- generation:  451 ---
+max:  1.0
+min:  0.57
+ave:  0.9874
+can_learning:  1
+cannot_learning:  2
+perfect:  47
+ --- generation:  452 ---
+max:  1.0
+min:  0.55
+ave:  0.9822
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  453 ---
+max:  1.0
+min:  0.61
+ave:  0.9822
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  454 ---
+max:  1.0
+min:  0.61
+ave:  0.9853999999999999
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  455 ---
+max:  1.0
+min:  1.0
+ave:  1.0
+can_learning:  0
+cannot_learning:  0
+perfect:  50
+ --- generation:  456 ---
+max:  1.0
+min:  0.6
+ave:  0.9798
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  457 ---
+max:  1.0
+min:  0.56
+ave:  0.9748
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  458 ---
+max:  1.0
+min:  0.54
+ave:  0.9610000000000002
+can_learning:  1
+cannot_learning:  7
+perfect:  42
+ --- generation:  459 ---
+max:  1.0
+min:  0.5
+ave:  0.9806
+can_learning:  3
+cannot_learning:  3
+perfect:  44
+ --- generation:  460 ---
+max:  1.0
+min:  0.59
+ave:  0.9772000000000002
+can_learning:  2
+cannot_learning:  3
+perfect:  45
+ --- generation:  461 ---
+max:  1.0
+min:  0.59
+ave:  0.9854
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  462 ---
+max:  1.0
+min:  0.5
+ave:  0.9566000000000001
+can_learning:  2
+cannot_learning:  5
+perfect:  43
+ --- generation:  463 ---
+max:  1.0
+min:  0.55
+ave:  0.9764
+can_learning:  2
+cannot_learning:  4
+perfect:  44
+ --- generation:  464 ---
+max:  1.0
+min:  0.56
+ave:  0.9880000000000001
+can_learning:  3
+cannot_learning:  2
+perfect:  45
+ --- generation:  465 ---
+max:  1.0
+min:  0.57
+ave:  0.9838000000000001
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  466 ---
+max:  1.0
+min:  0.54
+ave:  0.9746000000000001
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  467 ---
+max:  1.0
+min:  0.57
+ave:  0.9828
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  468 ---
+max:  1.0
+min:  0.56
+ave:  0.9686000000000001
+can_learning:  1
+cannot_learning:  4
+perfect:  45
+ --- generation:  469 ---
+max:  1.0
+min:  0.53
+ave:  0.9643999999999999
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  470 ---
+max:  1.0
+min:  0.84
+ave:  0.9964000000000002
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  471 ---
+max:  1.0
+min:  0.62
+ave:  0.9836000000000001
+can_learning:  2
+cannot_learning:  3
+perfect:  45
+ --- generation:  472 ---
+max:  1.0
+min:  0.89
+ave:  0.9976
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  473 ---
+max:  1.0
+min:  0.54
+ave:  0.9826
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  474 ---
+max:  1.0
+min:  0.55
+ave:  0.9822
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  475 ---
+max:  1.0
+min:  0.5
+ave:  0.9822
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  476 ---
+max:  1.0
+min:  0.54
+ave:  0.9904
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  477 ---
+max:  1.0
+min:  0.5
+ave:  0.9472000000000002
+can_learning:  0
+cannot_learning:  7
+perfect:  43
+ --- generation:  478 ---
+max:  1.0
+min:  0.53
+ave:  0.9521999999999999
+can_learning:  0
+cannot_learning:  6
+perfect:  44
+ --- generation:  479 ---
+max:  1.0
+min:  0.56
+ave:  0.9830000000000001
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  480 ---
+max:  1.0
+min:  0.53
+ave:  0.9786
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  481 ---
+max:  1.0
+min:  0.54
+ave:  0.9734
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  482 ---
+max:  1.0
+min:  0.49
+ave:  0.9782
+can_learning:  0
+cannot_learning:  4
+perfect:  46
+ --- generation:  483 ---
+max:  1.0
+min:  0.54
+ave:  0.9864
+can_learning:  1
+cannot_learning:  3
+perfect:  46
+ --- generation:  484 ---
+max:  1.0
+min:  0.63
+ave:  0.9924000000000001
+can_learning:  1
+cannot_learning:  1
+perfect:  48
+ --- generation:  485 ---
+max:  1.0
+min:  0.74
+ave:  0.9942000000000002
+can_learning:  3
+cannot_learning:  1
+perfect:  46
+ --- generation:  486 ---
+max:  1.0
+min:  0.5
+ave:  0.9856
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  487 ---
+max:  1.0
+min:  0.67
+ave:  0.9814000000000002
+can_learning:  2
+cannot_learning:  3
+perfect:  45
+ --- generation:  488 ---
+max:  1.0
+min:  0.57
+ave:  0.9850000000000001
+can_learning:  3
+cannot_learning:  2
+perfect:  45
+ --- generation:  489 ---
+max:  1.0
+min:  0.6
+ave:  0.9916000000000001
+can_learning:  2
+cannot_learning:  1
+perfect:  47
+ --- generation:  490 ---
+max:  1.0
+min:  0.54
+ave:  0.9814000000000002
+can_learning:  2
+cannot_learning:  2
+perfect:  46
+ --- generation:  491 ---
+max:  1.0
+min:  0.59
+ave:  0.9852000000000001
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ --- generation:  492 ---
+max:  1.0
+min:  0.48
+ave:  0.968
+can_learning:  1
+cannot_learning:  4
+perfect:  45
+ --- generation:  493 ---
+max:  1.0
+min:  0.54
+ave:  0.97
+can_learning:  1
+cannot_learning:  4
+perfect:  45
+ --- generation:  494 ---
+max:  1.0
+min:  0.54
+ave:  0.9808000000000001
+can_learning:  2
+cannot_learning:  3
+perfect:  45
+ --- generation:  495 ---
+max:  1.0
+min:  0.54
+ave:  0.9758
+can_learning:  0
+cannot_learning:  3
+perfect:  47
+ --- generation:  496 ---
+max:  1.0
+min:  0.51
+ave:  0.9376000000000001
+can_learning:  1
+cannot_learning:  9
+perfect:  40
+ --- generation:  497 ---
+max:  1.0
+min:  0.56
+ave:  0.9658000000000001
+can_learning:  0
+cannot_learning:  5
+perfect:  45
+ --- generation:  498 ---
+max:  1.0
+min:  0.44
+ave:  0.9216000000000001
+can_learning:  0
+cannot_learning:  10
+perfect:  40
+ --- generation:  499 ---
+max:  1.0
+min:  0.52
+ave:  0.9318
+can_learning:  1
+cannot_learning:  8
+perfect:  41
+ --- generation:  500 ---
+max:  1.0
+min:  0.59
+ave:  0.985
+can_learning:  0
+cannot_learning:  2
+perfect:  48
+ === This is my self introduction !! === 
+I am  HebbianNetworkAgent
+My original_connections:
+[[ 1. -1.  1. -1.  1. -1.  1.  1.]
+ [-1.  1. -1.  1. -1.  1. -1. -1.]
+ [ 1. -1.  1. -1.  1. -1.  1.  1.]
+ [-1.  1. -1.  1. -1.  1. -1. -1.]
+ [ 1. -1.  1. -1.  1. -1.  1.  1.]
+ [-1.  1. -1.  1. -1.  1. -1. -1.]
+ [ 1. -1.  1. -1.  1. -1.  1.  1.]
+ [ 1. -1.  1. -1.  1. -1.  1.  1.]]
+My original_mask_array:
+[[0 0 0 0 1 0 1 0]
+ [0 1 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0]
+ [1 1 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0]
+ [0 1 0 0 0 0 0 0]]
+My fitness was  1.0
+ ====================================== 
