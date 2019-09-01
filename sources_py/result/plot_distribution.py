@@ -53,6 +53,7 @@ axes.bar(x, cannot_lines,width=1.0,color='plum',label="couldn't learning")
 axes.bar(x, can_lines, width=1.0,bottom = cannot_lines,color='aquamarine',label="could learning")
 axes.bar(x,perfect_lines, width=1.0,bottom = add_lines,color='darkblue',label="perfect")
 
+plt.title(args[1])
 plt.legend()
 #plt.show()
 plt.savefig('./graphs/' + args[1] + '_distribution.png')
