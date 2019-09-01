@@ -56,6 +56,9 @@ if __name__=='__main__':
         for a_num in range(POPULATION_NUM):
             agents[a_num].answer_history = []
 
+        # if the last generation of evolution, see best individual
+        if(g_num == GENERATION_NUM-1):
+            agents[0].self_introduction()
 
         next_agents = copy.deepcopy(agents[0:ELITE_NUM]) #エリート選択
         for i in range(POPULATION_NUM - ELITE_NUM):
