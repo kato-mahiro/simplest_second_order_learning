@@ -67,6 +67,16 @@ class NeuralNetworkAgent:
             random.choice( [ self.nn.neurons[r].bias, agent_B.nn.neurons[r].bias ])
         return new_agent
 
+    def self_introduction(self):
+        print(" === This is my self introduction !! === ")
+        print("I am ", self.__class__.__name__)
+        print("My original_connections:")
+        print(self.original_connections)
+        print("My original_mask_array:")
+        print(self.original_mask_array)
+        print("My fitness was ",self.fitness)
+        print(" ====================================== ")
+
 class HebbianNetworkAgent(NeuralNetworkAgent):
     def __init__(self):
         self.nn = HebbianNetwork()
@@ -196,6 +206,18 @@ class ExtendedHebbianNetworkAgent(NeuralNetworkAgent):
 
         return new_agent
 
+    def self_introduction(self):
+        print(" === This is my self introduction !! === ")
+        print("I am ", self.__class__.__name__)
+        print("My original_connections:")
+        print(self.original_connections)
+        print("My original_mask_array:")
+        print(self.original_mask_array)
+        print("My evolutional parameters A,B,C,D :")
+        print(self.original_A,self.original_B,self.original_C,self.original_D)
+        print("My fitness was ",self.fitness)
+        print(" ====================================== ")
+
 class ModulatedExtendedHebbianNetworkAgent_1(ExtendedHebbianNetworkAgent):
     def __init__(self):
         self.nn = ModulatedExtendedHebbianNetwork()
@@ -248,10 +270,10 @@ class ModulatedExtendedHebbianNetworkAgent_2(ExtendedHebbianNetworkAgent):
         self.answer_history = []
 
 if __name__=='__main__':
-    a = NeuralNetworkAgent()
+    a = ExtendedHebbianNetworkAgent()
     print("--a--")
     print(a.nn.mask_array)
-    b = NeuralNetworkAgent()
+    b = ExtendedHebbianNetworkAgent()
     print("--b--")
     print(b.nn.mask_array)
 
@@ -265,3 +287,5 @@ if __name__=='__main__':
     print(c.nn.mask_array)
     print("--a--")
     print(a.nn.mask_array)
+
+    a.self_introduction()
