@@ -1,6 +1,8 @@
 import os
 import sys
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 args = sys.argv
@@ -72,4 +74,5 @@ print('ave-max:',max(ave_lines))
 #print('min-max:',max(min_lines))
 
 plt.legend()
-plt.show()
+#plt.show()
+plt.savefig('./graphs/' + args[1] + '.png')
