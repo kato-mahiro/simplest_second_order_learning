@@ -7,9 +7,38 @@ from task import *
 from agent import *
 
 if __name__=='__main__':
-    agents = [ModulatedHebbianNetworkAgent_1() for i in range(POPULATION_NUM)]
+    args = sys.argv
+    if args[1] == 'N':
+        agents = [NeuralNetworkAgent() for i in range(POPULATION_NUM)]
+    elif args[1] == 'H':
+        agents = [HebbianNetworkAgent() for i in range(POPULATION_NUM)]
+    elif args[1] == 'M1H':
+        agents = [ModulatedHebbianNetworkAgent_1() for i in range(POPULATION_NUM)]
+    elif args[1] == 'M2H':
+        agents = [ModulatedHebbianNetworkAgent_2() for i in range(POPULATION_NUM)]
+    elif args[1] == 'EH':
+        agents = [ExtendedHebbianNetworkAgent() for i in range(POPULATION_NUM)]
+    elif args[1] == 'M1EH':
+        agents = [ModulatedExtendedHebbianNetworkAgent_1() for i in range(POPULATION_NUM)]
+    elif args[1] == 'M2EH':
+        agents = [ModulatedExtendedHebbianNetworkAgent_2() for i in range(POPULATION_NUM)]
+
     for g_num in range(GENERATION_NUM):
-        task = Task_2(g_num)
+
+        if args[2] == '1':
+            task = Task_1(g_num)
+        elif args[2] == '2':
+            task = Task_2(g_num)
+        elif args[2] == '3':
+            task = Task_3(g_num)
+        elif args[2] == '4':
+            task = Task_4(g_num)
+        elif args[2] == '5':
+            task = Task_5(g_num)
+        elif args[2] == '6':
+            task = Task_6(g_num)
+        elif args[2] == '7':
+            task = Task_7(g_num)
 
         for a_num in range(POPULATION_NUM):
             for l_num in range(LIFETIME_NUM):
