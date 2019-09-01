@@ -47,10 +47,11 @@ for i in range(500):
 
 x = np.arange(1,501)
 fig,axes = plt.subplots()
-axes.bar(x, cannot_lines,width=1.0,color='plum')
-axes.bar(x, can_lines, width=1.0,bottom = cannot_lines,color='aquamarine')
-axes.bar(x,perfect_lines, width=1.0,bottom = add_lines,color='darkblue')
+axes.bar(x, cannot_lines,width=1.0,color='plum',label="couldn't learning")
+axes.bar(x, can_lines, width=1.0,bottom = cannot_lines,color='aquamarine',label="could learning")
+axes.bar(x,perfect_lines, width=1.0,bottom = add_lines,color='darkblue',label="perfect")
 
+plt.legend()
 plt.show()
 
 """
