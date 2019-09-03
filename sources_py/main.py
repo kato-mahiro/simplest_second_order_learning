@@ -80,9 +80,9 @@ if __name__=='__main__':
         print('perfect: ', learning_ability_list.count('unknown'))
         
         learning_ability_list = []
-        #print('history_of_best:',agents[0].correct_answer_rate_history)
+        print('history_of_best:',agents[0].correct_answer_rate_history)
         #print(agents[0].is_exis_learning_ability)
-        #print('history_of_worst:',agents[-1].correct_answer_rate_history)
+        print('history_of_worst:',agents[-1].correct_answer_rate_history)
 
         for a_num in range(POPULATION_NUM):
             agents[a_num].answer_history = []
