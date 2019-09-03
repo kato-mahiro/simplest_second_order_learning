@@ -39,6 +39,8 @@ if __name__=='__main__':
             task = Task_6(g_num)
         elif args[2] == '7':
             task = Task_7(g_num)
+        elif args[2] == '8':
+            task = Task_8(g_num)
 
         for a_num in range(POPULATION_NUM):
             for l_num in range(LIFETIME_NUM):
