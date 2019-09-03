@@ -101,8 +101,19 @@ class Task_7(Task_1):
         else:
             return CurrentRule.EMERGENCY
 
+class Task_8(Task_1):
+    #ルールが生涯のちょうど真ん中で変更されるタスク
+    def __init__(self,generation_num):
+        self.step = 0
+    def get_current_rule(self):
+        self.step += 1
+        if(self.step <= LIFETIME_NUM // 2):
+            return CurrentRule.PIECE
+        else:
+            return CurrentRule.EMERGENCY
+
 if __name__=='__main__':
-    task = Task_4(10)
+    task = Task_8(10)
     for i in range(10):
         print("question:",task.question())
         result = input()
