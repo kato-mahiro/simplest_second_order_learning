@@ -112,9 +112,24 @@ class Task_8(Task_1):
         else:
             return CurrentRule.EMERGENCY
 
+class Task_9(Task_1):
+    #ルールが生涯の真ん中あたりで変更されるタスク
+    #ばらつきがある(ちょうど真ん中ではない)
+    def __init__(self,generation_num):
+        self.step = 0
+        self.dispersion = random.randint(-10,10)
+        print('disperison : ',self.dispersion)
+    def get_current_rule(self):
+        self.step += 1
+        print(self.step)
+        if(self.step <= LIFETIME_NUM // 2 + self.dispersion):
+            return CurrentRule.PIECE
+        else:
+            return CurrentRule.EMERGENCY
+
 if __name__=='__main__':
-    task = Task_8(10)
-    for i in range(10):
+    task = Task_9(10)
+    for i in range(100):
         print("question:",task.question())
         result = input()
         print(task.feedback(result))
