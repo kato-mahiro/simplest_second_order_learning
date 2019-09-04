@@ -107,6 +107,9 @@ class Task_8(Task_1):
         self.step = 0
     def get_current_rule(self):
         self.step += 1
+        if self.step == LIFETIME_NUM +1:
+            self.step = 1
+        #print(self.step)
         if(self.step <= LIFETIME_NUM // 2):
             return CurrentRule.PIECE
         else:
