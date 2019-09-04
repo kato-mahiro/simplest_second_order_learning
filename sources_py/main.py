@@ -61,11 +61,12 @@ if __name__=='__main__':
         # evolution
         next_agents=[]
         fitness_list = []
-        learning_ability_list = []
         agents = sorted(agents, key=attrgetter('fitness'), reverse=True)
         for i in range(POPULATION_NUM):
             fitness_list.append(agents[i].fitness)
 
+        num_of_perfect_ind = 0
+        num_of_not_perfect_ind = 0
 
         print(' --- generation: ',g_num+1, '---')
         print('max: ',fitness_list[0])
@@ -73,15 +74,14 @@ if __name__=='__main__':
         print('ave: ',sum(fitness_list)/len(fitness_list))
 
         for a_num in range(POPULATION_NUM):
-            learning_ability_list.append(agents[a_num].is_exis_learning_ability)
+            if agents[a_num].fitness == 1.0:
+                num_of_perfect_ind += 1
+            else:
+                num_of_not_perfect_ind += 1
 
-        print('can_learning: ', learning_ability_list.count('yes'))
-        print('cannot_learning: ', learning_ability_list.count('no'))
-        print('perfect: ', learning_ability_list.count('unknown'))
-        
-        learning_ability_list = []
+        print('perfect: ',num_of_perfect_ind)
+        print('not_perfect: ',num_of_not_perfect_ind)
         print('history_of_best:',agents[0].correct_answer_rate_history)
-        #print(agents[0].is_exis_learning_ability)
         print('history_of_worst:',agents[-1].correct_answer_rate_history)
 
         for a_num in range(POPULATION_NUM):
