@@ -1,0 +1,4532 @@
+ --- generation:  1 ---
+max:  0.98
+min:  0.0
+ave:  0.4728
+can_learning:  17
+cannot_learning:  33
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  2 ---
+max:  0.93
+min:  0.0
+ave:  0.4489999999999999
+can_learning:  19
+cannot_learning:  31
+perfect:  0
+history_of_best: [0.72, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  3 ---
+max:  1.0
+min:  0.02
+ave:  0.48400000000000015
+can_learning:  20
+cannot_learning:  29
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.0, 0.0]
+ --- generation:  4 ---
+max:  0.97
+min:  0.01
+ave:  0.5095999999999998
+can_learning:  24
+cannot_learning:  26
+perfect:  0
+history_of_best: [0.88, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  5 ---
+max:  1.0
+min:  0.0
+ave:  0.5095999999999999
+can_learning:  14
+cannot_learning:  34
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  6 ---
+max:  0.98
+min:  0.0
+ave:  0.4516000000000001
+can_learning:  23
+cannot_learning:  27
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  7 ---
+max:  0.97
+min:  0.13
+ave:  0.5696000000000001
+can_learning:  29
+cannot_learning:  21
+perfect:  0
+history_of_best: [0.88, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.04, 0.16, 0.12]
+ --- generation:  8 ---
+max:  1.0
+min:  0.07
+ave:  0.5788
+can_learning:  18
+cannot_learning:  31
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.08, 0.0, 0.0]
+ --- generation:  9 ---
+max:  0.6
+min:  0.0
+ave:  0.35639999999999994
+can_learning:  23
+cannot_learning:  27
+perfect:  0
+history_of_best: [0.32, 0.64, 0.8, 0.64]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  10 ---
+max:  1.0
+min:  0.09
+ave:  0.5770000000000003
+can_learning:  19
+cannot_learning:  28
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.0, 0.0, 0.0]
+ --- generation:  11 ---
+max:  0.63
+min:  0.0
+ave:  0.3636000000000001
+can_learning:  20
+cannot_learning:  30
+perfect:  0
+history_of_best: [0.6, 0.52, 0.68, 0.72]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  12 ---
+max:  0.99
+min:  0.0
+ave:  0.4252000000000002
+can_learning:  24
+cannot_learning:  26
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  13 ---
+max:  1.0
+min:  0.0
+ave:  0.5208000000000002
+can_learning:  17
+cannot_learning:  31
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  14 ---
+max:  0.97
+min:  0.0
+ave:  0.4732
+can_learning:  27
+cannot_learning:  23
+perfect:  0
+history_of_best: [0.88, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  15 ---
+max:  1.0
+min:  0.04
+ave:  0.5408
+can_learning:  27
+cannot_learning:  21
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.0, 0.0, 0.0]
+ --- generation:  16 ---
+max:  0.85
+min:  0.02
+ave:  0.44880000000000003
+can_learning:  20
+cannot_learning:  30
+perfect:  0
+history_of_best: [0.92, 0.96, 0.64, 0.88]
+history_of_worst: [0.08, 0.0, 0.0, 0.0]
+ --- generation:  17 ---
+max:  1.0
+min:  0.12
+ave:  0.5886
+can_learning:  22
+cannot_learning:  24
+perfect:  4
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.08, 0.0, 0.0]
+ --- generation:  18 ---
+max:  1.0
+min:  0.11
+ave:  0.6043999999999997
+can_learning:  20
+cannot_learning:  27
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.04, 0.04, 0.08]
+ --- generation:  19 ---
+max:  1.0
+min:  0.0
+ave:  0.5963999999999998
+can_learning:  17
+cannot_learning:  28
+perfect:  5
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  20 ---
+max:  0.59
+min:  0.0
+ave:  0.38000000000000006
+can_learning:  25
+cannot_learning:  25
+perfect:  0
+history_of_best: [0.48, 0.72, 0.52, 0.64]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  21 ---
+max:  1.0
+min:  0.08
+ave:  0.5646
+can_learning:  18
+cannot_learning:  31
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.0, 0.0, 0.0]
+ --- generation:  22 ---
+max:  1.0
+min:  0.38
+ave:  0.6111999999999999
+can_learning:  22
+cannot_learning:  23
+perfect:  5
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.4, 0.28, 0.48]
+ --- generation:  23 ---
+max:  0.81
+min:  0.0
+ave:  0.38540000000000013
+can_learning:  21
+cannot_learning:  29
+perfect:  0
+history_of_best: [0.52, 0.72, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  24 ---
+max:  0.86
+min:  0.0
+ave:  0.41519999999999996
+can_learning:  28
+cannot_learning:  22
+perfect:  0
+history_of_best: [0.68, 0.76, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  25 ---
+max:  0.99
+min:  0.08
+ave:  0.553
+can_learning:  27
+cannot_learning:  23
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.0, 0.0, 0.0]
+ --- generation:  26 ---
+max:  0.71
+min:  0.04
+ave:  0.4395999999999999
+can_learning:  32
+cannot_learning:  18
+perfect:  0
+history_of_best: [0.6, 0.6, 0.76, 0.88]
+history_of_worst: [0.16, 0.0, 0.0, 0.0]
+ --- generation:  27 ---
+max:  0.89
+min:  0.0
+ave:  0.4292
+can_learning:  25
+cannot_learning:  25
+perfect:  0
+history_of_best: [0.56, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  28 ---
+max:  0.68
+min:  0.0
+ave:  0.42880000000000007
+can_learning:  18
+cannot_learning:  32
+perfect:  0
+history_of_best: [0.56, 0.64, 0.76, 0.76]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  29 ---
+max:  1.0
+min:  0.26
+ave:  0.5398000000000002
+can_learning:  23
+cannot_learning:  26
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.24, 0.36, 0.24]
+ --- generation:  30 ---
+max:  0.86
+min:  0.0
+ave:  0.436
+can_learning:  21
+cannot_learning:  29
+perfect:  0
+history_of_best: [0.64, 0.8, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  31 ---
+max:  0.93
+min:  0.28
+ave:  0.5539999999999999
+can_learning:  21
+cannot_learning:  29
+perfect:  0
+history_of_best: [0.72, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.28, 0.32, 0.36]
+ --- generation:  32 ---
+max:  1.0
+min:  0.38
+ave:  0.5696
+can_learning:  20
+cannot_learning:  28
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.32, 0.36]
+ --- generation:  33 ---
+max:  1.0
+min:  0.41
+ave:  0.5972000000000003
+can_learning:  19
+cannot_learning:  27
+perfect:  4
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.28, 0.4, 0.56]
+ --- generation:  34 ---
+max:  1.0
+min:  0.25
+ave:  0.6452000000000001
+can_learning:  19
+cannot_learning:  27
+perfect:  4
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.08, 0.16, 0.2]
+ --- generation:  35 ---
+max:  0.61
+min:  0.0
+ave:  0.33399999999999996
+can_learning:  15
+cannot_learning:  35
+perfect:  0
+history_of_best: [0.6, 0.52, 0.68, 0.64]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  36 ---
+max:  0.6
+min:  0.0
+ave:  0.39520000000000005
+can_learning:  23
+cannot_learning:  27
+perfect:  0
+history_of_best: [0.6, 0.64, 0.44, 0.72]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  37 ---
+max:  0.91
+min:  0.02
+ave:  0.42279999999999995
+can_learning:  26
+cannot_learning:  24
+perfect:  0
+history_of_best: [0.84, 0.8, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.0, 0.0]
+ --- generation:  38 ---
+max:  0.67
+min:  0.01
+ave:  0.4352
+can_learning:  21
+cannot_learning:  29
+perfect:  0
+history_of_best: [0.44, 0.68, 0.68, 0.88]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  39 ---
+max:  0.92
+min:  0.02
+ave:  0.42699999999999994
+can_learning:  20
+cannot_learning:  30
+perfect:  0
+history_of_best: [0.76, 0.92, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.0, 0.0]
+ --- generation:  40 ---
+max:  0.83
+min:  0.0
+ave:  0.474
+can_learning:  17
+cannot_learning:  33
+perfect:  0
+history_of_best: [0.76, 1.0, 0.8, 0.76]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  41 ---
+max:  0.86
+min:  0.15
+ave:  0.49279999999999985
+can_learning:  26
+cannot_learning:  24
+perfect:  0
+history_of_best: [0.52, 0.92, 1.0, 1.0]
+history_of_worst: [0.4, 0.0, 0.0, 0.2]
+ --- generation:  42 ---
+max:  1.0
+min:  0.09
+ave:  0.4973999999999999
+can_learning:  16
+cannot_learning:  33
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.0, 0.0, 0.0]
+ --- generation:  43 ---
+max:  0.92
+min:  0.02
+ave:  0.4352000000000001
+can_learning:  23
+cannot_learning:  27
+perfect:  0
+history_of_best: [0.68, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.0, 0.0]
+ --- generation:  44 ---
+max:  0.86
+min:  0.15
+ave:  0.505
+can_learning:  23
+cannot_learning:  27
+perfect:  0
+history_of_best: [0.84, 1.0, 0.88, 0.72]
+history_of_worst: [0.12, 0.28, 0.08, 0.12]
+ --- generation:  45 ---
+max:  0.75
+min:  0.11
+ave:  0.508
+can_learning:  14
+cannot_learning:  36
+perfect:  0
+history_of_best: [0.8, 0.88, 0.72, 0.6]
+history_of_worst: [0.16, 0.12, 0.04, 0.12]
+ --- generation:  46 ---
+max:  0.8
+min:  0.18
+ave:  0.5274
+can_learning:  20
+cannot_learning:  30
+perfect:  0
+history_of_best: [0.8, 0.8, 1.0, 0.6]
+history_of_worst: [0.2, 0.2, 0.2, 0.12]
+ --- generation:  47 ---
+max:  0.94
+min:  0.24
+ave:  0.5527999999999998
+can_learning:  19
+cannot_learning:  31
+perfect:  0
+history_of_best: [1.0, 1.0, 1.0, 0.76]
+history_of_worst: [0.44, 0.28, 0.16, 0.08]
+ --- generation:  48 ---
+max:  0.81
+min:  0.17
+ave:  0.4426
+can_learning:  28
+cannot_learning:  22
+perfect:  0
+history_of_best: [0.48, 0.96, 0.92, 0.88]
+history_of_worst: [0.36, 0.08, 0.12, 0.12]
+ --- generation:  49 ---
+max:  0.84
+min:  0.09
+ave:  0.48360000000000014
+can_learning:  33
+cannot_learning:  17
+perfect:  0
+history_of_best: [0.8, 0.88, 0.68, 1.0]
+history_of_worst: [0.0, 0.0, 0.24, 0.12]
+ --- generation:  50 ---
+max:  0.85
+min:  0.16
+ave:  0.4845999999999999
+can_learning:  20
+cannot_learning:  30
+perfect:  0
+history_of_best: [0.6, 1.0, 0.96, 0.84]
+history_of_worst: [0.4, 0.16, 0.0, 0.08]
+ --- generation:  51 ---
+max:  1.0
+min:  0.36
+ave:  0.5364
+can_learning:  26
+cannot_learning:  23
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.36, 0.48, 0.36]
+ --- generation:  52 ---
+max:  0.67
+min:  0.01
+ave:  0.46680000000000005
+can_learning:  21
+cannot_learning:  29
+perfect:  0
+history_of_best: [0.72, 0.6, 0.68, 0.68]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  53 ---
+max:  0.95
+min:  0.24
+ave:  0.5279999999999999
+can_learning:  23
+cannot_learning:  27
+perfect:  0
+history_of_best: [0.8, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.08, 0.36, 0.32]
+ --- generation:  54 ---
+max:  0.98
+min:  0.13
+ave:  0.5401999999999999
+can_learning:  26
+cannot_learning:  24
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.0, 0.0, 0.0]
+ --- generation:  55 ---
+max:  0.93
+min:  0.13
+ave:  0.47800000000000026
+can_learning:  25
+cannot_learning:  25
+perfect:  0
+history_of_best: [0.72, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.08, 0.28, 0.0]
+ --- generation:  56 ---
+max:  0.93
+min:  0.1
+ave:  0.5166
+can_learning:  22
+cannot_learning:  28
+perfect:  0
+history_of_best: [0.84, 0.96, 1.0, 0.92]
+history_of_worst: [0.36, 0.04, 0.0, 0.0]
+ --- generation:  57 ---
+max:  0.62
+min:  0.27
+ave:  0.4722000000000002
+can_learning:  22
+cannot_learning:  28
+perfect:  0
+history_of_best: [0.76, 0.56, 0.64, 0.52]
+history_of_worst: [0.28, 0.28, 0.24, 0.28]
+ --- generation:  58 ---
+max:  0.91
+min:  0.35
+ave:  0.5097999999999999
+can_learning:  24
+cannot_learning:  26
+perfect:  0
+history_of_best: [0.68, 1.0, 0.96, 1.0]
+history_of_worst: [0.52, 0.28, 0.32, 0.28]
+ --- generation:  59 ---
+max:  0.7
+min:  0.07
+ave:  0.46299999999999997
+can_learning:  17
+cannot_learning:  33
+perfect:  0
+history_of_best: [0.52, 0.56, 0.72, 1.0]
+history_of_worst: [0.12, 0.04, 0.08, 0.04]
+ --- generation:  60 ---
+max:  0.58
+min:  0.1
+ave:  0.4322000000000002
+can_learning:  24
+cannot_learning:  26
+perfect:  0
+history_of_best: [0.64, 0.48, 0.6, 0.6]
+history_of_worst: [0.2, 0.12, 0.08, 0.0]
+ --- generation:  61 ---
+max:  0.61
+min:  0.02
+ave:  0.46620000000000006
+can_learning:  25
+cannot_learning:  25
+perfect:  0
+history_of_best: [0.44, 0.68, 0.68, 0.64]
+history_of_worst: [0.08, 0.0, 0.0, 0.0]
+ --- generation:  62 ---
+max:  0.92
+min:  0.01
+ave:  0.48160000000000003
+can_learning:  28
+cannot_learning:  22
+perfect:  0
+history_of_best: [0.68, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  63 ---
+max:  0.79
+min:  0.26
+ave:  0.48819999999999986
+can_learning:  28
+cannot_learning:  22
+perfect:  0
+history_of_best: [0.64, 0.52, 1.0, 1.0]
+history_of_worst: [0.24, 0.04, 0.36, 0.4]
+ --- generation:  64 ---
+max:  0.72
+min:  0.25
+ave:  0.49839999999999995
+can_learning:  22
+cannot_learning:  28
+perfect:  0
+history_of_best: [0.52, 0.48, 0.96, 0.92]
+history_of_worst: [0.56, 0.36, 0.08, 0.0]
+ --- generation:  65 ---
+max:  0.83
+min:  0.23
+ave:  0.49459999999999993
+can_learning:  24
+cannot_learning:  26
+perfect:  0
+history_of_best: [0.44, 0.88, 1.0, 1.0]
+history_of_worst: [0.16, 0.2, 0.32, 0.24]
+ --- generation:  66 ---
+max:  0.95
+min:  0.25
+ave:  0.5039999999999999
+can_learning:  21
+cannot_learning:  29
+perfect:  0
+history_of_best: [0.8, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.44, 0.04, 0.16]
+ --- generation:  67 ---
+max:  0.62
+min:  0.14
+ave:  0.47479999999999994
+can_learning:  24
+cannot_learning:  26
+perfect:  0
+history_of_best: [0.76, 0.6, 0.48, 0.64]
+history_of_worst: [0.48, 0.08, 0.0, 0.0]
+ --- generation:  68 ---
+max:  0.84
+min:  0.11
+ave:  0.4774000000000001
+can_learning:  28
+cannot_learning:  22
+perfect:  0
+history_of_best: [0.72, 0.64, 1.0, 1.0]
+history_of_worst: [0.08, 0.08, 0.08, 0.2]
+ --- generation:  69 ---
+max:  0.89
+min:  0.16
+ave:  0.48960000000000015
+can_learning:  17
+cannot_learning:  33
+perfect:  0
+history_of_best: [0.64, 0.96, 0.96, 1.0]
+history_of_worst: [0.56, 0.08, 0.0, 0.0]
+ --- generation:  70 ---
+max:  0.91
+min:  0.13
+ave:  0.5122000000000001
+can_learning:  33
+cannot_learning:  17
+perfect:  0
+history_of_best: [0.64, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.36, 0.0, 0.0]
+ --- generation:  71 ---
+max:  0.92
+min:  0.12
+ave:  0.5154
+can_learning:  24
+cannot_learning:  26
+perfect:  0
+history_of_best: [0.68, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.04, 0.0, 0.04]
+ --- generation:  72 ---
+max:  0.88
+min:  0.18
+ave:  0.4890000000000001
+can_learning:  20
+cannot_learning:  30
+perfect:  0
+history_of_best: [0.6, 0.92, 1.0, 1.0]
+history_of_worst: [0.36, 0.2, 0.08, 0.08]
+ --- generation:  73 ---
+max:  0.79
+min:  0.15
+ave:  0.46399999999999997
+can_learning:  19
+cannot_learning:  31
+perfect:  0
+history_of_best: [0.6, 0.84, 0.72, 1.0]
+history_of_worst: [0.4, 0.2, 0.0, 0.0]
+ --- generation:  74 ---
+max:  0.93
+min:  0.08
+ave:  0.5206000000000001
+can_learning:  19
+cannot_learning:  31
+perfect:  0
+history_of_best: [0.72, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.0, 0.0, 0.0]
+ --- generation:  75 ---
+max:  0.89
+min:  0.01
+ave:  0.5242
+can_learning:  17
+cannot_learning:  33
+perfect:  0
+history_of_best: [0.56, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  76 ---
+max:  0.98
+min:  0.1
+ave:  0.5373999999999999
+can_learning:  19
+cannot_learning:  31
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.0, 0.0, 0.0]
+ --- generation:  77 ---
+max:  1.0
+min:  0.05
+ave:  0.5152
+can_learning:  28
+cannot_learning:  21
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.0, 0.0, 0.04]
+ --- generation:  78 ---
+max:  0.9
+min:  0.18
+ave:  0.4877999999999998
+can_learning:  21
+cannot_learning:  29
+perfect:  0
+history_of_best: [0.8, 1.0, 1.0, 0.8]
+history_of_worst: [0.36, 0.12, 0.0, 0.24]
+ --- generation:  79 ---
+max:  0.92
+min:  0.1
+ave:  0.5243999999999999
+can_learning:  28
+cannot_learning:  22
+perfect:  0
+history_of_best: [0.76, 1.0, 0.96, 0.96]
+history_of_worst: [0.4, 0.0, 0.0, 0.0]
+ --- generation:  80 ---
+max:  0.88
+min:  0.29
+ave:  0.5172000000000001
+can_learning:  26
+cannot_learning:  24
+perfect:  0
+history_of_best: [1.0, 0.8, 0.92, 0.8]
+history_of_worst: [0.44, 0.2, 0.24, 0.28]
+ --- generation:  81 ---
+max:  1.0
+min:  0.2
+ave:  0.5319999999999998
+can_learning:  26
+cannot_learning:  23
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.36, 0.16, 0.0]
+ --- generation:  82 ---
+max:  1.0
+min:  0.08
+ave:  0.5035999999999999
+can_learning:  25
+cannot_learning:  23
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.0, 0.04, 0.0]
+ --- generation:  83 ---
+max:  0.98
+min:  0.01
+ave:  0.5066000000000003
+can_learning:  28
+cannot_learning:  22
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  84 ---
+max:  0.96
+min:  0.29
+ave:  0.5304000000000001
+can_learning:  28
+cannot_learning:  22
+perfect:  0
+history_of_best: [0.84, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.16, 0.28, 0.44]
+ --- generation:  85 ---
+max:  0.86
+min:  0.0
+ave:  0.4724000000000004
+can_learning:  29
+cannot_learning:  21
+perfect:  0
+history_of_best: [0.76, 0.68, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  86 ---
+max:  0.93
+min:  0.0
+ave:  0.46740000000000026
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [0.84, 0.88, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  87 ---
+max:  0.89
+min:  0.0
+ave:  0.49139999999999995
+can_learning:  27
+cannot_learning:  23
+perfect:  0
+history_of_best: [0.56, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  88 ---
+max:  1.0
+min:  0.12
+ave:  0.5158
+can_learning:  21
+cannot_learning:  28
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.0, 0.0, 0.0]
+ --- generation:  89 ---
+max:  1.0
+min:  0.01
+ave:  0.532
+can_learning:  20
+cannot_learning:  28
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  90 ---
+max:  0.9
+min:  0.0
+ave:  0.45399999999999996
+can_learning:  25
+cannot_learning:  25
+perfect:  0
+history_of_best: [0.6, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  91 ---
+max:  0.93
+min:  0.05
+ave:  0.4751999999999999
+can_learning:  26
+cannot_learning:  24
+perfect:  0
+history_of_best: [0.72, 1.0, 1.0, 1.0]
+history_of_worst: [0.12, 0.0, 0.04, 0.04]
+ --- generation:  92 ---
+max:  1.0
+min:  0.2
+ave:  0.5042
+can_learning:  23
+cannot_learning:  26
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.16, 0.04, 0.0]
+ --- generation:  93 ---
+max:  1.0
+min:  0.19
+ave:  0.4976
+can_learning:  29
+cannot_learning:  19
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.16, 0.16, 0.44]
+ --- generation:  94 ---
+max:  1.0
+min:  0.04
+ave:  0.4965999999999999
+can_learning:  28
+cannot_learning:  21
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.0, 0.0, 0.0]
+ --- generation:  95 ---
+max:  1.0
+min:  0.34
+ave:  0.5536
+can_learning:  22
+cannot_learning:  26
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.4, 0.36, 0.2]
+ --- generation:  96 ---
+max:  0.85
+min:  0.01
+ave:  0.4134000000000001
+can_learning:  25
+cannot_learning:  25
+perfect:  0
+history_of_best: [0.56, 0.84, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  97 ---
+max:  1.0
+min:  0.01
+ave:  0.49639999999999984
+can_learning:  23
+cannot_learning:  26
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.04]
+ --- generation:  98 ---
+max:  0.99
+min:  0.31
+ave:  0.5668
+can_learning:  21
+cannot_learning:  29
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.36, 0.32, 0.32]
+ --- generation:  99 ---
+max:  1.0
+min:  0.0
+ave:  0.5710000000000001
+can_learning:  19
+cannot_learning:  29
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  100 ---
+max:  0.99
+min:  0.0
+ave:  0.4064
+can_learning:  26
+cannot_learning:  24
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  101 ---
+max:  0.93
+min:  0.05
+ave:  0.47760000000000014
+can_learning:  27
+cannot_learning:  23
+perfect:  0
+history_of_best: [0.72, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.04, 0.08, 0.04]
+ --- generation:  102 ---
+max:  0.99
+min:  0.02
+ave:  0.5146
+can_learning:  27
+cannot_learning:  23
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.0, 0.0]
+ --- generation:  103 ---
+max:  0.94
+min:  0.04
+ave:  0.4768000000000001
+can_learning:  26
+cannot_learning:  24
+perfect:  0
+history_of_best: [0.76, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.0, 0.0, 0.0]
+ --- generation:  104 ---
+max:  0.9
+min:  0.21
+ave:  0.5048
+can_learning:  26
+cannot_learning:  24
+perfect:  0
+history_of_best: [0.6, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.44, 0.0, 0.0]
+ --- generation:  105 ---
+max:  0.99
+min:  0.08
+ave:  0.49520000000000003
+can_learning:  21
+cannot_learning:  29
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.0, 0.0, 0.0]
+ --- generation:  106 ---
+max:  0.98
+min:  0.05
+ave:  0.5263999999999998
+can_learning:  20
+cannot_learning:  30
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.0, 0.0, 0.0]
+ --- generation:  107 ---
+max:  0.97
+min:  0.26
+ave:  0.5376
+can_learning:  21
+cannot_learning:  29
+perfect:  0
+history_of_best: [0.88, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.32, 0.16, 0.0]
+ --- generation:  108 ---
+max:  1.0
+min:  0.19
+ave:  0.6296
+can_learning:  22
+cannot_learning:  26
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.32, 0.04, 0.0]
+ --- generation:  109 ---
+max:  1.0
+min:  0.23
+ave:  0.5987999999999999
+can_learning:  25
+cannot_learning:  23
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.4, 0.2, 0.12]
+ --- generation:  110 ---
+max:  1.0
+min:  0.31
+ave:  0.6876000000000001
+can_learning:  22
+cannot_learning:  23
+perfect:  5
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.28, 0.28, 0.36]
+ --- generation:  111 ---
+max:  0.83
+min:  0.09
+ave:  0.4332000000000002
+can_learning:  33
+cannot_learning:  17
+perfect:  0
+history_of_best: [0.44, 0.88, 1.0, 1.0]
+history_of_worst: [0.32, 0.04, 0.0, 0.0]
+ --- generation:  112 ---
+max:  0.96
+min:  0.13
+ave:  0.589
+can_learning:  23
+cannot_learning:  27
+perfect:  0
+history_of_best: [1.0, 1.0, 0.88, 0.96]
+history_of_worst: [0.24, 0.28, 0.0, 0.0]
+ --- generation:  113 ---
+max:  1.0
+min:  0.31
+ave:  0.6257999999999998
+can_learning:  17
+cannot_learning:  31
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.16, 0.36, 0.28]
+ --- generation:  114 ---
+max:  1.0
+min:  0.18
+ave:  0.6480000000000001
+can_learning:  13
+cannot_learning:  30
+perfect:  7
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.08, 0.04, 0.0]
+ --- generation:  115 ---
+max:  0.82
+min:  0.0
+ave:  0.3368
+can_learning:  25
+cannot_learning:  25
+perfect:  0
+history_of_best: [0.52, 0.76, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  116 ---
+max:  0.87
+min:  0.0
+ave:  0.3595999999999999
+can_learning:  23
+cannot_learning:  27
+perfect:  0
+history_of_best: [0.56, 0.92, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  117 ---
+max:  1.0
+min:  0.21
+ave:  0.6361999999999999
+can_learning:  23
+cannot_learning:  25
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.4, 0.04, 0.0]
+ --- generation:  118 ---
+max:  0.78
+min:  0.05
+ave:  0.41279999999999994
+can_learning:  23
+cannot_learning:  27
+perfect:  0
+history_of_best: [0.4, 0.72, 1.0, 1.0]
+history_of_worst: [0.12, 0.0, 0.0, 0.08]
+ --- generation:  119 ---
+max:  0.83
+min:  0.08
+ave:  0.4334000000000001
+can_learning:  24
+cannot_learning:  26
+perfect:  0
+history_of_best: [0.48, 0.84, 1.0, 1.0]
+history_of_worst: [0.2, 0.08, 0.04, 0.0]
+ --- generation:  120 ---
+max:  1.0
+min:  0.25
+ave:  0.5962
+can_learning:  22
+cannot_learning:  27
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.32, 0.0, 0.0]
+ --- generation:  121 ---
+max:  1.0
+min:  0.19
+ave:  0.6113999999999998
+can_learning:  22
+cannot_learning:  26
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.24, 0.0, 0.08]
+ --- generation:  122 ---
+max:  0.91
+min:  0.12
+ave:  0.4234000000000001
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [0.64, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.12, 0.08, 0.12]
+ --- generation:  123 ---
+max:  0.84
+min:  0.16
+ave:  0.4574
+can_learning:  30
+cannot_learning:  20
+perfect:  0
+history_of_best: [0.36, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.0, 0.2, 0.2]
+ --- generation:  124 ---
+max:  0.75
+min:  0.16
+ave:  0.45260000000000006
+can_learning:  32
+cannot_learning:  18
+perfect:  0
+history_of_best: [0.6, 0.48, 0.92, 1.0]
+history_of_worst: [0.52, 0.12, 0.0, 0.0]
+ --- generation:  125 ---
+max:  0.99
+min:  0.3
+ave:  0.6064000000000002
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [1.0, 1.0, 1.0, 0.96]
+history_of_worst: [0.6, 0.16, 0.24, 0.2]
+ --- generation:  126 ---
+max:  0.85
+min:  0.02
+ave:  0.4548000000000002
+can_learning:  26
+cannot_learning:  24
+perfect:  0
+history_of_best: [0.48, 0.92, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.0, 0.0]
+ --- generation:  127 ---
+max:  0.98
+min:  0.27
+ave:  0.5724000000000001
+can_learning:  22
+cannot_learning:  28
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.4, 0.2, 0.0]
+ --- generation:  128 ---
+max:  0.99
+min:  0.3
+ave:  0.6576000000000001
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.2, 0.36, 0.2]
+ --- generation:  129 ---
+max:  1.0
+min:  0.43
+ave:  0.6295999999999999
+can_learning:  18
+cannot_learning:  29
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.4, 0.44, 0.52]
+ --- generation:  130 ---
+max:  0.84
+min:  0.01
+ave:  0.3822
+can_learning:  30
+cannot_learning:  20
+perfect:  0
+history_of_best: [0.48, 0.88, 1.0, 1.0]
+history_of_worst: [0.0, 0.04, 0.0, 0.0]
+ --- generation:  131 ---
+max:  0.79
+min:  0.0
+ave:  0.3724000000000002
+can_learning:  25
+cannot_learning:  25
+perfect:  0
+history_of_best: [0.32, 0.84, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  132 ---
+max:  0.87
+min:  0.07
+ave:  0.4794
+can_learning:  37
+cannot_learning:  13
+perfect:  0
+history_of_best: [0.56, 0.92, 1.0, 1.0]
+history_of_worst: [0.04, 0.08, 0.04, 0.12]
+ --- generation:  133 ---
+max:  0.84
+min:  0.0
+ave:  0.45280000000000015
+can_learning:  33
+cannot_learning:  17
+perfect:  0
+history_of_best: [0.6, 0.76, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  134 ---
+max:  1.0
+min:  0.36
+ave:  0.6268
+can_learning:  21
+cannot_learning:  26
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.32, 0.24, 0.32]
+ --- generation:  135 ---
+max:  0.73
+min:  0.0
+ave:  0.3918000000000001
+can_learning:  33
+cannot_learning:  17
+perfect:  0
+history_of_best: [0.28, 0.64, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  136 ---
+max:  1.0
+min:  0.36
+ave:  0.6513999999999998
+can_learning:  10
+cannot_learning:  36
+perfect:  4
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.36, 0.36, 0.28]
+ --- generation:  137 ---
+max:  0.83
+min:  0.01
+ave:  0.42840000000000017
+can_learning:  33
+cannot_learning:  17
+perfect:  0
+history_of_best: [0.32, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  138 ---
+max:  0.86
+min:  0.12
+ave:  0.43480000000000024
+can_learning:  34
+cannot_learning:  16
+perfect:  0
+history_of_best: [0.68, 0.76, 1.0, 1.0]
+history_of_worst: [0.0, 0.08, 0.0, 0.4]
+ --- generation:  139 ---
+max:  1.0
+min:  0.21
+ave:  0.6682000000000001
+can_learning:  18
+cannot_learning:  25
+perfect:  7
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.2, 0.0, 0.0]
+ --- generation:  140 ---
+max:  1.0
+min:  0.44
+ave:  0.637
+can_learning:  16
+cannot_learning:  29
+perfect:  5
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.48, 0.44, 0.48]
+ --- generation:  141 ---
+max:  1.0
+min:  0.44
+ave:  0.6254
+can_learning:  13
+cannot_learning:  32
+perfect:  5
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.24, 0.6, 0.36]
+ --- generation:  142 ---
+max:  0.76
+min:  0.0
+ave:  0.41919999999999996
+can_learning:  34
+cannot_learning:  16
+perfect:  0
+history_of_best: [0.44, 0.6, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  143 ---
+max:  1.0
+min:  0.42
+ave:  0.6726000000000002
+can_learning:  12
+cannot_learning:  31
+perfect:  7
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.28, 0.24, 0.44]
+ --- generation:  144 ---
+max:  1.0
+min:  0.28
+ave:  0.7244000000000002
+can_learning:  11
+cannot_learning:  23
+perfect:  16
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.08, 0.0, 0.28]
+ --- generation:  145 ---
+max:  0.79
+min:  0.0
+ave:  0.371
+can_learning:  37
+cannot_learning:  13
+perfect:  0
+history_of_best: [0.48, 0.68, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  146 ---
+max:  1.0
+min:  0.39
+ave:  0.7087999999999998
+can_learning:  12
+cannot_learning:  23
+perfect:  15
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.32, 0.44, 0.36]
+ --- generation:  147 ---
+max:  1.0
+min:  0.27
+ave:  0.7172
+can_learning:  15
+cannot_learning:  25
+perfect:  10
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.24, 0.24, 0.12]
+ --- generation:  148 ---
+max:  1.0
+min:  0.17
+ave:  0.7585999999999998
+can_learning:  14
+cannot_learning:  23
+perfect:  13
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.2, 0.0, 0.0]
+ --- generation:  149 ---
+max:  0.81
+min:  0.01
+ave:  0.36500000000000005
+can_learning:  38
+cannot_learning:  12
+perfect:  0
+history_of_best: [0.24, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.04]
+ --- generation:  150 ---
+max:  1.0
+min:  0.42
+ave:  0.7625999999999997
+can_learning:  11
+cannot_learning:  23
+perfect:  16
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.48, 0.36, 0.36]
+ --- generation:  151 ---
+max:  0.81
+min:  0.0
+ave:  0.3724
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [0.32, 0.92, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  152 ---
+max:  0.74
+min:  0.0
+ave:  0.391
+can_learning:  39
+cannot_learning:  11
+perfect:  0
+history_of_best: [0.36, 0.6, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  153 ---
+max:  0.84
+min:  0.0
+ave:  0.4264000000000002
+can_learning:  40
+cannot_learning:  10
+perfect:  0
+history_of_best: [0.36, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  154 ---
+max:  0.8
+min:  0.1
+ave:  0.4402
+can_learning:  36
+cannot_learning:  14
+perfect:  0
+history_of_best: [0.52, 0.68, 1.0, 1.0]
+history_of_worst: [0.04, 0.12, 0.12, 0.12]
+ --- generation:  155 ---
+max:  1.0
+min:  0.39
+ave:  0.6922000000000001
+can_learning:  10
+cannot_learning:  27
+perfect:  13
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.28, 0.36, 0.4]
+ --- generation:  156 ---
+max:  0.81
+min:  0.01
+ave:  0.45220000000000016
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [0.44, 0.8, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  157 ---
+max:  0.72
+min:  0.0
+ave:  0.5035999999999998
+can_learning:  40
+cannot_learning:  10
+perfect:  0
+history_of_best: [0.44, 0.44, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  158 ---
+max:  0.83
+min:  0.0
+ave:  0.46560000000000007
+can_learning:  34
+cannot_learning:  16
+perfect:  0
+history_of_best: [0.52, 0.8, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  159 ---
+max:  1.0
+min:  0.24
+ave:  0.6411999999999999
+can_learning:  14
+cannot_learning:  29
+perfect:  7
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.32, 0.0, 0.0]
+ --- generation:  160 ---
+max:  0.78
+min:  0.01
+ave:  0.4455999999999999
+can_learning:  36
+cannot_learning:  14
+perfect:  0
+history_of_best: [0.56, 0.56, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  161 ---
+max:  1.0
+min:  0.46
+ave:  0.6439999999999999
+can_learning:  9
+cannot_learning:  37
+perfect:  4
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.48, 0.36, 0.52]
+ --- generation:  162 ---
+max:  1.0
+min:  0.44
+ave:  0.7222
+can_learning:  14
+cannot_learning:  24
+perfect:  12
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.36, 0.56, 0.44]
+ --- generation:  163 ---
+max:  1.0
+min:  0.44
+ave:  0.7477999999999997
+can_learning:  9
+cannot_learning:  26
+perfect:  15
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.28, 0.4, 0.4]
+ --- generation:  164 ---
+max:  1.0
+min:  0.42
+ave:  0.6829999999999999
+can_learning:  12
+cannot_learning:  28
+perfect:  10
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.32, 0.28, 0.36]
+ --- generation:  165 ---
+max:  0.77
+min:  0.24
+ave:  0.4561999999999999
+can_learning:  36
+cannot_learning:  14
+perfect:  0
+history_of_best: [0.12, 0.96, 1.0, 1.0]
+history_of_worst: [0.16, 0.32, 0.2, 0.28]
+ --- generation:  166 ---
+max:  1.0
+min:  0.44
+ave:  0.6756
+can_learning:  9
+cannot_learning:  36
+perfect:  5
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.48, 0.4, 0.36]
+ --- generation:  167 ---
+max:  0.78
+min:  0.09
+ave:  0.4940000000000001
+can_learning:  38
+cannot_learning:  12
+perfect:  0
+history_of_best: [0.48, 0.64, 1.0, 1.0]
+history_of_worst: [0.12, 0.08, 0.08, 0.08]
+ --- generation:  168 ---
+max:  0.8
+min:  0.0
+ave:  0.4196000000000001
+can_learning:  35
+cannot_learning:  15
+perfect:  0
+history_of_best: [0.48, 0.72, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  169 ---
+max:  0.79
+min:  0.08
+ave:  0.4732
+can_learning:  32
+cannot_learning:  18
+perfect:  0
+history_of_best: [0.48, 0.68, 1.0, 1.0]
+history_of_worst: [0.16, 0.08, 0.0, 0.08]
+ --- generation:  170 ---
+max:  1.0
+min:  0.35
+ave:  0.5954000000000003
+can_learning:  8
+cannot_learning:  38
+perfect:  4
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.32, 0.24, 0.36]
+ --- generation:  171 ---
+max:  0.94
+min:  0.05
+ave:  0.5118000000000001
+can_learning:  34
+cannot_learning:  16
+perfect:  0
+history_of_best: [0.76, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.0, 0.0, 0.04]
+ --- generation:  172 ---
+max:  1.0
+min:  0.3
+ave:  0.6462
+can_learning:  15
+cannot_learning:  30
+perfect:  5
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.48, 0.16, 0.08]
+ --- generation:  173 ---
+max:  0.82
+min:  0.18
+ave:  0.4798000000000001
+can_learning:  32
+cannot_learning:  18
+perfect:  0
+history_of_best: [0.52, 0.76, 1.0, 1.0]
+history_of_worst: [0.12, 0.24, 0.2, 0.16]
+ --- generation:  174 ---
+max:  1.0
+min:  0.4
+ave:  0.6085999999999999
+can_learning:  19
+cannot_learning:  28
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.32, 0.36, 0.4]
+ --- generation:  175 ---
+max:  0.83
+min:  0.2
+ave:  0.4734000000000001
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [0.56, 0.76, 1.0, 1.0]
+history_of_worst: [0.0, 0.12, 0.4, 0.28]
+ --- generation:  176 ---
+max:  0.92
+min:  0.0
+ave:  0.4971999999999999
+can_learning:  35
+cannot_learning:  15
+perfect:  0
+history_of_best: [0.68, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  177 ---
+max:  1.0
+min:  0.38
+ave:  0.5790000000000002
+can_learning:  19
+cannot_learning:  30
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.32, 0.4, 0.48]
+ --- generation:  178 ---
+max:  0.86
+min:  0.1
+ave:  0.4553999999999998
+can_learning:  28
+cannot_learning:  22
+perfect:  0
+history_of_best: [0.56, 0.88, 1.0, 1.0]
+history_of_worst: [0.0, 0.28, 0.12, 0.0]
+ --- generation:  179 ---
+max:  0.81
+min:  0.02
+ave:  0.5177999999999998
+can_learning:  34
+cannot_learning:  16
+perfect:  0
+history_of_best: [0.48, 0.76, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.04]
+ --- generation:  180 ---
+max:  0.98
+min:  0.38
+ave:  0.5501999999999999
+can_learning:  9
+cannot_learning:  41
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.48, 0.44, 0.36]
+ --- generation:  181 ---
+max:  0.91
+min:  0.19
+ave:  0.5516000000000001
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [0.64, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.28, 0.16, 0.24]
+ --- generation:  182 ---
+max:  0.79
+min:  0.01
+ave:  0.4887999999999999
+can_learning:  27
+cannot_learning:  23
+perfect:  0
+history_of_best: [0.48, 0.68, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  183 ---
+max:  1.0
+min:  0.4
+ave:  0.5946
+can_learning:  20
+cannot_learning:  27
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.48, 0.52, 0.32]
+ --- generation:  184 ---
+max:  1.0
+min:  0.21
+ave:  0.5650000000000002
+can_learning:  19
+cannot_learning:  28
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.28, 0.0, 0.0]
+ --- generation:  185 ---
+max:  0.86
+min:  0.19
+ave:  0.5189999999999999
+can_learning:  35
+cannot_learning:  15
+perfect:  0
+history_of_best: [0.6, 0.84, 1.0, 1.0]
+history_of_worst: [0.36, 0.12, 0.16, 0.12]
+ --- generation:  186 ---
+max:  0.99
+min:  0.4
+ave:  0.5329999999999999
+can_learning:  23
+cannot_learning:  27
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.44, 0.44, 0.32]
+ --- generation:  187 ---
+max:  1.0
+min:  0.41
+ave:  0.5863999999999999
+can_learning:  19
+cannot_learning:  28
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.44, 0.4, 0.24]
+ --- generation:  188 ---
+max:  1.0
+min:  0.43
+ave:  0.6034
+can_learning:  24
+cannot_learning:  24
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.56, 0.48, 0.36]
+ --- generation:  189 ---
+max:  0.95
+min:  0.26
+ave:  0.5284
+can_learning:  32
+cannot_learning:  18
+perfect:  0
+history_of_best: [0.8, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.12, 0.36, 0.48]
+ --- generation:  190 ---
+max:  1.0
+min:  0.35
+ave:  0.5922000000000002
+can_learning:  18
+cannot_learning:  29
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.4, 0.32, 0.36]
+ --- generation:  191 ---
+max:  1.0
+min:  0.31
+ave:  0.5786000000000001
+can_learning:  16
+cannot_learning:  32
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.2, 0.28, 0.2]
+ --- generation:  192 ---
+max:  0.82
+min:  0.25
+ave:  0.49420000000000003
+can_learning:  36
+cannot_learning:  14
+perfect:  0
+history_of_best: [0.48, 0.8, 1.0, 1.0]
+history_of_worst: [0.08, 0.4, 0.28, 0.24]
+ --- generation:  193 ---
+max:  0.81
+min:  0.32
+ave:  0.5316000000000001
+can_learning:  32
+cannot_learning:  18
+perfect:  0
+history_of_best: [0.48, 0.76, 1.0, 1.0]
+history_of_worst: [0.08, 0.36, 0.4, 0.44]
+ --- generation:  194 ---
+max:  1.0
+min:  0.38
+ave:  0.5452
+can_learning:  21
+cannot_learning:  28
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.56, 0.36, 0.04]
+ --- generation:  195 ---
+max:  1.0
+min:  0.4
+ave:  0.5518000000000002
+can_learning:  13
+cannot_learning:  36
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.28, 0.48, 0.44]
+ --- generation:  196 ---
+max:  1.0
+min:  0.33
+ave:  0.5834
+can_learning:  16
+cannot_learning:  32
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.4, 0.28, 0.2]
+ --- generation:  197 ---
+max:  0.85
+min:  0.34
+ave:  0.5514000000000001
+can_learning:  36
+cannot_learning:  14
+perfect:  0
+history_of_best: [0.52, 0.88, 1.0, 1.0]
+history_of_worst: [0.36, 0.32, 0.24, 0.44]
+ --- generation:  198 ---
+max:  1.0
+min:  0.29
+ave:  0.5476000000000001
+can_learning:  18
+cannot_learning:  30
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.4, 0.4, 0.0]
+ --- generation:  199 ---
+max:  0.91
+min:  0.0
+ave:  0.5547999999999998
+can_learning:  37
+cannot_learning:  13
+perfect:  0
+history_of_best: [0.64, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  200 ---
+max:  1.0
+min:  0.34
+ave:  0.5652000000000001
+can_learning:  17
+cannot_learning:  31
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.36, 0.24, 0.4]
+ --- generation:  201 ---
+max:  0.92
+min:  0.0
+ave:  0.5389999999999998
+can_learning:  29
+cannot_learning:  21
+perfect:  0
+history_of_best: [0.68, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  202 ---
+max:  0.79
+min:  0.33
+ave:  0.5324000000000001
+can_learning:  25
+cannot_learning:  25
+perfect:  0
+history_of_best: [0.84, 0.72, 0.76, 0.84]
+history_of_worst: [0.32, 0.08, 0.44, 0.48]
+ --- generation:  203 ---
+max:  0.89
+min:  0.27
+ave:  0.5601999999999999
+can_learning:  34
+cannot_learning:  16
+perfect:  0
+history_of_best: [0.68, 0.88, 1.0, 1.0]
+history_of_worst: [0.16, 0.28, 0.32, 0.32]
+ --- generation:  204 ---
+max:  0.83
+min:  0.27
+ave:  0.5666
+can_learning:  37
+cannot_learning:  13
+perfect:  0
+history_of_best: [0.56, 0.76, 1.0, 1.0]
+history_of_worst: [0.2, 0.28, 0.28, 0.32]
+ --- generation:  205 ---
+max:  0.81
+min:  0.27
+ave:  0.5544
+can_learning:  33
+cannot_learning:  17
+perfect:  0
+history_of_best: [0.6, 0.64, 1.0, 1.0]
+history_of_worst: [0.12, 0.2, 0.4, 0.36]
+ --- generation:  206 ---
+max:  1.0
+min:  0.23
+ave:  0.5646000000000001
+can_learning:  34
+cannot_learning:  15
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.48, 0.16, 0.0]
+ --- generation:  207 ---
+max:  0.86
+min:  0.16
+ave:  0.5253999999999998
+can_learning:  24
+cannot_learning:  26
+perfect:  0
+history_of_best: [0.92, 1.0, 0.88, 0.64]
+history_of_worst: [0.52, 0.12, 0.0, 0.0]
+ --- generation:  208 ---
+max:  1.0
+min:  0.37
+ave:  0.5741999999999999
+can_learning:  18
+cannot_learning:  31
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.08, 0.36, 0.48]
+ --- generation:  209 ---
+max:  1.0
+min:  0.15
+ave:  0.5515999999999999
+can_learning:  35
+cannot_learning:  14
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.04, 0.04, 0.12]
+ --- generation:  210 ---
+max:  0.84
+min:  0.17
+ave:  0.5486000000000001
+can_learning:  35
+cannot_learning:  15
+perfect:  0
+history_of_best: [0.64, 0.72, 1.0, 1.0]
+history_of_worst: [0.28, 0.2, 0.16, 0.04]
+ --- generation:  211 ---
+max:  0.84
+min:  0.35
+ave:  0.6028000000000001
+can_learning:  29
+cannot_learning:  21
+perfect:  0
+history_of_best: [0.8, 0.88, 0.76, 0.92]
+history_of_worst: [0.32, 0.36, 0.44, 0.28]
+ --- generation:  212 ---
+max:  0.96
+min:  0.0
+ave:  0.5092
+can_learning:  22
+cannot_learning:  28
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 0.92]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  213 ---
+max:  0.84
+min:  0.36
+ave:  0.5227999999999998
+can_learning:  19
+cannot_learning:  31
+perfect:  0
+history_of_best: [0.72, 0.68, 1.0, 0.96]
+history_of_worst: [0.4, 0.24, 0.56, 0.24]
+ --- generation:  214 ---
+max:  1.0
+min:  0.16
+ave:  0.5285999999999998
+can_learning:  19
+cannot_learning:  30
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.08, 0.16, 0.2]
+ --- generation:  215 ---
+max:  0.98
+min:  0.0
+ave:  0.5362000000000001
+can_learning:  28
+cannot_learning:  22
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  216 ---
+max:  1.0
+min:  0.33
+ave:  0.5781999999999998
+can_learning:  35
+cannot_learning:  14
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.4, 0.32, 0.4]
+ --- generation:  217 ---
+max:  1.0
+min:  0.09
+ave:  0.5734
+can_learning:  26
+cannot_learning:  23
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.08, 0.2]
+ --- generation:  218 ---
+max:  1.0
+min:  0.14
+ave:  0.5356000000000001
+can_learning:  21
+cannot_learning:  26
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.12, 0.16, 0.12]
+ --- generation:  219 ---
+max:  1.0
+min:  0.41
+ave:  0.5830000000000001
+can_learning:  17
+cannot_learning:  28
+perfect:  5
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.36, 0.44]
+ --- generation:  220 ---
+max:  0.84
+min:  0.0
+ave:  0.4958000000000002
+can_learning:  32
+cannot_learning:  18
+perfect:  0
+history_of_best: [0.56, 0.8, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  221 ---
+max:  0.84
+min:  0.01
+ave:  0.5142
+can_learning:  35
+cannot_learning:  15
+perfect:  0
+history_of_best: [0.64, 0.72, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.04]
+ --- generation:  222 ---
+max:  0.94
+min:  0.34
+ave:  0.5469999999999999
+can_learning:  16
+cannot_learning:  34
+perfect:  0
+history_of_best: [0.8, 0.96, 1.0, 1.0]
+history_of_worst: [0.4, 0.28, 0.44, 0.24]
+ --- generation:  223 ---
+max:  0.99
+min:  0.37
+ave:  0.6114
+can_learning:  18
+cannot_learning:  32
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.32, 0.48, 0.28]
+ --- generation:  224 ---
+max:  0.99
+min:  0.35
+ave:  0.5866000000000001
+can_learning:  16
+cannot_learning:  34
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.36, 0.4, 0.32]
+ --- generation:  225 ---
+max:  1.0
+min:  0.43
+ave:  0.6482000000000002
+can_learning:  18
+cannot_learning:  31
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.4, 0.28, 0.48]
+ --- generation:  226 ---
+max:  0.87
+min:  0.0
+ave:  0.48880000000000023
+can_learning:  35
+cannot_learning:  15
+perfect:  0
+history_of_best: [0.52, 0.96, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  227 ---
+max:  0.84
+min:  0.0
+ave:  0.5407999999999998
+can_learning:  35
+cannot_learning:  15
+perfect:  0
+history_of_best: [0.56, 0.8, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  228 ---
+max:  0.99
+min:  0.0
+ave:  0.5636
+can_learning:  17
+cannot_learning:  33
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  229 ---
+max:  0.82
+min:  0.0
+ave:  0.4806000000000001
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [0.48, 0.8, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  230 ---
+max:  1.0
+min:  0.28
+ave:  0.5770000000000001
+can_learning:  17
+cannot_learning:  32
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.4, 0.2, 0.16]
+ --- generation:  231 ---
+max:  0.82
+min:  0.0
+ave:  0.4662000000000001
+can_learning:  32
+cannot_learning:  18
+perfect:  0
+history_of_best: [0.56, 0.72, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  232 ---
+max:  1.0
+min:  0.3
+ave:  0.5562000000000002
+can_learning:  11
+cannot_learning:  38
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.4, 0.16, 0.28]
+ --- generation:  233 ---
+max:  0.89
+min:  0.13
+ave:  0.523
+can_learning:  37
+cannot_learning:  13
+perfect:  0
+history_of_best: [0.56, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.24, 0.24]
+ --- generation:  234 ---
+max:  1.0
+min:  0.27
+ave:  0.5814000000000002
+can_learning:  23
+cannot_learning:  26
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.44, 0.16, 0.12]
+ --- generation:  235 ---
+max:  0.85
+min:  0.01
+ave:  0.5350000000000001
+can_learning:  38
+cannot_learning:  12
+perfect:  0
+history_of_best: [0.6, 0.8, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  236 ---
+max:  0.88
+min:  0.44
+ave:  0.5668000000000001
+can_learning:  18
+cannot_learning:  32
+perfect:  0
+history_of_best: [0.72, 0.96, 0.84, 1.0]
+history_of_worst: [0.32, 0.36, 0.56, 0.52]
+ --- generation:  237 ---
+max:  0.87
+min:  0.38
+ave:  0.5663999999999999
+can_learning:  16
+cannot_learning:  34
+perfect:  0
+history_of_best: [0.92, 0.88, 0.84, 0.84]
+history_of_worst: [0.52, 0.2, 0.32, 0.48]
+ --- generation:  238 ---
+max:  0.82
+min:  0.12
+ave:  0.5137999999999999
+can_learning:  35
+cannot_learning:  15
+perfect:  0
+history_of_best: [0.44, 0.84, 1.0, 1.0]
+history_of_worst: [0.24, 0.12, 0.08, 0.04]
+ --- generation:  239 ---
+max:  0.99
+min:  0.24
+ave:  0.5528
+can_learning:  20
+cannot_learning:  30
+perfect:  0
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.24, 0.24, 0.16]
+ --- generation:  240 ---
+max:  0.9
+min:  0.33
+ave:  0.5367999999999999
+can_learning:  15
+cannot_learning:  35
+perfect:  0
+history_of_best: [0.96, 0.88, 0.88, 0.88]
+history_of_worst: [0.44, 0.28, 0.28, 0.32]
+ --- generation:  241 ---
+max:  1.0
+min:  0.22
+ave:  0.5409999999999999
+can_learning:  16
+cannot_learning:  32
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.24, 0.04, 0.04]
+ --- generation:  242 ---
+max:  0.81
+min:  0.3
+ave:  0.5242000000000001
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [0.52, 0.72, 1.0, 1.0]
+history_of_worst: [0.32, 0.2, 0.24, 0.44]
+ --- generation:  243 ---
+max:  1.0
+min:  0.15
+ave:  0.5445999999999998
+can_learning:  21
+cannot_learning:  28
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.12, 0.0, 0.0]
+ --- generation:  244 ---
+max:  0.98
+min:  0.1
+ave:  0.5301999999999999
+can_learning:  31
+cannot_learning:  19
+perfect:  0
+history_of_best: [0.92, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.08, 0.12, 0.04]
+ --- generation:  245 ---
+max:  0.87
+min:  0.29
+ave:  0.5684
+can_learning:  29
+cannot_learning:  21
+perfect:  0
+history_of_best: [0.64, 0.84, 1.0, 1.0]
+history_of_worst: [0.4, 0.12, 0.24, 0.4]
+ --- generation:  246 ---
+max:  0.83
+min:  0.31
+ave:  0.5728000000000002
+can_learning:  32
+cannot_learning:  18
+perfect:  0
+history_of_best: [0.52, 0.8, 1.0, 1.0]
+history_of_worst: [0.36, 0.36, 0.32, 0.2]
+ --- generation:  247 ---
+max:  1.0
+min:  0.42
+ave:  0.5844000000000001
+can_learning:  20
+cannot_learning:  29
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.52, 0.44, 0.32]
+ --- generation:  248 ---
+max:  0.89
+min:  0.1
+ave:  0.513
+can_learning:  34
+cannot_learning:  16
+perfect:  0
+history_of_best: [0.64, 0.92, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.4]
+ --- generation:  249 ---
+max:  0.95
+min:  0.3
+ave:  0.558
+can_learning:  20
+cannot_learning:  30
+perfect:  0
+history_of_best: [0.8, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.24, 0.28, 0.32]
+ --- generation:  250 ---
+max:  0.99
+min:  0.39
+ave:  0.5864000000000001
+can_learning:  19
+cannot_learning:  30
+perfect:  1
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.32, 0.4, 0.44, 0.4]
+ --- generation:  251 ---
+max:  0.95
+min:  0.02
+ave:  0.5105999999999999
+can_learning:  40
+cannot_learning:  10
+perfect:  0
+history_of_best: [0.92, 0.92, 0.96, 1.0]
+history_of_worst: [0.08, 0.0, 0.0, 0.0]
+ --- generation:  252 ---
+max:  1.0
+min:  0.01
+ave:  0.5532
+can_learning:  11
+cannot_learning:  37
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  253 ---
+max:  1.0
+min:  0.45
+ave:  0.5907999999999999
+can_learning:  14
+cannot_learning:  34
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.36, 0.36, 0.36]
+ --- generation:  254 ---
+max:  0.84
+min:  0.04
+ave:  0.5582000000000003
+can_learning:  38
+cannot_learning:  12
+perfect:  0
+history_of_best: [0.52, 0.84, 1.0, 1.0]
+history_of_worst: [0.16, 0.0, 0.0, 0.0]
+ --- generation:  255 ---
+max:  1.0
+min:  0.4
+ave:  0.6309999999999998
+can_learning:  12
+cannot_learning:  37
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.36, 0.6, 0.36]
+ --- generation:  256 ---
+max:  0.81
+min:  0.13
+ave:  0.48200000000000004
+can_learning:  39
+cannot_learning:  11
+perfect:  0
+history_of_best: [0.56, 0.68, 1.0, 1.0]
+history_of_worst: [0.12, 0.2, 0.12, 0.08]
+ --- generation:  257 ---
+max:  0.81
+min:  0.0
+ave:  0.5345999999999999
+can_learning:  43
+cannot_learning:  7
+perfect:  0
+history_of_best: [0.44, 0.84, 0.96, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  258 ---
+max:  1.0
+min:  0.36
+ave:  0.5992000000000001
+can_learning:  16
+cannot_learning:  33
+perfect:  1
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.32, 0.28, 0.44]
+ --- generation:  259 ---
+max:  0.86
+min:  0.17
+ave:  0.5192
+can_learning:  35
+cannot_learning:  15
+perfect:  0
+history_of_best: [0.56, 0.88, 1.0, 1.0]
+history_of_worst: [0.2, 0.12, 0.16, 0.2]
+ --- generation:  260 ---
+max:  1.0
+min:  0.46
+ave:  0.6431999999999999
+can_learning:  10
+cannot_learning:  36
+perfect:  4
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.44, 0.4, 0.4]
+ --- generation:  261 ---
+max:  0.84
+min:  0.08
+ave:  0.5001999999999999
+can_learning:  41
+cannot_learning:  9
+perfect:  0
+history_of_best: [0.6, 0.76, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.08, 0.16]
+ --- generation:  262 ---
+max:  1.0
+min:  0.4
+ave:  0.657
+can_learning:  14
+cannot_learning:  34
+perfect:  2
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.32, 0.24, 0.44]
+ --- generation:  263 ---
+max:  0.86
+min:  0.14
+ave:  0.5152000000000002
+can_learning:  43
+cannot_learning:  7
+perfect:  0
+history_of_best: [0.64, 0.8, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.32, 0.24]
+ --- generation:  264 ---
+max:  1.0
+min:  0.44
+ave:  0.6459999999999999
+can_learning:  12
+cannot_learning:  35
+perfect:  3
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.48, 0.28, 0.6]
+ --- generation:  265 ---
+max:  0.86
+min:  0.0
+ave:  0.5416000000000003
+can_learning:  42
+cannot_learning:  8
+perfect:  0
+history_of_best: [0.52, 0.92, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  266 ---
+max:  1.0
+min:  0.44
+ave:  0.6743999999999999
+can_learning:  11
+cannot_learning:  31
+perfect:  8
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.52, 0.4, 0.52]
+ --- generation:  267 ---
+max:  1.0
+min:  0.44
+ave:  0.6896000000000001
+can_learning:  9
+cannot_learning:  31
+perfect:  10
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.48, 0.4, 0.44]
+ --- generation:  268 ---
+max:  1.0
+min:  0.33
+ave:  0.7134
+can_learning:  8
+cannot_learning:  31
+perfect:  11
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.28, 0.4, 0.32]
+ --- generation:  269 ---
+max:  1.0
+min:  0.48
+ave:  0.7759999999999998
+can_learning:  10
+cannot_learning:  27
+perfect:  13
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.44, 0.48, 0.64]
+ --- generation:  270 ---
+max:  0.84
+min:  0.0
+ave:  0.4845999999999999
+can_learning:  35
+cannot_learning:  15
+perfect:  0
+history_of_best: [0.64, 0.72, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  271 ---
+max:  0.87
+min:  0.0
+ave:  0.5146000000000001
+can_learning:  42
+cannot_learning:  8
+perfect:  0
+history_of_best: [0.52, 0.96, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  272 ---
+max:  1.0
+min:  0.44
+ave:  0.6899999999999998
+can_learning:  11
+cannot_learning:  34
+perfect:  5
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.48, 0.32, 0.4]
+ --- generation:  273 ---
+max:  0.85
+min:  0.33
+ave:  0.6194000000000002
+can_learning:  44
+cannot_learning:  6
+perfect:  0
+history_of_best: [0.44, 0.96, 1.0, 1.0]
+history_of_worst: [0.36, 0.24, 0.32, 0.4]
+ --- generation:  274 ---
+max:  0.85
+min:  0.04
+ave:  0.5764
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.56, 0.84, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.16]
+ --- generation:  275 ---
+max:  1.0
+min:  0.3
+ave:  0.6572
+can_learning:  6
+cannot_learning:  40
+perfect:  4
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.32, 0.16, 0.04]
+ --- generation:  276 ---
+max:  1.0
+min:  0.27
+ave:  0.7040000000000002
+can_learning:  12
+cannot_learning:  29
+perfect:  9
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.24, 0.12, 0.08]
+ --- generation:  277 ---
+max:  1.0
+min:  0.45
+ave:  0.7142000000000001
+can_learning:  4
+cannot_learning:  38
+perfect:  8
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.4, 0.36, 0.48]
+ --- generation:  278 ---
+max:  1.0
+min:  0.44
+ave:  0.7614
+can_learning:  12
+cannot_learning:  25
+perfect:  13
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.4, 0.36, 0.4]
+ --- generation:  279 ---
+max:  0.87
+min:  0.24
+ave:  0.5473999999999998
+can_learning:  42
+cannot_learning:  8
+perfect:  0
+history_of_best: [0.6, 0.88, 1.0, 1.0]
+history_of_worst: [0.24, 0.2, 0.32, 0.2]
+ --- generation:  280 ---
+max:  0.84
+min:  0.23
+ave:  0.5917999999999998
+can_learning:  43
+cannot_learning:  7
+perfect:  0
+history_of_best: [0.44, 0.92, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.36, 0.48]
+ --- generation:  281 ---
+max:  0.82
+min:  0.35
+ave:  0.6188000000000001
+can_learning:  44
+cannot_learning:  6
+perfect:  0
+history_of_best: [0.52, 0.76, 1.0, 1.0]
+history_of_worst: [0.32, 0.44, 0.36, 0.28]
+ --- generation:  282 ---
+max:  1.0
+min:  0.43
+ave:  0.7088
+can_learning:  8
+cannot_learning:  33
+perfect:  9
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.28, 0.28, 0.4]
+ --- generation:  283 ---
+max:  0.84
+min:  0.37
+ave:  0.6436000000000002
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.44, 0.92, 1.0, 1.0]
+history_of_worst: [0.44, 0.4, 0.24, 0.4]
+ --- generation:  284 ---
+max:  0.85
+min:  0.15
+ave:  0.6027999999999998
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.56, 0.84, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.24, 0.36]
+ --- generation:  285 ---
+max:  0.85
+min:  0.36
+ave:  0.6054000000000002
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.48, 0.92, 1.0, 1.0]
+history_of_worst: [0.36, 0.16, 0.4, 0.52]
+ --- generation:  286 ---
+max:  1.0
+min:  0.46
+ave:  0.6686
+can_learning:  8
+cannot_learning:  37
+perfect:  5
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.4, 0.44, 0.44]
+ --- generation:  287 ---
+max:  1.0
+min:  0.49
+ave:  0.6918
+can_learning:  5
+cannot_learning:  39
+perfect:  6
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.48, 0.32, 0.48]
+ --- generation:  288 ---
+max:  0.85
+min:  0.0
+ave:  0.575
+can_learning:  43
+cannot_learning:  7
+perfect:  0
+history_of_best: [0.64, 0.76, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  289 ---
+max:  1.0
+min:  0.4
+ave:  0.7195999999999997
+can_learning:  8
+cannot_learning:  34
+perfect:  8
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.28, 0.4, 0.28]
+ --- generation:  290 ---
+max:  0.84
+min:  0.0
+ave:  0.6292000000000002
+can_learning:  44
+cannot_learning:  6
+perfect:  0
+history_of_best: [0.48, 0.88, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  291 ---
+max:  0.82
+min:  0.0
+ave:  0.5818000000000001
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.52, 0.76, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  292 ---
+max:  0.83
+min:  0.0
+ave:  0.6082
+can_learning:  44
+cannot_learning:  6
+perfect:  0
+history_of_best: [0.44, 0.88, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  293 ---
+max:  1.0
+min:  0.44
+ave:  0.7430000000000001
+can_learning:  13
+cannot_learning:  27
+perfect:  10
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.32, 0.44, 0.44]
+ --- generation:  294 ---
+max:  1.0
+min:  0.48
+ave:  0.7696000000000001
+can_learning:  8
+cannot_learning:  32
+perfect:  10
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.52, 0.48, 0.44]
+ --- generation:  295 ---
+max:  1.0
+min:  0.41
+ave:  0.7458
+can_learning:  10
+cannot_learning:  23
+perfect:  17
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.36, 0.4, 0.32]
+ --- generation:  296 ---
+max:  0.82
+min:  0.0
+ave:  0.5409999999999998
+can_learning:  40
+cannot_learning:  10
+perfect:  0
+history_of_best: [0.4, 0.88, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  297 ---
+max:  1.0
+min:  0.45
+ave:  0.8236000000000001
+can_learning:  5
+cannot_learning:  27
+perfect:  18
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.32, 0.48, 0.44]
+ --- generation:  298 ---
+max:  0.83
+min:  0.0
+ave:  0.5588000000000002
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.4, 0.92, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  299 ---
+max:  1.0
+min:  0.45
+ave:  0.82
+can_learning:  15
+cannot_learning:  18
+perfect:  17
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.48, 0.4, 0.48]
+ --- generation:  300 ---
+max:  0.83
+min:  0.18
+ave:  0.6263999999999998
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.48, 0.84, 1.0, 1.0]
+history_of_worst: [0.24, 0.36, 0.0, 0.12]
+ --- generation:  301 ---
+max:  0.85
+min:  0.23
+ave:  0.6335999999999998
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.4, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.16, 0.36, 0.36]
+ --- generation:  302 ---
+max:  0.85
+min:  0.0
+ave:  0.5712
+can_learning:  41
+cannot_learning:  9
+perfect:  0
+history_of_best: [0.52, 0.88, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  303 ---
+max:  0.82
+min:  0.0
+ave:  0.5626000000000001
+can_learning:  43
+cannot_learning:  7
+perfect:  0
+history_of_best: [0.32, 0.96, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  304 ---
+max:  1.0
+min:  0.43
+ave:  0.7872000000000002
+can_learning:  7
+cannot_learning:  30
+perfect:  13
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.28, 0.48, 0.32]
+ --- generation:  305 ---
+max:  0.83
+min:  0.0
+ave:  0.6043999999999999
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.44, 0.88, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  306 ---
+max:  0.88
+min:  0.37
+ave:  0.6663999999999999
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.6, 0.92, 1.0, 1.0]
+history_of_worst: [0.08, 0.56, 0.52, 0.32]
+ --- generation:  307 ---
+max:  1.0
+min:  0.42
+ave:  0.8151999999999999
+can_learning:  11
+cannot_learning:  22
+perfect:  17
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.4, 0.32, 0.6]
+ --- generation:  308 ---
+max:  1.0
+min:  0.46
+ave:  0.8537999999999997
+can_learning:  5
+cannot_learning:  24
+perfect:  21
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.48, 0.36, 0.4]
+ --- generation:  309 ---
+max:  0.82
+min:  0.08
+ave:  0.5759999999999998
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.4, 0.88, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.32]
+ --- generation:  310 ---
+max:  0.84
+min:  0.32
+ave:  0.6409999999999997
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.44, 0.92, 1.0, 1.0]
+history_of_worst: [0.32, 0.28, 0.4, 0.28]
+ --- generation:  311 ---
+max:  1.0
+min:  0.56
+ave:  0.8839999999999997
+can_learning:  4
+cannot_learning:  20
+perfect:  26
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.96, 0.52, 0.44, 0.32]
+ --- generation:  312 ---
+max:  0.85
+min:  0.0
+ave:  0.5851999999999999
+can_learning:  44
+cannot_learning:  6
+perfect:  0
+history_of_best: [0.4, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  313 ---
+max:  1.0
+min:  0.51
+ave:  0.9176000000000002
+can_learning:  7
+cannot_learning:  11
+perfect:  32
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.52, 0.48, 0.64]
+ --- generation:  314 ---
+max:  1.0
+min:  0.48
+ave:  0.8909999999999999
+can_learning:  10
+cannot_learning:  12
+perfect:  28
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.52, 0.44, 0.52]
+ --- generation:  315 ---
+max:  1.0
+min:  0.38
+ave:  0.9128000000000001
+can_learning:  9
+cannot_learning:  13
+perfect:  28
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.88, 0.4, 0.12, 0.12]
+ --- generation:  316 ---
+max:  1.0
+min:  0.47
+ave:  0.9114
+can_learning:  8
+cannot_learning:  11
+perfect:  31
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.56, 0.4, 0.44]
+ --- generation:  317 ---
+max:  1.0
+min:  0.48
+ave:  0.9477999999999999
+can_learning:  3
+cannot_learning:  6
+perfect:  41
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.56, 0.48, 0.48]
+ --- generation:  318 ---
+max:  1.0
+min:  0.52
+ave:  0.9664000000000005
+can_learning:  6
+cannot_learning:  8
+perfect:  36
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.44, 0.44, 0.6]
+ --- generation:  319 ---
+max:  0.83
+min:  0.26
+ave:  0.5627999999999999
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.4, 0.92, 1.0, 1.0]
+history_of_worst: [0.24, 0.24, 0.28, 0.28]
+ --- generation:  320 ---
+max:  1.0
+min:  0.49
+ave:  0.9386000000000001
+can_learning:  4
+cannot_learning:  9
+perfect:  37
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.56, 0.52, 0.48]
+ --- generation:  321 ---
+max:  1.0
+min:  0.5
+ave:  0.9520000000000003
+can_learning:  3
+cannot_learning:  9
+perfect:  38
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.6, 0.56]
+ --- generation:  322 ---
+max:  1.0
+min:  0.62
+ave:  0.9804
+can_learning:  2
+cannot_learning:  5
+perfect:  43
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.96, 0.64, 0.52, 0.36]
+ --- generation:  323 ---
+max:  0.83
+min:  0.12
+ave:  0.5852
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.52, 0.8, 1.0, 1.0]
+history_of_worst: [0.16, 0.32, 0.0, 0.0]
+ --- generation:  324 ---
+max:  0.84
+min:  0.24
+ave:  0.6044
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.44, 0.92, 1.0, 1.0]
+history_of_worst: [0.0, 0.08, 0.16, 0.72]
+ --- generation:  325 ---
+max:  1.0
+min:  0.56
+ave:  0.9636000000000002
+can_learning:  7
+cannot_learning:  8
+perfect:  35
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.88, 0.48, 0.44, 0.44]
+ --- generation:  326 ---
+max:  0.86
+min:  0.21
+ave:  0.6162000000000001
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.44, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.24, 0.2, 0.24]
+ --- generation:  327 ---
+max:  0.85
+min:  0.21
+ave:  0.6346
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.44, 0.96, 1.0, 1.0]
+history_of_worst: [0.12, 0.12, 0.04, 0.56]
+ --- generation:  328 ---
+max:  1.0
+min:  0.67
+ave:  0.9495999999999997
+can_learning:  2
+cannot_learning:  12
+perfect:  36
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [1.0, 0.72, 0.52, 0.44]
+ --- generation:  329 ---
+max:  0.85
+min:  0.3
+ave:  0.6424
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.56, 0.84, 1.0, 1.0]
+history_of_worst: [0.32, 0.32, 0.2, 0.36]
+ --- generation:  330 ---
+max:  1.0
+min:  0.59
+ave:  0.9599999999999999
+can_learning:  0
+cannot_learning:  8
+perfect:  42
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.8, 0.52, 0.52, 0.52]
+ --- generation:  331 ---
+max:  1.0
+min:  0.6
+ave:  0.9484000000000001
+can_learning:  2
+cannot_learning:  9
+perfect:  39
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.36, 0.44, 1.0]
+ --- generation:  332 ---
+max:  1.0
+min:  0.67
+ave:  0.9624000000000001
+can_learning:  3
+cannot_learning:  7
+perfect:  40
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [1.0, 0.72, 0.36, 0.6]
+ --- generation:  333 ---
+max:  0.86
+min:  0.28
+ave:  0.6312000000000001
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.52, 0.92, 1.0, 1.0]
+history_of_worst: [0.08, 0.24, 0.36, 0.44]
+ --- generation:  334 ---
+max:  1.0
+min:  0.59
+ave:  0.9556
+can_learning:  1
+cannot_learning:  9
+perfect:  40
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.88, 0.56, 0.48, 0.44]
+ --- generation:  335 ---
+max:  0.86
+min:  0.29
+ave:  0.5946000000000001
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.44, 1.0, 1.0, 1.0]
+history_of_worst: [0.12, 0.32, 0.36, 0.36]
+ --- generation:  336 ---
+max:  1.0
+min:  0.51
+ave:  0.9486000000000001
+can_learning:  1
+cannot_learning:  10
+perfect:  39
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.44, 0.36, 0.56]
+ --- generation:  337 ---
+max:  1.0
+min:  0.48
+ave:  0.9414
+can_learning:  0
+cannot_learning:  10
+perfect:  40
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.52, 0.44, 0.44]
+ --- generation:  338 ---
+max:  1.0
+min:  0.48
+ave:  0.9623999999999999
+can_learning:  1
+cannot_learning:  8
+perfect:  41
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.28, 0.4, 0.52]
+ --- generation:  339 ---
+max:  1.0
+min:  0.48
+ave:  0.9339999999999999
+can_learning:  2
+cannot_learning:  8
+perfect:  40
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.44, 0.52, 0.36]
+ --- generation:  340 ---
+max:  1.0
+min:  0.55
+ave:  0.944
+can_learning:  2
+cannot_learning:  9
+perfect:  39
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.6, 0.56, 0.4]
+ --- generation:  341 ---
+max:  0.86
+min:  0.0
+ave:  0.5764
+can_learning:  43
+cannot_learning:  7
+perfect:  0
+history_of_best: [0.64, 0.8, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  342 ---
+max:  0.89
+min:  0.0
+ave:  0.6288000000000001
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.6, 0.96, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  343 ---
+max:  1.0
+min:  0.51
+ave:  0.9308
+can_learning:  0
+cannot_learning:  11
+perfect:  39
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.44, 0.4, 0.56]
+ --- generation:  344 ---
+max:  1.0
+min:  0.51
+ave:  0.9462
+can_learning:  2
+cannot_learning:  9
+perfect:  39
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.32, 0.52, 0.68]
+ --- generation:  345 ---
+max:  1.0
+min:  0.5
+ave:  0.9136000000000003
+can_learning:  2
+cannot_learning:  14
+perfect:  34
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.96, 0.56, 0.24, 0.24]
+ --- generation:  346 ---
+max:  0.86
+min:  0.13
+ave:  0.574
+can_learning:  44
+cannot_learning:  6
+perfect:  0
+history_of_best: [0.6, 0.84, 1.0, 1.0]
+history_of_worst: [0.04, 0.08, 0.08, 0.32]
+ --- generation:  347 ---
+max:  0.87
+min:  0.01
+ave:  0.6557999999999998
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.64, 0.84, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.0, 0.0]
+ --- generation:  348 ---
+max:  0.88
+min:  0.4
+ave:  0.6821999999999998
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.6, 0.92, 1.0, 1.0]
+history_of_worst: [0.28, 0.44, 0.4, 0.48]
+ --- generation:  349 ---
+max:  0.87
+min:  0.4
+ave:  0.6908
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.64, 0.84, 1.0, 1.0]
+history_of_worst: [0.36, 0.32, 0.52, 0.4]
+ --- generation:  350 ---
+max:  1.0
+min:  0.28
+ave:  0.8296000000000002
+can_learning:  2
+cannot_learning:  20
+perfect:  28
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.84, 0.24, 0.04, 0.0]
+ --- generation:  351 ---
+max:  1.0
+min:  0.45
+ave:  0.9029999999999996
+can_learning:  6
+cannot_learning:  15
+perfect:  29
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.2, 0.4, 0.6]
+ --- generation:  352 ---
+max:  1.0
+min:  0.46
+ave:  0.8019999999999999
+can_learning:  6
+cannot_learning:  26
+perfect:  18
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.4, 0.4, 0.52]
+ --- generation:  353 ---
+max:  0.86
+min:  0.17
+ave:  0.6483999999999999
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.64, 0.8, 1.0, 1.0]
+history_of_worst: [0.16, 0.24, 0.12, 0.16]
+ --- generation:  354 ---
+max:  0.85
+min:  0.0
+ave:  0.6354
+can_learning:  44
+cannot_learning:  6
+perfect:  0
+history_of_best: [0.52, 0.88, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  355 ---
+max:  1.0
+min:  0.53
+ave:  0.8976000000000003
+can_learning:  4
+cannot_learning:  16
+perfect:  30
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.44, 0.48, 0.56]
+ --- generation:  356 ---
+max:  1.0
+min:  0.38
+ave:  0.9226000000000003
+can_learning:  8
+cannot_learning:  11
+perfect:  31
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.44, 0.24, 0.36]
+ --- generation:  357 ---
+max:  1.0
+min:  0.5
+ave:  0.9474000000000005
+can_learning:  12
+cannot_learning:  6
+perfect:  32
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.48, 0.56, 0.48]
+ --- generation:  358 ---
+max:  1.0
+min:  0.36
+ave:  0.9114000000000003
+can_learning:  16
+cannot_learning:  4
+perfect:  30
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.44, 0.4, 0.32]
+ --- generation:  359 ---
+max:  1.0
+min:  0.28
+ave:  0.9410000000000003
+can_learning:  12
+cannot_learning:  8
+perfect:  30
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.28, 0.0]
+ --- generation:  360 ---
+max:  1.0
+min:  0.48
+ave:  0.9548000000000001
+can_learning:  10
+cannot_learning:  5
+perfect:  35
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.48, 0.4, 0.48]
+ --- generation:  361 ---
+max:  1.0
+min:  0.44
+ave:  0.9603999999999999
+can_learning:  6
+cannot_learning:  3
+perfect:  41
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.44, 0.36, 0.56]
+ --- generation:  362 ---
+max:  1.0
+min:  0.49
+ave:  0.9658000000000002
+can_learning:  8
+cannot_learning:  3
+perfect:  39
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.56, 0.44, 0.52]
+ --- generation:  363 ---
+max:  0.83
+min:  0.21
+ave:  0.5513999999999999
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.52, 0.8, 1.0, 1.0]
+history_of_worst: [0.28, 0.36, 0.08, 0.12]
+ --- generation:  364 ---
+max:  0.82
+min:  0.16
+ave:  0.6327999999999999
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.56, 0.72, 1.0, 1.0]
+history_of_worst: [0.36, 0.28, 0.0, 0.0]
+ --- generation:  365 ---
+max:  1.0
+min:  0.43
+ave:  0.9422
+can_learning:  4
+cannot_learning:  6
+perfect:  40
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.6, 0.48, 0.04]
+ --- generation:  366 ---
+max:  1.0
+min:  0.46
+ave:  0.9218000000000001
+can_learning:  5
+cannot_learning:  7
+perfect:  38
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.44, 0.4, 0.48]
+ --- generation:  367 ---
+max:  0.88
+min:  0.37
+ave:  0.6186
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.56, 0.96, 1.0, 1.0]
+history_of_worst: [0.16, 0.52, 0.4, 0.4]
+ --- generation:  368 ---
+max:  1.0
+min:  0.53
+ave:  0.9222000000000005
+can_learning:  2
+cannot_learning:  12
+perfect:  36
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.6, 0.4, 0.52]
+ --- generation:  369 ---
+max:  1.0
+min:  0.61
+ave:  0.9477999999999999
+can_learning:  7
+cannot_learning:  8
+perfect:  35
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.6, 0.6, 0.56]
+ --- generation:  370 ---
+max:  0.81
+min:  0.23
+ave:  0.5398000000000001
+can_learning:  43
+cannot_learning:  7
+perfect:  0
+history_of_best: [0.4, 0.84, 1.0, 1.0]
+history_of_worst: [0.24, 0.28, 0.24, 0.16]
+ --- generation:  371 ---
+max:  0.81
+min:  0.25
+ave:  0.577
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.4, 0.84, 1.0, 1.0]
+history_of_worst: [0.16, 0.16, 0.2, 0.48]
+ --- generation:  372 ---
+max:  1.0
+min:  0.33
+ave:  0.8201999999999998
+can_learning:  7
+cannot_learning:  17
+perfect:  26
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.32, 0.28, 0.0]
+ --- generation:  373 ---
+max:  1.0
+min:  0.45
+ave:  0.8810000000000001
+can_learning:  3
+cannot_learning:  14
+perfect:  33
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.44, 0.4, 0.32]
+ --- generation:  374 ---
+max:  1.0
+min:  0.41
+ave:  0.9228000000000001
+can_learning:  4
+cannot_learning:  9
+perfect:  37
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.44, 0.28, 0.4]
+ --- generation:  375 ---
+max:  0.78
+min:  0.33
+ave:  0.5884000000000001
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.36, 0.76, 1.0, 1.0]
+history_of_worst: [0.36, 0.36, 0.32, 0.28]
+ --- generation:  376 ---
+max:  1.0
+min:  0.5
+ave:  0.8984000000000002
+can_learning:  1
+cannot_learning:  13
+perfect:  36
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.64, 0.32, 0.4]
+ --- generation:  377 ---
+max:  0.78
+min:  0.32
+ave:  0.5765999999999999
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.44, 0.68, 1.0, 1.0]
+history_of_worst: [0.32, 0.16, 0.32, 0.48]
+ --- generation:  378 ---
+max:  0.8
+min:  0.35
+ave:  0.5918000000000001
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.36, 0.84, 1.0, 1.0]
+history_of_worst: [0.12, 0.56, 0.36, 0.36]
+ --- generation:  379 ---
+max:  1.0
+min:  0.5
+ave:  0.8939999999999998
+can_learning:  2
+cannot_learning:  15
+perfect:  33
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.44, 0.52, 0.52]
+ --- generation:  380 ---
+max:  0.84
+min:  0.32
+ave:  0.6094000000000003
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.44, 0.92, 1.0, 1.0]
+history_of_worst: [0.36, 0.32, 0.28, 0.32]
+ --- generation:  381 ---
+max:  0.83
+min:  0.37
+ave:  0.6524
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.44, 0.88, 1.0, 1.0]
+history_of_worst: [0.24, 0.24, 0.4, 0.6]
+ --- generation:  382 ---
+max:  0.8
+min:  0.31
+ave:  0.5855999999999998
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.36, 0.84, 1.0, 1.0]
+history_of_worst: [0.2, 0.36, 0.28, 0.4]
+ --- generation:  383 ---
+max:  1.0
+min:  0.49
+ave:  0.8088000000000002
+can_learning:  2
+cannot_learning:  23
+perfect:  25
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.52, 0.4, 0.44]
+ --- generation:  384 ---
+max:  1.0
+min:  0.39
+ave:  0.7881999999999999
+can_learning:  3
+cannot_learning:  25
+perfect:  22
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.48, 0.56, 0.16]
+ --- generation:  385 ---
+max:  1.0
+min:  0.42
+ave:  0.8083999999999999
+can_learning:  6
+cannot_learning:  18
+perfect:  26
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.44, 0.44, 0.52]
+ --- generation:  386 ---
+max:  1.0
+min:  0.48
+ave:  0.8706000000000002
+can_learning:  0
+cannot_learning:  17
+perfect:  33
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.32, 0.52, 0.44]
+ --- generation:  387 ---
+max:  1.0
+min:  0.5
+ave:  0.8935999999999998
+can_learning:  3
+cannot_learning:  12
+perfect:  35
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.52, 0.52, 0.48]
+ --- generation:  388 ---
+max:  0.8
+min:  0.39
+ave:  0.6040000000000001
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.4, 0.8, 1.0, 1.0]
+history_of_worst: [0.2, 0.32, 0.48, 0.56]
+ --- generation:  389 ---
+max:  0.83
+min:  0.31
+ave:  0.6231999999999999
+can_learning:  50
+cannot_learning:  0
+perfect:  0
+history_of_best: [0.48, 0.84, 1.0, 1.0]
+history_of_worst: [0.32, 0.16, 0.32, 0.44]
+ --- generation:  390 ---
+max:  0.77
+min:  0.15
+ave:  0.6268
+can_learning:  50
+cannot_learning:  0
+perfect:  0
+history_of_best: [0.4, 0.68, 1.0, 1.0]
+history_of_worst: [0.04, 0.24, 0.16, 0.16]
+ --- generation:  391 ---
+max:  0.8
+min:  0.33
+ave:  0.6432000000000001
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.28, 0.92, 1.0, 1.0]
+history_of_worst: [0.52, 0.36, 0.28, 0.16]
+ --- generation:  392 ---
+max:  0.76
+min:  0.26
+ave:  0.5811999999999999
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.6, 0.64, 1.0, 0.8]
+history_of_worst: [0.36, 0.32, 0.24, 0.12]
+ --- generation:  393 ---
+max:  0.82
+min:  0.3
+ave:  0.6314000000000001
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.36, 0.92, 1.0, 1.0]
+history_of_worst: [0.16, 0.32, 0.12, 0.6]
+ --- generation:  394 ---
+max:  1.0
+min:  0.43
+ave:  0.6990000000000002
+can_learning:  11
+cannot_learning:  30
+perfect:  9
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.52, 0.48, 0.08]
+ --- generation:  395 ---
+max:  0.79
+min:  0.42
+ave:  0.6182
+can_learning:  44
+cannot_learning:  6
+perfect:  0
+history_of_best: [0.56, 0.6, 1.0, 1.0]
+history_of_worst: [0.28, 0.4, 0.48, 0.52]
+ --- generation:  396 ---
+max:  0.79
+min:  0.38
+ave:  0.6166
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.4, 0.76, 1.0, 1.0]
+history_of_worst: [0.28, 0.52, 0.36, 0.36]
+ --- generation:  397 ---
+max:  0.81
+min:  0.35
+ave:  0.6134
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.4, 0.84, 1.0, 1.0]
+history_of_worst: [0.12, 0.52, 0.24, 0.52]
+ --- generation:  398 ---
+max:  0.79
+min:  0.26
+ave:  0.6090000000000001
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.44, 0.72, 1.0, 1.0]
+history_of_worst: [0.24, 0.24, 0.32, 0.24]
+ --- generation:  399 ---
+max:  0.81
+min:  0.37
+ave:  0.634
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.36, 0.88, 1.0, 1.0]
+history_of_worst: [0.28, 0.32, 0.36, 0.52]
+ --- generation:  400 ---
+max:  0.81
+min:  0.29
+ave:  0.6406000000000002
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.44, 0.8, 1.0, 1.0]
+history_of_worst: [0.44, 0.44, 0.16, 0.12]
+ --- generation:  401 ---
+max:  1.0
+min:  0.46
+ave:  0.7025999999999999
+can_learning:  6
+cannot_learning:  31
+perfect:  13
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.4, 0.52, 0.48]
+ --- generation:  402 ---
+max:  0.79
+min:  0.36
+ave:  0.6018
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.4, 0.76, 1.0, 1.0]
+history_of_worst: [0.32, 0.4, 0.28, 0.44]
+ --- generation:  403 ---
+max:  0.81
+min:  0.22
+ave:  0.5884
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.48, 0.76, 1.0, 1.0]
+history_of_worst: [0.28, 0.28, 0.16, 0.16]
+ --- generation:  404 ---
+max:  0.82
+min:  0.19
+ave:  0.6172000000000001
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.44, 0.84, 1.0, 1.0]
+history_of_worst: [0.24, 0.32, 0.08, 0.12]
+ --- generation:  405 ---
+max:  1.0
+min:  0.24
+ave:  0.7058000000000001
+can_learning:  15
+cannot_learning:  22
+perfect:  13
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.0, 0.32, 0.04]
+ --- generation:  406 ---
+max:  1.0
+min:  0.18
+ave:  0.7314
+can_learning:  12
+cannot_learning:  23
+perfect:  15
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.24, 0.0, 0.0]
+ --- generation:  407 ---
+max:  1.0
+min:  0.38
+ave:  0.8393999999999998
+can_learning:  13
+cannot_learning:  15
+perfect:  22
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.4, 0.36, 0.32]
+ --- generation:  408 ---
+max:  1.0
+min:  0.45
+ave:  0.8633999999999997
+can_learning:  10
+cannot_learning:  14
+perfect:  26
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.44, 0.44, 0.48]
+ --- generation:  409 ---
+max:  1.0
+min:  0.23
+ave:  0.8758
+can_learning:  5
+cannot_learning:  12
+perfect:  33
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.04, 0.08, 0.28]
+ --- generation:  410 ---
+max:  1.0
+min:  0.38
+ave:  0.8756
+can_learning:  5
+cannot_learning:  13
+perfect:  32
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.44, 0.4, 0.0]
+ --- generation:  411 ---
+max:  0.8
+min:  0.05
+ave:  0.5763999999999999
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.32, 0.88, 1.0, 1.0]
+history_of_worst: [0.16, 0.04, 0.0, 0.0]
+ --- generation:  412 ---
+max:  0.78
+min:  0.21
+ave:  0.5668000000000001
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.32, 0.8, 1.0, 1.0]
+history_of_worst: [0.28, 0.08, 0.04, 0.44]
+ --- generation:  413 ---
+max:  0.81
+min:  0.26
+ave:  0.5886000000000001
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.4, 0.84, 1.0, 1.0]
+history_of_worst: [0.36, 0.24, 0.24, 0.2]
+ --- generation:  414 ---
+max:  0.8
+min:  0.0
+ave:  0.56
+can_learning:  42
+cannot_learning:  8
+perfect:  0
+history_of_best: [0.28, 0.92, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  415 ---
+max:  0.78
+min:  0.33
+ave:  0.5907999999999999
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.24, 0.88, 1.0, 1.0]
+history_of_worst: [0.24, 0.28, 0.4, 0.4]
+ --- generation:  416 ---
+max:  1.0
+min:  0.37
+ave:  0.8154000000000002
+can_learning:  3
+cannot_learning:  21
+perfect:  26
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.2, 0.4, 0.36]
+ --- generation:  417 ---
+max:  1.0
+min:  0.44
+ave:  0.8068
+can_learning:  4
+cannot_learning:  21
+perfect:  25
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.28, 0.48, 0.44]
+ --- generation:  418 ---
+max:  1.0
+min:  0.46
+ave:  0.8447999999999997
+can_learning:  9
+cannot_learning:  16
+perfect:  25
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.44, 0.56, 0.32]
+ --- generation:  419 ---
+max:  0.81
+min:  0.35
+ave:  0.5804000000000001
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.44, 0.8, 1.0, 1.0]
+history_of_worst: [0.24, 0.44, 0.28, 0.44]
+ --- generation:  420 ---
+max:  1.0
+min:  0.46
+ave:  0.8111999999999998
+can_learning:  11
+cannot_learning:  17
+perfect:  22
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.4, 0.52, 0.4]
+ --- generation:  421 ---
+max:  1.0
+min:  0.31
+ave:  0.8562000000000002
+can_learning:  5
+cannot_learning:  12
+perfect:  33
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.48, 0.04, 0.0]
+ --- generation:  422 ---
+max:  1.0
+min:  0.44
+ave:  0.8938000000000001
+can_learning:  3
+cannot_learning:  10
+perfect:  37
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.44, 0.36, 0.36]
+ --- generation:  423 ---
+max:  0.75
+min:  0.28
+ave:  0.5684000000000001
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.4, 0.6, 1.0, 1.0]
+history_of_worst: [0.08, 0.32, 0.24, 0.48]
+ --- generation:  424 ---
+max:  0.74
+min:  0.35
+ave:  0.5644
+can_learning:  44
+cannot_learning:  6
+perfect:  0
+history_of_best: [0.24, 0.72, 1.0, 1.0]
+history_of_worst: [0.04, 0.32, 0.4, 0.64]
+ --- generation:  425 ---
+max:  0.76
+min:  0.36
+ave:  0.5744
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.4, 0.64, 1.0, 1.0]
+history_of_worst: [0.28, 0.28, 0.36, 0.52]
+ --- generation:  426 ---
+max:  0.83
+min:  0.36
+ave:  0.6037999999999999
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.4, 0.92, 1.0, 1.0]
+history_of_worst: [0.2, 0.32, 0.48, 0.44]
+ --- generation:  427 ---
+max:  1.0
+min:  0.41
+ave:  0.7095999999999999
+can_learning:  8
+cannot_learning:  25
+perfect:  17
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.36, 0.4, 0.48]
+ --- generation:  428 ---
+max:  0.8
+min:  0.32
+ave:  0.5996000000000001
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.4, 0.8, 1.0, 1.0]
+history_of_worst: [0.36, 0.28, 0.2, 0.44]
+ --- generation:  429 ---
+max:  1.0
+min:  0.38
+ave:  0.7269999999999999
+can_learning:  12
+cannot_learning:  23
+perfect:  15
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.6, 0.4, 0.0]
+ --- generation:  430 ---
+max:  1.0
+min:  0.45
+ave:  0.8160000000000001
+can_learning:  11
+cannot_learning:  14
+perfect:  25
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.2, 0.28, 0.68]
+ --- generation:  431 ---
+max:  1.0
+min:  0.47
+ave:  0.8679999999999997
+can_learning:  11
+cannot_learning:  14
+perfect:  25
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.48, 0.6, 0.28]
+ --- generation:  432 ---
+max:  1.0
+min:  0.28
+ave:  0.8295999999999999
+can_learning:  12
+cannot_learning:  16
+perfect:  22
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.64, 0.04, 0.0]
+ --- generation:  433 ---
+max:  0.78
+min:  0.3
+ave:  0.5798000000000002
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.24, 0.88, 1.0, 1.0]
+history_of_worst: [0.36, 0.24, 0.32, 0.28]
+ --- generation:  434 ---
+max:  1.0
+min:  0.47
+ave:  0.8435999999999995
+can_learning:  13
+cannot_learning:  15
+perfect:  22
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.72, 0.28, 0.36]
+ --- generation:  435 ---
+max:  1.0
+min:  0.47
+ave:  0.8347999999999999
+can_learning:  7
+cannot_learning:  17
+perfect:  26
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.32, 0.4, 0.64]
+ --- generation:  436 ---
+max:  1.0
+min:  0.5
+ave:  0.8839999999999999
+can_learning:  9
+cannot_learning:  11
+perfect:  30
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.52, 0.4, 0.56]
+ --- generation:  437 ---
+max:  0.81
+min:  0.18
+ave:  0.5863999999999999
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.44, 0.8, 1.0, 1.0]
+history_of_worst: [0.32, 0.16, 0.12, 0.12]
+ --- generation:  438 ---
+max:  0.8
+min:  0.2
+ave:  0.5935999999999999
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.48, 0.84, 0.96, 0.92]
+history_of_worst: [0.24, 0.12, 0.32, 0.12]
+ --- generation:  439 ---
+max:  1.0
+min:  0.21
+ave:  0.7914000000000001
+can_learning:  5
+cannot_learning:  20
+perfect:  25
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.2, 0.0, 0.0]
+ --- generation:  440 ---
+max:  1.0
+min:  0.35
+ave:  0.8466
+can_learning:  8
+cannot_learning:  14
+perfect:  28
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.28, 0.28]
+ --- generation:  441 ---
+max:  0.8
+min:  0.02
+ave:  0.548
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.52, 0.68, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.0, 0.0]
+ --- generation:  442 ---
+max:  1.0
+min:  0.44
+ave:  0.8344000000000003
+can_learning:  7
+cannot_learning:  15
+perfect:  28
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.4, 0.4, 0.44]
+ --- generation:  443 ---
+max:  0.84
+min:  0.35
+ave:  0.6148000000000002
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.52, 0.84, 1.0, 1.0]
+history_of_worst: [0.04, 0.44, 0.44, 0.48]
+ --- generation:  444 ---
+max:  1.0
+min:  0.26
+ave:  0.7982
+can_learning:  3
+cannot_learning:  22
+perfect:  25
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.08, 0.24, 0.32]
+ --- generation:  445 ---
+max:  1.0
+min:  0.4
+ave:  0.8887999999999994
+can_learning:  5
+cannot_learning:  11
+perfect:  34
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.44, 0.44, 0.36]
+ --- generation:  446 ---
+max:  1.0
+min:  0.41
+ave:  0.9032000000000002
+can_learning:  7
+cannot_learning:  10
+perfect:  33
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.32, 0.52, 0.28]
+ --- generation:  447 ---
+max:  0.84
+min:  0.32
+ave:  0.6032000000000001
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.52, 0.84, 1.0, 1.0]
+history_of_worst: [0.4, 0.28, 0.32, 0.28]
+ --- generation:  448 ---
+max:  1.0
+min:  0.42
+ave:  0.9296
+can_learning:  3
+cannot_learning:  6
+perfect:  41
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.4, 0.44]
+ --- generation:  449 ---
+max:  1.0
+min:  0.53
+ave:  0.9736000000000001
+can_learning:  3
+cannot_learning:  2
+perfect:  45
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.4, 0.68, 0.6]
+ --- generation:  450 ---
+max:  1.0
+min:  0.49
+ave:  0.9319999999999999
+can_learning:  3
+cannot_learning:  6
+perfect:  41
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.28, 0.56, 0.52]
+ --- generation:  451 ---
+max:  0.82
+min:  0.2
+ave:  0.5830000000000001
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.44, 0.84, 1.0, 1.0]
+history_of_worst: [0.04, 0.08, 0.16, 0.52]
+ --- generation:  452 ---
+max:  0.85
+min:  0.43
+ave:  0.6629999999999999
+can_learning:  50
+cannot_learning:  0
+perfect:  0
+history_of_best: [0.48, 0.92, 1.0, 1.0]
+history_of_worst: [0.36, 0.4, 0.52, 0.44]
+ --- generation:  453 ---
+max:  0.85
+min:  0.4
+ave:  0.6466
+can_learning:  45
+cannot_learning:  5
+perfect:  0
+history_of_best: [0.48, 0.92, 1.0, 1.0]
+history_of_worst: [0.32, 0.36, 0.56, 0.36]
+ --- generation:  454 ---
+max:  0.82
+min:  0.4
+ave:  0.6755999999999999
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.68, 0.6, 1.0, 1.0]
+history_of_worst: [0.28, 0.44, 0.48, 0.4]
+ --- generation:  455 ---
+max:  1.0
+min:  0.5
+ave:  0.8926000000000002
+can_learning:  5
+cannot_learning:  11
+perfect:  34
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.6, 0.44, 0.4]
+ --- generation:  456 ---
+max:  1.0
+min:  0.44
+ave:  0.8921999999999999
+can_learning:  2
+cannot_learning:  14
+perfect:  34
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.68, 0.28, 0.4]
+ --- generation:  457 ---
+max:  1.0
+min:  0.45
+ave:  0.9165999999999999
+can_learning:  8
+cannot_learning:  7
+perfect:  35
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.36, 0.52, 0.52]
+ --- generation:  458 ---
+max:  0.81
+min:  0.0
+ave:  0.5781999999999999
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.4, 0.84, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  459 ---
+max:  1.0
+min:  0.43
+ave:  0.9030000000000002
+can_learning:  2
+cannot_learning:  12
+perfect:  36
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.48, 0.2, 0.4]
+ --- generation:  460 ---
+max:  0.81
+min:  0.33
+ave:  0.6532000000000001
+can_learning:  50
+cannot_learning:  0
+perfect:  0
+history_of_best: [0.52, 0.72, 1.0, 1.0]
+history_of_worst: [0.12, 0.4, 0.36, 0.44]
+ --- generation:  461 ---
+max:  1.0
+min:  0.5
+ave:  0.8805999999999998
+can_learning:  0
+cannot_learning:  15
+perfect:  35
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.44, 0.36, 0.56]
+ --- generation:  462 ---
+max:  0.84
+min:  0.0
+ave:  0.6134000000000001
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.52, 0.84, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.0, 0.0]
+ --- generation:  463 ---
+max:  0.84
+min:  0.38
+ave:  0.6591999999999998
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.52, 0.84, 1.0, 1.0]
+history_of_worst: [0.2, 0.32, 0.48, 0.52]
+ --- generation:  464 ---
+max:  1.0
+min:  0.33
+ave:  0.7864000000000003
+can_learning:  7
+cannot_learning:  19
+perfect:  24
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.36, 0.32, 0.36]
+ --- generation:  465 ---
+max:  1.0
+min:  0.36
+ave:  0.8734000000000002
+can_learning:  4
+cannot_learning:  12
+perfect:  34
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.32, 0.36, 0.28]
+ --- generation:  466 ---
+max:  1.0
+min:  0.45
+ave:  0.9162000000000002
+can_learning:  3
+cannot_learning:  11
+perfect:  36
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.44, 0.48, 0.44]
+ --- generation:  467 ---
+max:  1.0
+min:  0.5
+ave:  0.9526000000000002
+can_learning:  8
+cannot_learning:  5
+perfect:  37
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.4, 0.6, 0.48]
+ --- generation:  468 ---
+max:  0.83
+min:  0.09
+ave:  0.6016
+can_learning:  50
+cannot_learning:  0
+perfect:  0
+history_of_best: [0.4, 0.92, 1.0, 1.0]
+history_of_worst: [0.04, 0.08, 0.12, 0.12]
+ --- generation:  469 ---
+max:  0.84
+min:  0.2
+ave:  0.637
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.48, 0.88, 1.0, 1.0]
+history_of_worst: [0.08, 0.16, 0.16, 0.4]
+ --- generation:  470 ---
+max:  0.82
+min:  0.36
+ave:  0.6514
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.32, 0.96, 1.0, 1.0]
+history_of_worst: [0.16, 0.24, 0.28, 0.76]
+ --- generation:  471 ---
+max:  0.85
+min:  0.18
+ave:  0.6279999999999999
+can_learning:  46
+cannot_learning:  4
+perfect:  0
+history_of_best: [0.56, 0.84, 1.0, 1.0]
+history_of_worst: [0.08, 0.4, 0.12, 0.12]
+ --- generation:  472 ---
+max:  1.0
+min:  0.4
+ave:  0.9186000000000001
+can_learning:  5
+cannot_learning:  9
+perfect:  36
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.44, 0.24, 0.36]
+ --- generation:  473 ---
+max:  1.0
+min:  0.45
+ave:  0.9110000000000003
+can_learning:  7
+cannot_learning:  12
+perfect:  31
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.44, 0.56, 0.44]
+ --- generation:  474 ---
+max:  0.84
+min:  0.33
+ave:  0.6504000000000002
+can_learning:  50
+cannot_learning:  0
+perfect:  0
+history_of_best: [0.48, 0.88, 1.0, 1.0]
+history_of_worst: [0.12, 0.36, 0.4, 0.44]
+ --- generation:  475 ---
+max:  0.83
+min:  0.33
+ave:  0.6748000000000001
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.4, 0.92, 1.0, 1.0]
+history_of_worst: [0.16, 0.44, 0.4, 0.32]
+ --- generation:  476 ---
+max:  1.0
+min:  0.49
+ave:  0.8732000000000003
+can_learning:  4
+cannot_learning:  17
+perfect:  29
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.44, 0.52, 0.48]
+ --- generation:  477 ---
+max:  1.0
+min:  0.45
+ave:  0.8924000000000002
+can_learning:  7
+cannot_learning:  11
+perfect:  32
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.48, 0.44, 0.24]
+ --- generation:  478 ---
+max:  1.0
+min:  0.5
+ave:  0.9696000000000001
+can_learning:  7
+cannot_learning:  4
+perfect:  39
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.44, 0.56, 0.44]
+ --- generation:  479 ---
+max:  0.84
+min:  0.18
+ave:  0.6170000000000001
+can_learning:  42
+cannot_learning:  8
+perfect:  0
+history_of_best: [0.44, 0.92, 1.0, 1.0]
+history_of_worst: [0.2, 0.32, 0.2, 0.0]
+ --- generation:  480 ---
+max:  1.0
+min:  0.5
+ave:  0.9696000000000002
+can_learning:  3
+cannot_learning:  5
+perfect:  42
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.4, 0.48, 0.64]
+ --- generation:  481 ---
+max:  1.0
+min:  0.55
+ave:  0.9643999999999998
+can_learning:  3
+cannot_learning:  4
+perfect:  43
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.48, 0.48, 0.56]
+ --- generation:  482 ---
+max:  1.0
+min:  0.53
+ave:  0.9666000000000001
+can_learning:  0
+cannot_learning:  9
+perfect:  41
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.68, 0.48, 0.44]
+ --- generation:  483 ---
+max:  1.0
+min:  0.48
+ave:  0.9668000000000001
+can_learning:  3
+cannot_learning:  6
+perfect:  41
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.4, 0.44, 0.6]
+ --- generation:  484 ---
+max:  1.0
+min:  0.44
+ave:  0.9795999999999999
+can_learning:  2
+cannot_learning:  3
+perfect:  45
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.48, 0.48, 0.16]
+ --- generation:  485 ---
+max:  1.0
+min:  0.65
+ave:  0.9613999999999998
+can_learning:  0
+cannot_learning:  7
+perfect:  43
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.6, 0.6, 0.64]
+ --- generation:  486 ---
+max:  0.83
+min:  0.26
+ave:  0.6065999999999999
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.44, 0.88, 1.0, 1.0]
+history_of_worst: [0.08, 0.24, 0.32, 0.4]
+ --- generation:  487 ---
+max:  0.88
+min:  0.33
+ave:  0.6544
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.52, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.28, 0.4, 0.4]
+ --- generation:  488 ---
+max:  1.0
+min:  0.51
+ave:  0.9275999999999999
+can_learning:  3
+cannot_learning:  9
+perfect:  38
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.52, 0.4, 0.6]
+ --- generation:  489 ---
+max:  0.82
+min:  0.21
+ave:  0.6134
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.48, 0.8, 1.0, 1.0]
+history_of_worst: [0.24, 0.2, 0.24, 0.16]
+ --- generation:  490 ---
+max:  0.83
+min:  0.36
+ave:  0.6377999999999999
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.44, 0.88, 1.0, 1.0]
+history_of_worst: [0.28, 0.12, 0.52, 0.52]
+ --- generation:  491 ---
+max:  1.0
+min:  0.43
+ave:  0.8690000000000002
+can_learning:  5
+cannot_learning:  13
+perfect:  32
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.52, 0.36, 0.44]
+ --- generation:  492 ---
+max:  0.85
+min:  0.33
+ave:  0.6476000000000001
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.44, 0.96, 1.0, 1.0]
+history_of_worst: [0.08, 0.36, 0.48, 0.4]
+ --- generation:  493 ---
+max:  0.86
+min:  0.3
+ave:  0.6452000000000001
+can_learning:  47
+cannot_learning:  3
+perfect:  0
+history_of_best: [0.44, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.04, 0.32, 0.4]
+ --- generation:  494 ---
+max:  0.88
+min:  0.42
+ave:  0.6818000000000001
+can_learning:  49
+cannot_learning:  1
+perfect:  0
+history_of_best: [0.56, 0.96, 1.0, 1.0]
+history_of_worst: [0.4, 0.52, 0.32, 0.44]
+ --- generation:  495 ---
+max:  1.0
+min:  0.45
+ave:  0.9068
+can_learning:  6
+cannot_learning:  10
+perfect:  34
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.4, 0.36, 0.6]
+ --- generation:  496 ---
+max:  1.0
+min:  0.42
+ave:  0.9430000000000004
+can_learning:  15
+cannot_learning:  4
+perfect:  31
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.44, 0.48, 0.48]
+ --- generation:  497 ---
+max:  0.84
+min:  0.37
+ave:  0.6512
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.56, 0.8, 1.0, 1.0]
+history_of_worst: [0.24, 0.28, 0.48, 0.48]
+ --- generation:  498 ---
+max:  0.84
+min:  0.15
+ave:  0.6755999999999999
+can_learning:  50
+cannot_learning:  0
+perfect:  0
+history_of_best: [0.44, 0.92, 1.0, 1.0]
+history_of_worst: [0.12, 0.08, 0.12, 0.28]
+ --- generation:  499 ---
+max:  1.0
+min:  0.51
+ave:  0.9453999999999999
+can_learning:  2
+cannot_learning:  6
+perfect:  42
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.44, 0.56, 0.44]
+ --- generation:  500 ---
+max:  0.83
+min:  0.35
+ave:  0.6643999999999999
+can_learning:  48
+cannot_learning:  2
+perfect:  0
+history_of_best: [0.52, 0.8, 1.0, 1.0]
+history_of_worst: [0.24, 0.12, 0.52, 0.52]
+ === This is my self introduction !! === 
+I am  ModulatedExtendedHebbianNetworkAgent_1
+My original_connections:
+[[-9.97628505e-001 -2.10978070e-001  7.42667102e-001  8.61070595e-001
+   7.34897579e-001  6.90044613e-001  7.29192985e-002  5.79061510e-004]
+ [-4.87873456e-001  3.62522931e-001  4.55246093e-002 -8.79179406e-001
+   5.31290564e-001 -9.97257484e-001 -9.99585622e-001  1.95019010e-070]
+ [-5.76148013e-002 -5.38791848e-001 -3.78014596e-001  3.96550098e-002
+  -9.99151876e-001  2.64296053e-001 -2.48718361e-001 -1.43106893e-001]
+ [-1.93781061e-002  7.14902102e-001  4.80888005e-001 -6.47511947e-001
+  -7.68701464e-001 -5.83708958e-001  8.58862927e-001 -1.27313236e-111]
+ [ 6.02908494e-001  1.24343760e-001  9.10075749e-001  4.28332923e-001
+   7.89915891e-001  5.47424097e-002  3.28068374e-001  2.11700260e-001]
+ [-5.70935287e-002  9.32046488e-001  1.87983067e-001  9.93924446e-001
+   1.13797022e-001  3.75556919e-001 -3.20482920e-001  8.47014882e-004]
+ [-9.99505279e-001  8.35506385e-001  4.84526001e-001  1.61402732e-001
+   9.91719495e-001 -7.68857289e-001  9.03775931e-001  2.08455492e-090]
+ [-8.48994219e-001 -3.57784361e-001  4.36069234e-001 -4.29565309e-001
+  -7.91287164e-001 -5.64593963e-001  8.09969143e-001  1.89423587e-006]]
+My original_mask_array:
+[[1 1 1 1 1 1 0 1]
+ [1 1 1 0 1 1 1 1]
+ [0 1 1 1 1 0 1 0]
+ [1 1 0 1 1 1 0 1]
+ [1 0 1 1 1 1 1 1]
+ [1 1 1 1 1 1 1 1]
+ [1 0 1 0 1 1 1 1]
+ [1 0 1 1 1 1 1 1]]
+My evolutional parameters A,B,C,D :
+-0.2071029241117397 -0.9373140891104779 -0.2567742803519344 -0.45546395268069184
+My fitness was  0.83
+ ====================================== 
