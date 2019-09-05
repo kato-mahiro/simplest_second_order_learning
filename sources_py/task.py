@@ -121,14 +121,36 @@ class Task_9(Task_1):
     def __init__(self,generation_num):
         self.step = 0
         self.dispersion = random.randint(-10,10)
-        print('disperison : ',self.dispersion)
     def get_current_rule(self):
         self.step += 1
+        if self.step == LIFETIME_NUM +1:
+            self.step = 1
         print(self.step)
         if(self.step <= LIFETIME_NUM // 2 + self.dispersion):
             return CurrentRule.PIECE
         else:
             return CurrentRule.EMERGENCY
+
+class Task_10(Task_1):
+    #ルールが生涯のちょうど真ん中で変更されるタスク
+    # 開始時のルールはランダムに決まる
+    def __init__(self,generation_num):
+        if random.randint(0,1):
+            self.first_rule = CurrentRule.PIECE
+            self.second_rule = CurrentRule.EMERGENCY
+        else:
+            self.first_rule = CurrentRule.EMERGENCY
+            self.second_rule = CurrentRule.PIECE
+        self.step = 0
+    def get_current_rule(self):
+        self.step += 1
+        if self.step == LIFETIME_NUM +1:
+            self.step = 1
+        #print(self.step)
+        if(self.step <= LIFETIME_NUM // 2):
+            return self.first_rule
+        else:
+            return self.second_rule
 
 if __name__=='__main__':
     task = Task_9(10)
