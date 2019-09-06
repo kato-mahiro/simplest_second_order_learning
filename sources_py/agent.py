@@ -180,8 +180,8 @@ class FreeHebbianNetworkAgent(NeuralNetworkAgent):
         if(random.random() < MUTATION_PROB_B and self.nn.num_of_neuron > NEURON_NUM_LOWER_LIMIT):
             # delete one neuron
             print("いまニューロンが",self.nn.num_of_neuron,",個あります")
-            print("idxの範囲は4~",self.nn.num_of_neuron-1,"です")
-            idx = random.randint(4, self.nn.num_of_neuron-1)
+            print("idxの範囲は6~",self.nn.num_of_neuron-1,"です")
+            idx = random.randint(6, self.nn.num_of_neuron-1)
             print("idx: ",idx,"のニューロンを削除します")
             self.nn.del_neuron(idx)
 
