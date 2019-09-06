@@ -302,10 +302,49 @@ class ModulatedExtendedHebbianNetwork(ExtendedHebbianNetwork):
                     self.connections[r][c] = WEIGHT_LOWER_LIMIT
 
         self.make_masking()
+
 class FreeExtendedHebbianNetwork(ExtendedHebbianNetwork):
 
+    def extended_hebbian_update(self):
+        if(self.num_of_modulation_neuron == 0):
+            for r in range(self.num_of_neuron):
+                for c in range(self.num_of_neuron):
+                    self.connections[r][c] += \
+                    self.A * self.neurons[r].activation * self.neurons[c].activation + \
+                    self.B * self.neurons[r].activation + \
+                    self.C * self.neurons[c].activation + \
+                    self.D
+                    if(self.connections[r][c] > WEIGHT_UPPER_LIMIT):
+                        self.connections[r][c] = WEIGHT_UPPER_LIMIT 
+                    elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
+                        self.connections[r][c] = WEIGHT_LOWER_LIMIT
+            self.make_masking()
+        elif(self.num_of_modulation_neuron > 0):
+            input_v = np.array(self.modulation_vector)
+            m_v = np.dot(self.connections, input_v)
+            for i in range (self.num_of_neuron):
+                m_v[i] = float(math.tanh(m_v[i]))
+
+            for r in range(self.num_of_neuron):
+                for c in range(self.num_of_neuron):
+                    self.connections[r][c] += \
+                    (\
+                    self.A * self.neurons[r].activation * self.neurons[c].activation + \
+                    self.B * self.neurons[r].activation + \
+                    self.C * self.neurons[c].activation + \
+                    self.D \
+                    ) \
+                    * m_v[r]
+                    if(self.connections[r][c] > WEIGHT_UPPER_LIMIT):
+                        self.connections[r][c] = WEIGHT_UPPER_LIMIT
+                    elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
+                        self.connections[r][c] = WEIGHT_LOWER_LIMIT
+            self.make_masking()
+        else:
+            raise Exception('num_of_modulation_neuron is invalid')
+
 if __name__=='__main__':
-    nn = FreeHebbian()
+    nn = FreeExtendedHebbianNetwork()
     print(nn.num_of_neuron)
 
     print(nn.mask_array)
