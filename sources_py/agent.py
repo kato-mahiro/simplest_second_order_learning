@@ -55,6 +55,9 @@ class NeuralNetworkAgent:
             if(random.random() < MUTATION_PROB):
                 self.nn.neurons[r].bias += random.uniform(-0.1,0.1)
 
+        self.original_connections = copy.deepcopy(self.nn.connections)
+        self.original_mask_array = copy.deepcopy(self.nn.mask_array)
+
     def crossover(self,agent_B):
         new_agent = copy.deepcopy(self)
         for r in range(self.nn.num_of_neuron):
@@ -182,6 +185,8 @@ class FreeHebbianNetworkAgent(NeuralNetworkAgent):
             print("idx: ",idx,"のニューロンを削除します")
             self.nn.del_neuron(idx)
 
+        self.original_connections = copy.deepcopy(self.nn.connections)
+        self.original_mask_array = copy.deepcopy(self.nn.mask_array)
 
     def crossover(self,agent_B):
         raise Exception("This agent doesn't support crossover funciton")
