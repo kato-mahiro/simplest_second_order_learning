@@ -197,6 +197,44 @@ class ModulatedHebbianNetwork(HebbianNetwork):
 
         self.make_masking()
 
+class FreeHebbian(HebbianNetwork):
+    """
+    Modulationニューロンの有り/無しによって自動的にupdateのやり方を切り替える
+    """
+    def hebbian_update(self, epsilon = EPSILON):
+        if(self.num_of_modulation_neuron == 0):
+            print("ない方向でアップデートです")
+            #HebbianNetworkの hebbian_update()
+            for r in range(self.num_of_neuron):
+                for c in range(self.num_of_neuron):
+                    self.connections[r][c] += epsilon * self.neurons[r].activation * self.neurons[c].activation
+                    if(self.connections[r][c] > WEIGHT_UPPER_LIMIT):
+                        self.connections[r][c] = WEIGHT_UPPER_LIMIT 
+                    elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
+                        self.connections[r][c] = WEIGHT_LOWER_LIMIT
+            self.make_masking()
+
+        elif(self.num_of_modulation_neuron > 0):
+            print("ある方向でアップデートです")
+            #ModulatedHebbianNetworkのhebbian_update()
+            input_v = np.array(self.modulation_vector)
+            m_v = np.dot(self.connections, input_v)
+            for i in range (self.num_of_neuron):
+                m_v[i] = float(math.tanh(m_v[i]))
+
+            for r in range(self.num_of_neuron):
+                for c in range(self.num_of_neuron):
+                    self.connections[r][c] += \
+                        epsilon * self.neurons[r].activation * self.neurons[c].activation * m_v[r]
+                    if(self.connections[r][c] > WEIGHT_UPPER_LIMIT):
+                        self.connections[r][c] = WEIGHT_UPPER_LIMIT
+                    elif(self.connections[r][c] < WEIGHT_LOWER_LIMIT):
+                        self.connections[r][c] = WEIGHT_LOWER_LIMIT
+            self.make_masking()
+        else:
+            raise Exception('num_of_modulation_neuron is invalid')
+
+
 class ExtendedHebbianNetwork(NeuralNetwork):
     def __init__(self,is_overwrite_input=True):
         super(ExtendedHebbianNetwork,self).__init__(is_overwrite_input)
@@ -266,14 +304,15 @@ class ModulatedExtendedHebbianNetwork(ExtendedHebbianNetwork):
         self.make_masking()
 
 if __name__=='__main__':
-    nn = ModulatedHebbianNetwork()
+    nn = FreeHebbian()
     print(nn.num_of_neuron)
 
     print(nn.mask_array)
     print(nn.num_of_active_connection)
     nn.push_neuron(Neuron(NeuronType.INPUT))
     nn.push_neuron(Neuron(NeuronType.OUTPUT))
-    nn.push_neuron(Neuron(NeuronType.MODULATION))
+    nn.push_neuron(Neuron(NeuronType.OUTPUT))
+    #nn.push_neuron(Neuron(NeuronType.MODULATION))
 
     print(nn.num_of_neuron)
     print(nn.connections)
@@ -283,6 +322,7 @@ if __name__=='__main__':
     print(nn.connections)
     print(nn.get_output([0]))
     print(nn.connections)
+    nn.push_neuron(Neuron(NeuronType.MODULATION))
     print(nn.get_output([1]))
     print(nn.connections)
 
