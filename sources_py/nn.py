@@ -197,7 +197,7 @@ class ModulatedHebbianNetwork(HebbianNetwork):
 
         self.make_masking()
 
-class FreeHebbian(HebbianNetwork):
+class FreeHebbianNetwork(HebbianNetwork):
     """
     Modulationニューロンの有り/無しによって自動的にupdateのやり方を切り替える
     """
@@ -302,6 +302,7 @@ class ModulatedExtendedHebbianNetwork(ExtendedHebbianNetwork):
                     self.connections[r][c] = WEIGHT_LOWER_LIMIT
 
         self.make_masking()
+class FreeExtendedHebbianNetwork(ExtendedHebbianNetwork):
 
 if __name__=='__main__':
     nn = FreeHebbian()
