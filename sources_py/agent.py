@@ -344,7 +344,7 @@ class ModulatedExtendedHebbianNetworkAgent_2(ExtendedHebbianNetworkAgent):
 
 class FreeExtendedHebbianNetworkAgent(ExtendedHebbianNetworkAgent):
     def __init__(self):
-        self.nn = HebbianNetwork()
+        self.nn = FreeExtendedHebbianNetwork()
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
@@ -352,8 +352,12 @@ class FreeExtendedHebbianNetworkAgent(ExtendedHebbianNetworkAgent):
         self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
         self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
 
-        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
-        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+        if(random.randint(0,1)):
+            self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+            self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+        else:
+            self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+            self.nn.push_neuron(Neuron(NeuronType.MODULATION))
 
         self.original_connections = copy.deepcopy(self.nn.connections)
         self.original_mask_array = copy.deepcopy(self.nn.mask_array)
@@ -371,6 +375,16 @@ class FreeExtendedHebbianNetworkAgent(ExtendedHebbianNetworkAgent):
                     self.nn.mask_array[r][c] = random.choice([0,1])
             if(random.random() < MUTATION_PROB_A):
                 self.nn.neurons[r].bias += random.uniform(-0.1,0.1)
+
+        if(random.random() < MUTATION_PROB_A):
+            self.nn.A += random.uniform(-0.1,0.1)
+        if(random.random() < MUTATION_PROB_A):
+            self.nn.B += random.uniform(-0.1,0.1)
+        if(random.random() < MUTATION_PROB_A):
+            self.nn.C += random.uniform(-0.1,0.1)
+        if(random.random() < MUTATION_PROB_A):
+            self.nn.D += random.uniform(-0.1,0.1)
+
 
         if(random.random() < MUTATION_PROB_B and self.nn.num_of_neuron < NEURON_NUM_UPPER_LIMIT):
             # add one neuron
@@ -400,6 +414,8 @@ class FreeExtendedHebbianNetworkAgent(ExtendedHebbianNetworkAgent):
         print(self.original_mask_array)
         print("My fitness was ",self.fitness)
         print(" ====================================== ")
+
+
 if __name__=='__main__':
     a = ExtendedHebbianNetworkAgent()
     print("--a--")
