@@ -155,8 +155,12 @@ class FreeHebbianNetworkAgent(NeuralNetworkAgent):
         self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
         self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
 
-        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
-        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+        if(random.randint(0,1)):
+            self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+            self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+        else:
+            self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+            self.nn.push_neuron(Neuron(NeuronType.MODULATION))
 
         self.original_connections = copy.deepcopy(self.nn.connections)
         self.original_mask_array = copy.deepcopy(self.nn.mask_array)

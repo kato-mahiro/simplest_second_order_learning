@@ -97,15 +97,18 @@ if __name__=='__main__':
             agents[a_num].answer_history = []
 
         # if the last generation of evolution, see best individual
-        #if(g_num == GENERATION_NUM-1):
-        agents[0].self_introduction()
+        if(g_num == GENERATION_NUM-1):
+            agents[0].self_introduction()
 
         next_agents = copy.deepcopy(agents[0:ELITE_NUM]) #エリート選択
         for i in range(POPULATION_NUM - ELITE_NUM):
+
             #parent_A = random.choices(agents, weights = fitness_list)[0]
             #parent_B = random.choices(agents, weights = fitness_list)[0]
             #new_agent = parent_A.crossover(parent_B)
+
             new_agent = copy.deepcopy(random.choices(agents, weights = fitness_list)[0])
+
             new_agent.mutate()
             new_agent.get_initial_state()
             next_agents.append(new_agent)
