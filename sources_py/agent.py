@@ -46,6 +46,14 @@ class NeuralNetworkAgent:
         self.nn.mask_array = self.original_mask_array
         self.num_correct_answer = 0
 
+    def get_initial_state(self):
+        self.nn.connections = self.original_connections
+        self.nn.mask_array = self.original_mask_array
+
+    def set_initial_state(self):
+        self.original_connections = self.nn.connections
+        self.original_mask_array = self.nn.mask_array
+
     def mutate(self):
         for r in range(self.nn.num_of_neuron):
             for c in range(self.nn.num_of_neuron):
