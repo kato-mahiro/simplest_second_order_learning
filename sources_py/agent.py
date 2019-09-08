@@ -147,7 +147,7 @@ class ModulatedHebbianNetworkAgent_2(NeuralNetworkAgent):
 
 class FreeHebbianNetworkAgent(NeuralNetworkAgent):
     def __init__(self):
-        self.nn = HebbianNetwork()
+        self.nn = FreeHebbianNetwork()
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
         self.nn.push_neuron(Neuron(NeuronType.INPUT))
@@ -184,10 +184,7 @@ class FreeHebbianNetworkAgent(NeuralNetworkAgent):
 
         if(random.random() < MUTATION_PROB_B and self.nn.num_of_neuron > NEURON_NUM_LOWER_LIMIT):
             # delete one neuron
-            print("いまニューロンが",self.nn.num_of_neuron,",個あります")
-            print("idxの範囲は6~",self.nn.num_of_neuron-1,"です")
             idx = random.randint(6, self.nn.num_of_neuron-1)
-            print("idx: ",idx,"のニューロンを削除します")
             self.nn.del_neuron(idx)
 
 
@@ -355,6 +352,64 @@ class ModulatedExtendedHebbianNetworkAgent_2(ExtendedHebbianNetworkAgent):
 
         self.answer_history = []
 
+class FreeExtendedHebbianNetworkAgent(ExtendedHebbianNetworkAgent):
+    def __init__(self):
+        self.nn = HebbianNetwork()
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.INPUT))
+        self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
+        self.nn.push_neuron(Neuron(NeuronType.OUTPUT))
+
+        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+        self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+
+        self.original_connections = copy.deepcopy(self.nn.connections)
+        self.original_mask_array = copy.deepcopy(self.nn.mask_array)
+
+        self.num_correct_answer = 0
+        self.fitness = 0.0
+
+        self.answer_history = []
+
+    def mutate(self):
+        for r in range(self.nn.num_of_neuron):
+            for c in range(self.nn.num_of_neuron):
+                if(random.random() < MUTATION_PROB_A):
+                    self.nn.connections[r][c] += random.uniform(-0.1,0.1)
+                    self.nn.mask_array[r][c] = random.choice([0,1])
+            if(random.random() < MUTATION_PROB_A):
+                self.nn.neurons[r].bias += random.uniform(-0.1,0.1)
+
+        if(random.random() < MUTATION_PROB_B and self.nn.num_of_neuron < NEURON_NUM_UPPER_LIMIT):
+            # add one neuron
+            if(random.randint(0,1)):
+                self.nn.push_neuron(Neuron(NeuronType.HIDDEN))
+            else:
+                self.nn.push_neuron(Neuron(NeuronType.MODULATION))
+
+        if(random.random() < MUTATION_PROB_B and self.nn.num_of_neuron > NEURON_NUM_LOWER_LIMIT):
+            # delete one neuron
+            idx = random.randint(6, self.nn.num_of_neuron-1)
+            self.nn.del_neuron(idx)
+
+
+    def crossover(self,agent_B):
+        raise Exception("This agent doesn't support crossover funciton")
+
+    def self_introduction(self):
+        print(" === This is my self introduction !! === ")
+        print("I am ", self.__class__.__name__)
+        print("My neurons are:")
+        for i in range(self.nn.num_of_neuron):
+            print(self.nn.neurons[i].neuron_type)
+        print("My original_connections:")
+        print(self.original_connections)
+        print("My original_mask_array:")
+        print(self.original_mask_array)
+        print("My fitness was ",self.fitness)
+        print(" ====================================== ")
 if __name__=='__main__':
     a = ExtendedHebbianNetworkAgent()
     print("--a--")
