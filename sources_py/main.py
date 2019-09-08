@@ -1,6 +1,7 @@
 from operator import attrgetter
 import copy
 import sys
+import pickle
 from const import *
 from nn import *
 from task import *
@@ -98,9 +99,12 @@ if __name__=='__main__':
         for a_num in range(POPULATION_NUM):
             agents[a_num].answer_history = []
 
-        # if the last generation of evolution, see best individual
+        # if the last generation of evolution, see best individual and pickle agents
         if(g_num == GENERATION_NUM-1):
             agents[0].self_introduction()
+            pickle_string = agents[0].__class__.__name__  + '_' + task.__class__.__name__ + '.pickle'
+            with open(pickle_string,'wb') as f:
+                pickle.dump(agents,f)
 
         next_agents = copy.deepcopy(agents[0:ELITE_NUM]) #エリート選択
         for i in range(POPULATION_NUM - ELITE_NUM):
