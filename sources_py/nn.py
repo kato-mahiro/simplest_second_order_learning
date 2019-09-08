@@ -203,7 +203,6 @@ class FreeHebbianNetwork(HebbianNetwork):
     """
     def hebbian_update(self, epsilon = EPSILON):
         if(self.num_of_modulation_neuron == 0):
-            print("ない方向でアップデートです")
             #HebbianNetworkの hebbian_update()
             for r in range(self.num_of_neuron):
                 for c in range(self.num_of_neuron):
@@ -215,7 +214,6 @@ class FreeHebbianNetwork(HebbianNetwork):
             self.make_masking()
 
         elif(self.num_of_modulation_neuron > 0):
-            print("ある方向でアップデートです")
             #ModulatedHebbianNetworkのhebbian_update()
             input_v = np.array(self.modulation_vector)
             m_v = np.dot(self.connections, input_v)
