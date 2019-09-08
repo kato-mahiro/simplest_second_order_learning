@@ -41,11 +41,6 @@ class NeuralNetworkAgent:
         else:
             return 'no'
 
-    def revert_to_initial_state(self):
-        self.nn.connections = self.original_connections
-        self.nn.mask_array = self.original_mask_array
-        self.num_correct_answer = 0
-
     def get_initial_state(self):
         self.original_connections = self.nn.connections
         self.original_mask_array = self.nn.mask_array
@@ -231,15 +226,6 @@ class ExtendedHebbianNetworkAgent(NeuralNetworkAgent):
         self.fitness = 0.0
 
         self.answer_history = []
-
-    def revert_to_initial_state(self):
-        self.nn.connections = self.original_connections
-        self.nn.mask_array = self.original_mask_array
-        self.nn.A = self.original_A
-        self.nn.B = self.original_B
-        self.nn.C = self.original_C
-        self.nn.D = self.original_D
-        self.num_correct_answer = 0
 
     def get_initial_state(self):
         self.original_connections = self.nn.connections
