@@ -49,7 +49,13 @@ if __name__=='__main__':
                 q_v,a_v = task.question()
                 result = agents[a_num].nn.get_output(q_v)
                 reshaped_result = [0,0]
-                reshaped_result[result.index(max(result))] = 1
+                try:
+                    reshaped_result[result.index(max(result))] = 1
+                except:
+                    print("ここ")
+                    print(result)
+                    agents[a_num].self_introduction()
+                    exit()
                 if(reshaped_result == a_v):
                     agents[a_num].num_correct_answer +=1
                     agents[a_num].answer_history.append(1)
@@ -58,7 +64,8 @@ if __name__=='__main__':
                     agents[a_num].answer_history.append(0)
                     agents[a_num].nn.get_output(task.feedback(False))
             agents[a_num].fitness = agents[a_num].num_correct_answer / LIFETIME_NUM
-            agents[a_num].revert_to_initial_state()
+            agents[a_num].num_correct_answer = 0.0
+            agents[a_num].revert_initial_state()
 
         # evolution
         next_agents=[]
@@ -100,5 +107,6 @@ if __name__=='__main__':
             #new_agent = parent_A.crossover(parent_B)
             new_agent = copy.deepcopy(random.choices(agents, weights = fitness_list)[0])
             new_agent.mutate()
+            new_agent.get_initial_state()
             next_agents.append(new_agent)
         agents = next_agents
