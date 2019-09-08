@@ -361,6 +361,10 @@ class FreeExtendedHebbianNetworkAgent(ExtendedHebbianNetworkAgent):
 
         self.original_connections = copy.deepcopy(self.nn.connections)
         self.original_mask_array = copy.deepcopy(self.nn.mask_array)
+        self.original_A = self.nn.A
+        self.original_B = self.nn.B
+        self.original_C = self.nn.C
+        self.original_D = self.nn.D
 
         self.num_correct_answer = 0
         self.fitness = 0.0

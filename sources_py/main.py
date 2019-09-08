@@ -24,6 +24,8 @@ if __name__=='__main__':
         agents = [ModulatedExtendedHebbianNetworkAgent_2() for i in range(POPULATION_NUM)]
     elif args[1] == 'FH':
         agents = [FreeHebbianNetworkAgent() for i in range(POPULATION_NUM)]
+    elif args[1] == 'FEH':
+        agents = [FreeExtendedHebbianNetworkAgent() for i in range(POPULATION_NUM)]
 
     for g_num in range(GENERATION_NUM):
 
