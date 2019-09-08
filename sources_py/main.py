@@ -99,6 +99,17 @@ if __name__=='__main__':
         for a_num in range(POPULATION_NUM):
             agents[a_num].answer_history = []
 
+        n_sum = 0
+        h_sum = 0
+        m_sum = 0
+        for a_num in range(POPULATION_NUM):
+            n_sum += agents[a_num].nn.num_of_neuron
+            h_sum += agents[a_num].nn.num_of_hidden_neuron
+            m_sum += agents[a_num].nn.num_of_modulation_neuron
+        print('average_num_of_neuron', n_sum / POPULATION_NUM)
+        print('average_num_of_hidden_neuron', h_sum / POPULATION_NUM)
+        print('average_num_of_modulation_neuron', m_sum / POPULATION_NUM)
+
         # if the last generation of evolution, see best individual and pickle agents
         if(g_num == GENERATION_NUM-1):
             agents[0].self_introduction()
