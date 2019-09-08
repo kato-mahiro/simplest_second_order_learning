@@ -245,6 +245,22 @@ class ExtendedHebbianNetworkAgent(NeuralNetworkAgent):
         self.nn.D = self.original_D
         self.num_correct_answer = 0
 
+    def get_initial_state(self):
+        self.nn.connections = self.original_connections
+        self.nn.mask_array = self.original_mask_array
+        self.nn.A = self.original_A
+        self.nn.B = self.original_B
+        self.nn.C = self.original_C
+        self.nn.D = self.original_D
+
+    def set_initial_state(self):
+        self.original_connections = self.nn.connections
+        self.original_mask_array = self.nn.mask_array
+        self.original_A = self.nn.A
+        self.original_B = self.nn.B
+        self.original_C = self.nn.C
+        self.original_D = self.nn.D
+
     def mutate(self):
         for r in range(self.nn.num_of_neuron):
             for c in range(self.nn.num_of_neuron):
