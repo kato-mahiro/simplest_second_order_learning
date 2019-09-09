@@ -1,2 +1,4 @@
 *.out
 *.swp
+*.pyc
+/__pycache__

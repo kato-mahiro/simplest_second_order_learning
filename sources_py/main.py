@@ -46,6 +46,10 @@ if __name__=='__main__':
             task = Task_7(g_num)
         elif args[2] == '8':
             task = Task_8(g_num)
+        elif args[2] == '9':
+            task = Task_9(g_num)
+        elif args[2] == '10':
+            task = Task_10(g_num)
 
         for a_num in range(POPULATION_NUM):
             for l_num in range(LIFETIME_NUM):
@@ -99,6 +103,28 @@ if __name__=='__main__':
         for a_num in range(POPULATION_NUM):
             agents[a_num].answer_history = []
 
+        n_sum = 0
+        h_sum = 0
+        m_sum = 0
+        for a_num in range(POPULATION_NUM):
+            n_sum += agents[a_num].nn.num_of_neuron
+            h_sum += agents[a_num].nn.num_of_hidden_neuron
+            m_sum += agents[a_num].nn.num_of_modulation_neuron
+        print('average_num_of_neuron', n_sum / POPULATION_NUM)
+        print('average_num_of_hidden_neuron', h_sum / POPULATION_NUM)
+        print('average_num_of_modulation_neuron', m_sum / POPULATION_NUM)
+
+        modulated_num = 0
+        not_modulated_num = 0
+        for a_num in range(POPULATION_NUM):
+            if(agents[a_num].nn.num_of_modulation_neuron == 0):
+                not_modulated_num += 1
+            else:
+                modulated_num  += 1
+        print('total_not_modulated_agent:',not_modulated_num)
+        print('total_modulated_agent:',modulated_num)
+
+
         # if the last generation of evolution, see best individual and pickle agents
         if(g_num == GENERATION_NUM-1):
             agents[0].self_introduction()
@@ -109,13 +135,15 @@ if __name__=='__main__':
         next_agents = copy.deepcopy(agents[0:ELITE_NUM]) #エリート選択
         for i in range(POPULATION_NUM - ELITE_NUM):
 
-            #parent_A = random.choices(agents, weights = fitness_list)[0]
-            #parent_B = random.choices(agents, weights = fitness_list)[0]
-            #new_agent = parent_A.crossover(parent_B)
-
-            new_agent = copy.deepcopy(random.choices(agents, weights = fitness_list)[0])
-
-            new_agent.mutate()
+            if args[1] == 'FH' or args[1] == 'FEH':
+                new_agent = copy.deepcopy(random.choices(agents, weights = fitness_list)[0])
+                new_agent.mutate()
+            else:
+                parent_A = random.choices(agents, weights = fitness_list)[0]
+                parent_B = random.choices(agents, weights = fitness_list)[0]
+                new_agent = parent_A.crossover(parent_B)
+                new_agent.mutate()
             new_agent.get_initial_state()
             next_agents.append(new_agent)
+
         agents = next_agents
