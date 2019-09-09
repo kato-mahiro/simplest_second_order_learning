@@ -9,6 +9,8 @@ history_of_worst: [0.44, 0.4, 0.04, 0.32]
 average_num_of_neuron 8.0
 average_num_of_hidden_neuron 1.55
 average_num_of_modulation_neuron 0.45
+total_not_modulated_agent: 55
+total_modulated_agent: 45
  --- generation:  2 ---
 max:  0.74
 min:  0.33
@@ -20,6 +22,8 @@ history_of_worst: [0.08, 0.0, 0.64, 0.6]
 average_num_of_neuron 8.05
 average_num_of_hidden_neuron 1.55
 average_num_of_modulation_neuron 0.5
+total_not_modulated_agent: 54
+total_modulated_agent: 46
  --- generation:  3 ---
 max:  0.73
 min:  0.38
@@ -31,6 +35,8 @@ history_of_worst: [0.28, 0.48, 0.44, 0.32]
 average_num_of_neuron 8.13
 average_num_of_hidden_neuron 1.52
 average_num_of_modulation_neuron 0.61
+total_not_modulated_agent: 48
+total_modulated_agent: 52
  --- generation:  4 ---
 max:  0.74
 min:  0.39
@@ -42,6 +48,8 @@ history_of_worst: [0.72, 0.72, 0.0, 0.12]
 average_num_of_neuron 8.2
 average_num_of_hidden_neuron 1.49
 average_num_of_modulation_neuron 0.71
+total_not_modulated_agent: 39
+total_modulated_agent: 61
  --- generation:  5 ---
 max:  0.74
 min:  0.41
@@ -53,6 +61,8 @@ history_of_worst: [0.6, 0.44, 0.28, 0.32]
 average_num_of_neuron 8.28
 average_num_of_hidden_neuron 1.51
 average_num_of_modulation_neuron 0.77
+total_not_modulated_agent: 31
+total_modulated_agent: 69
  --- generation:  6 ---
 max:  0.74
 min:  0.42
@@ -64,6 +74,8 @@ history_of_worst: [0.4, 0.36, 0.36, 0.56]
 average_num_of_neuron 8.23
 average_num_of_hidden_neuron 1.44
 average_num_of_modulation_neuron 0.79
+total_not_modulated_agent: 32
+total_modulated_agent: 68
  --- generation:  7 ---
 max:  0.72
 min:  0.39
@@ -75,6 +87,8 @@ history_of_worst: [0.6, 0.72, 0.12, 0.12]
 average_num_of_neuron 8.14
 average_num_of_hidden_neuron 1.32
 average_num_of_modulation_neuron 0.82
+total_not_modulated_agent: 27
+total_modulated_agent: 73
  --- generation:  8 ---
 max:  0.75
 min:  0.32
@@ -86,6 +100,8 @@ history_of_worst: [0.48, 0.48, 0.12, 0.2]
 average_num_of_neuron 8.1
 average_num_of_hidden_neuron 1.19
 average_num_of_modulation_neuron 0.91
+total_not_modulated_agent: 19
+total_modulated_agent: 81
  --- generation:  9 ---
 max:  0.75
 min:  0.35
@@ -97,6 +113,8 @@ history_of_worst: [0.52, 0.44, 0.08, 0.36]
 average_num_of_neuron 8.13
 average_num_of_hidden_neuron 1.24
 average_num_of_modulation_neuron 0.89
+total_not_modulated_agent: 18
+total_modulated_agent: 82
  --- generation:  10 ---
 max:  0.74
 min:  0.34
@@ -108,6 +126,8 @@ history_of_worst: [0.6, 0.4, 0.0, 0.36]
 average_num_of_neuron 8.09
 average_num_of_hidden_neuron 1.1
 average_num_of_modulation_neuron 0.99
+total_not_modulated_agent: 8
+total_modulated_agent: 92
  --- generation:  11 ---
 max:  0.77
 min:  0.34
@@ -119,6 +139,8 @@ history_of_worst: [0.32, 0.32, 0.32, 0.4]
 average_num_of_neuron 7.94
 average_num_of_hidden_neuron 0.98
 average_num_of_modulation_neuron 0.96
+total_not_modulated_agent: 8
+total_modulated_agent: 92
  --- generation:  12 ---
 max:  0.76
 min:  0.41
@@ -130,6 +152,8 @@ history_of_worst: [0.76, 0.88, 0.0, 0.0]
 average_num_of_neuron 7.91
 average_num_of_hidden_neuron 0.93
 average_num_of_modulation_neuron 0.98
+total_not_modulated_agent: 7
+total_modulated_agent: 93
  --- generation:  13 ---
 max:  0.76
 min:  0.39
@@ -141,6 +165,8 @@ history_of_worst: [0.32, 0.56, 0.36, 0.32]
 average_num_of_neuron 7.69
 average_num_of_hidden_neuron 0.68
 average_num_of_modulation_neuron 1.01
+total_not_modulated_agent: 7
+total_modulated_agent: 93
  --- generation:  14 ---
 max:  0.77
 min:  0.41
@@ -152,6 +178,8 @@ history_of_worst: [0.4, 0.36, 0.44, 0.44]
 average_num_of_neuron 7.7
 average_num_of_hidden_neuron 0.67
 average_num_of_modulation_neuron 1.03
+total_not_modulated_agent: 7
+total_modulated_agent: 93
  --- generation:  15 ---
 max:  0.75
 min:  0.34
@@ -163,6 +191,8 @@ history_of_worst: [0.72, 0.64, 0.0, 0.0]
 average_num_of_neuron 7.65
 average_num_of_hidden_neuron 0.65
 average_num_of_modulation_neuron 1.0
+total_not_modulated_agent: 7
+total_modulated_agent: 93
  --- generation:  16 ---
 max:  0.76
 min:  0.36
@@ -174,6 +204,8 @@ history_of_worst: [0.6, 0.56, 0.12, 0.16]
 average_num_of_neuron 7.58
 average_num_of_hidden_neuron 0.64
 average_num_of_modulation_neuron 0.94
+total_not_modulated_agent: 12
+total_modulated_agent: 88
  --- generation:  17 ---
 max:  0.75
 min:  0.41
@@ -185,6 +217,8 @@ history_of_worst: [0.92, 0.72, 0.0, 0.0]
 average_num_of_neuron 7.7
 average_num_of_hidden_neuron 0.67
 average_num_of_modulation_neuron 1.03
+total_not_modulated_agent: 10
+total_modulated_agent: 90
  --- generation:  18 ---
 max:  0.75
 min:  0.36
@@ -196,6 +230,8 @@ history_of_worst: [0.04, 0.04, 0.6, 0.76]
 average_num_of_neuron 7.71
 average_num_of_hidden_neuron 0.66
 average_num_of_modulation_neuron 1.05
+total_not_modulated_agent: 9
+total_modulated_agent: 91
  --- generation:  19 ---
 max:  0.76
 min:  0.36
@@ -207,6 +243,8 @@ history_of_worst: [0.04, 0.28, 0.6, 0.52]
 average_num_of_neuron 7.82
 average_num_of_hidden_neuron 0.6
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  20 ---
 max:  0.73
 min:  0.35
@@ -218,6 +256,8 @@ history_of_worst: [0.04, 0.48, 0.48, 0.4]
 average_num_of_neuron 7.8
 average_num_of_hidden_neuron 0.62
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 6
+total_modulated_agent: 94
  --- generation:  21 ---
 max:  0.77
 min:  0.29
@@ -229,6 +269,8 @@ history_of_worst: [0.0, 0.08, 0.6, 0.48]
 average_num_of_neuron 7.8
 average_num_of_hidden_neuron 0.57
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  22 ---
 max:  0.78
 min:  0.31
@@ -240,6 +282,8 @@ history_of_worst: [0.44, 0.8, 0.0, 0.0]
 average_num_of_neuron 7.89
 average_num_of_hidden_neuron 0.54
 average_num_of_modulation_neuron 1.35
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  23 ---
 max:  0.77
 min:  0.32
@@ -251,6 +295,8 @@ history_of_worst: [0.0, 0.0, 0.72, 0.56]
 average_num_of_neuron 7.83
 average_num_of_hidden_neuron 0.51
 average_num_of_modulation_neuron 1.32
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  24 ---
 max:  0.77
 min:  0.3
@@ -262,6 +308,8 @@ history_of_worst: [0.04, 0.16, 0.44, 0.56]
 average_num_of_neuron 7.64
 average_num_of_hidden_neuron 0.44
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  25 ---
 max:  0.78
 min:  0.33
@@ -273,6 +321,8 @@ history_of_worst: [0.52, 0.48, 0.32, 0.0]
 average_num_of_neuron 7.45
 average_num_of_hidden_neuron 0.38
 average_num_of_modulation_neuron 1.07
+total_not_modulated_agent: 6
+total_modulated_agent: 94
  --- generation:  26 ---
 max:  0.76
 min:  0.31
@@ -284,6 +334,8 @@ history_of_worst: [0.36, 0.36, 0.32, 0.2]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.37
 average_num_of_modulation_neuron 1.04
+total_not_modulated_agent: 7
+total_modulated_agent: 93
  --- generation:  27 ---
 max:  0.77
 min:  0.25
@@ -295,6 +347,8 @@ history_of_worst: [0.24, 0.76, 0.0, 0.0]
 average_num_of_neuron 7.47
 average_num_of_hidden_neuron 0.39
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  28 ---
 max:  0.76
 min:  0.34
@@ -306,6 +360,8 @@ history_of_worst: [0.4, 0.4, 0.28, 0.28]
 average_num_of_neuron 7.49
 average_num_of_hidden_neuron 0.41
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  29 ---
 max:  0.76
 min:  0.36
@@ -317,6 +373,8 @@ history_of_worst: [0.28, 0.2, 0.56, 0.4]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.35
 average_num_of_modulation_neuron 1.04
+total_not_modulated_agent: 6
+total_modulated_agent: 94
  --- generation:  30 ---
 max:  0.74
 min:  0.4
@@ -328,6 +386,8 @@ history_of_worst: [0.16, 0.2, 0.84, 0.4]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  31 ---
 max:  0.79
 min:  0.3
@@ -339,6 +399,8 @@ history_of_worst: [0.2, 0.16, 0.56, 0.28]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  32 ---
 max:  0.79
 min:  0.37
@@ -350,6 +412,8 @@ history_of_worst: [0.28, 0.28, 0.48, 0.44]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  33 ---
 max:  0.79
 min:  0.33
@@ -361,6 +425,8 @@ history_of_worst: [0.68, 0.64, 0.0, 0.0]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  34 ---
 max:  0.8
 min:  0.31
@@ -372,6 +438,8 @@ history_of_worst: [0.16, 0.12, 0.36, 0.6]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  35 ---
 max:  0.78
 min:  0.42
@@ -383,6 +451,8 @@ history_of_worst: [0.2, 0.16, 0.84, 0.48]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  36 ---
 max:  0.78
 min:  0.18
@@ -394,6 +464,8 @@ history_of_worst: [0.08, 0.64, 0.0, 0.0]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  37 ---
 max:  0.79
 min:  0.36
@@ -405,6 +477,8 @@ history_of_worst: [0.52, 0.48, 0.2, 0.24]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  38 ---
 max:  0.78
 min:  0.37
@@ -416,6 +490,8 @@ history_of_worst: [0.48, 0.4, 0.24, 0.36]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  39 ---
 max:  0.75
 min:  0.34
@@ -427,6 +503,8 @@ history_of_worst: [0.28, 0.16, 0.52, 0.4]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  40 ---
 max:  0.79
 min:  0.33
@@ -438,6 +516,8 @@ history_of_worst: [0.4, 0.52, 0.2, 0.2]
 average_num_of_neuron 7.46
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  41 ---
 max:  0.85
 min:  0.36
@@ -449,6 +529,8 @@ history_of_worst: [0.28, 0.28, 0.48, 0.4]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.34
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  42 ---
 max:  0.77
 min:  0.35
@@ -460,6 +542,8 @@ history_of_worst: [0.4, 0.72, 0.08, 0.2]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.33
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  43 ---
 max:  0.75
 min:  0.29
@@ -471,6 +555,8 @@ history_of_worst: [0.04, 0.16, 0.44, 0.52]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  44 ---
 max:  0.74
 min:  0.35
@@ -482,6 +568,8 @@ history_of_worst: [0.24, 0.16, 0.56, 0.44]
 average_num_of_neuron 7.48
 average_num_of_hidden_neuron 0.34
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  45 ---
 max:  0.78
 min:  0.34
@@ -493,6 +581,8 @@ history_of_worst: [0.16, 0.44, 0.48, 0.28]
 average_num_of_neuron 7.53
 average_num_of_hidden_neuron 0.33
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  46 ---
 max:  0.78
 min:  0.23
@@ -504,6 +594,8 @@ history_of_worst: [0.0, 0.0, 0.56, 0.36]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.41
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  47 ---
 max:  0.77
 min:  0.33
@@ -515,6 +607,8 @@ history_of_worst: [0.24, 0.4, 0.32, 0.36]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.42
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 7
+total_modulated_agent: 93
  --- generation:  48 ---
 max:  0.78
 min:  0.31
@@ -526,6 +620,8 @@ history_of_worst: [0.32, 0.16, 0.52, 0.24]
 average_num_of_neuron 7.6
 average_num_of_hidden_neuron 0.46
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 9
+total_modulated_agent: 91
  --- generation:  49 ---
 max:  0.78
 min:  0.31
@@ -537,6 +633,8 @@ history_of_worst: [0.16, 0.24, 0.56, 0.28]
 average_num_of_neuron 7.6
 average_num_of_hidden_neuron 0.49
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 8
+total_modulated_agent: 92
  --- generation:  50 ---
 max:  0.78
 min:  0.22
@@ -548,6 +646,8 @@ history_of_worst: [0.2, 0.24, 0.4, 0.04]
 average_num_of_neuron 7.5
 average_num_of_hidden_neuron 0.4
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 8
+total_modulated_agent: 92
  --- generation:  51 ---
 max:  0.78
 min:  0.22
@@ -559,6 +659,8 @@ history_of_worst: [0.16, 0.32, 0.4, 0.0]
 average_num_of_neuron 7.47
 average_num_of_hidden_neuron 0.35
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 6
+total_modulated_agent: 94
  --- generation:  52 ---
 max:  0.81
 min:  0.33
@@ -570,6 +672,8 @@ history_of_worst: [0.36, 0.28, 0.4, 0.28]
 average_num_of_neuron 7.53
 average_num_of_hidden_neuron 0.39
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 6
+total_modulated_agent: 94
  --- generation:  53 ---
 max:  0.78
 min:  0.36
@@ -581,6 +685,8 @@ history_of_worst: [0.2, 0.32, 0.36, 0.56]
 average_num_of_neuron 7.45
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  54 ---
 max:  0.79
 min:  0.32
@@ -592,6 +698,8 @@ history_of_worst: [0.32, 0.6, 0.16, 0.2]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  55 ---
 max:  0.77
 min:  0.33
@@ -603,6 +711,8 @@ history_of_worst: [0.32, 0.12, 0.44, 0.44]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.32
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  56 ---
 max:  0.77
 min:  0.34
@@ -614,6 +724,8 @@ history_of_worst: [0.44, 0.56, 0.16, 0.2]
 average_num_of_neuron 7.52
 average_num_of_hidden_neuron 0.33
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  57 ---
 max:  0.76
 min:  0.37
@@ -625,6 +737,8 @@ history_of_worst: [0.24, 0.28, 0.4, 0.56]
 average_num_of_neuron 7.47
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  58 ---
 max:  0.78
 min:  0.39
@@ -636,6 +750,8 @@ history_of_worst: [0.12, 0.4, 0.36, 0.68]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  59 ---
 max:  0.76
 min:  0.3
@@ -647,6 +763,8 @@ history_of_worst: [0.28, 0.6, 0.32, 0.0]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  60 ---
 max:  0.78
 min:  0.31
@@ -658,6 +776,8 @@ history_of_worst: [0.24, 0.44, 0.4, 0.16]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  61 ---
 max:  0.78
 min:  0.37
@@ -669,6 +789,8 @@ history_of_worst: [0.48, 1.0, 0.0, 0.0]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  62 ---
 max:  0.78
 min:  0.38
@@ -680,6 +802,8 @@ history_of_worst: [0.36, 0.12, 0.44, 0.6]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  63 ---
 max:  0.79
 min:  0.31
@@ -691,6 +815,8 @@ history_of_worst: [0.2, 0.32, 0.44, 0.28]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.28
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  64 ---
 max:  0.77
 min:  0.31
@@ -702,6 +828,8 @@ history_of_worst: [0.04, 0.0, 0.84, 0.36]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  65 ---
 max:  0.78
 min:  0.3
@@ -713,6 +841,8 @@ history_of_worst: [0.0, 0.36, 0.4, 0.44]
 average_num_of_neuron 7.49
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.3
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  66 ---
 max:  0.78
 min:  0.31
@@ -724,6 +854,8 @@ history_of_worst: [0.0, 0.2, 0.48, 0.56]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  67 ---
 max:  0.79
 min:  0.38
@@ -735,6 +867,8 @@ history_of_worst: [0.4, 0.16, 0.64, 0.32]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  68 ---
 max:  0.8
 min:  0.37
@@ -746,6 +880,8 @@ history_of_worst: [0.28, 0.52, 0.44, 0.24]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 6
+total_modulated_agent: 94
  --- generation:  69 ---
 max:  0.79
 min:  0.26
@@ -757,6 +893,8 @@ history_of_worst: [0.2, 0.36, 0.4, 0.08]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.11
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  70 ---
 max:  0.81
 min:  0.18
@@ -768,6 +906,8 @@ history_of_worst: [0.28, 0.44, 0.0, 0.0]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.05
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  71 ---
 max:  0.78
 min:  0.37
@@ -779,6 +919,8 @@ history_of_worst: [0.24, 0.0, 0.72, 0.52]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.07
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  72 ---
 max:  0.8
 min:  0.43
@@ -790,6 +932,8 @@ history_of_worst: [0.4, 0.44, 0.36, 0.52]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  73 ---
 max:  0.79
 min:  0.3
@@ -801,6 +945,8 @@ history_of_worst: [0.56, 0.0, 0.16, 0.48]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  74 ---
 max:  0.81
 min:  0.33
@@ -812,6 +958,8 @@ history_of_worst: [0.0, 0.4, 0.48, 0.44]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.28
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  75 ---
 max:  0.86
 min:  0.33
@@ -823,6 +971,8 @@ history_of_worst: [0.0, 0.28, 0.52, 0.52]
 average_num_of_neuron 7.49
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.35
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  76 ---
 max:  0.79
 min:  0.37
@@ -834,6 +984,8 @@ history_of_worst: [0.12, 0.44, 0.56, 0.36]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.11
 average_num_of_modulation_neuron 1.25
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  77 ---
 max:  0.81
 min:  0.37
@@ -845,6 +997,8 @@ history_of_worst: [0.16, 0.12, 0.52, 0.68]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  78 ---
 max:  0.77
 min:  0.28
@@ -856,6 +1010,8 @@ history_of_worst: [0.12, 0.12, 0.44, 0.44]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.06
 average_num_of_modulation_neuron 1.29
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  79 ---
 max:  0.8
 min:  0.29
@@ -867,6 +1023,8 @@ history_of_worst: [0.12, 0.04, 0.48, 0.52]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.05
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  80 ---
 max:  0.79
 min:  0.32
@@ -878,6 +1036,8 @@ history_of_worst: [0.0, 0.36, 0.48, 0.44]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.04
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  81 ---
 max:  0.78
 min:  0.35
@@ -889,6 +1049,8 @@ history_of_worst: [0.16, 0.04, 0.56, 0.64]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.07
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  82 ---
 max:  0.81
 min:  0.34
@@ -900,6 +1062,8 @@ history_of_worst: [0.04, 0.04, 0.6, 0.68]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  83 ---
 max:  0.8
 min:  0.41
@@ -911,6 +1075,8 @@ history_of_worst: [0.12, 0.36, 0.64, 0.52]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  84 ---
 max:  0.8
 min:  0.36
@@ -922,6 +1088,8 @@ history_of_worst: [0.28, 0.04, 0.64, 0.48]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  85 ---
 max:  0.8
 min:  0.39
@@ -933,6 +1101,8 @@ history_of_worst: [0.32, 0.0, 0.72, 0.52]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.07
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  86 ---
 max:  0.8
 min:  0.37
@@ -944,6 +1114,8 @@ history_of_worst: [0.36, 0.24, 0.4, 0.48]
 average_num_of_neuron 7.23
 average_num_of_hidden_neuron 0.05
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  87 ---
 max:  0.84
 min:  0.38
@@ -955,6 +1127,8 @@ history_of_worst: [0.32, 0.28, 0.56, 0.36]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.08
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  88 ---
 max:  0.79
 min:  0.35
@@ -966,6 +1140,8 @@ history_of_worst: [0.2, 0.04, 0.68, 0.48]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.1
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  89 ---
 max:  0.79
 min:  0.34
@@ -977,6 +1153,8 @@ history_of_worst: [0.28, 0.08, 0.48, 0.52]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  90 ---
 max:  0.82
 min:  0.37
@@ -988,6 +1166,8 @@ history_of_worst: [0.48, 1.0, 0.0, 0.0]
 average_num_of_neuron 7.28
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  91 ---
 max:  0.81
 min:  0.37
@@ -999,6 +1179,8 @@ history_of_worst: [0.08, 0.0, 0.68, 0.72]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.07
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  92 ---
 max:  0.81
 min:  0.26
@@ -1010,6 +1192,8 @@ history_of_worst: [0.12, 0.08, 0.36, 0.48]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.08
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  93 ---
 max:  0.79
 min:  0.4
@@ -1021,6 +1205,8 @@ history_of_worst: [0.56, 0.4, 0.44, 0.2]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.08
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  94 ---
 max:  0.82
 min:  0.22
@@ -1032,6 +1218,8 @@ history_of_worst: [0.04, 0.08, 0.28, 0.48]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  95 ---
 max:  0.78
 min:  0.27
@@ -1043,6 +1231,8 @@ history_of_worst: [0.4, 0.64, 0.04, 0.0]
 average_num_of_neuron 7.5
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  96 ---
 max:  0.77
 min:  0.32
@@ -1054,6 +1244,8 @@ history_of_worst: [0.2, 0.08, 0.52, 0.48]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  97 ---
 max:  0.77
 min:  0.33
@@ -1065,6 +1257,8 @@ history_of_worst: [0.32, 0.0, 0.76, 0.24]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  98 ---
 max:  0.81
 min:  0.34
@@ -1076,6 +1270,8 @@ history_of_worst: [0.48, 0.08, 0.52, 0.28]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  99 ---
 max:  0.79
 min:  0.29
@@ -1087,6 +1283,8 @@ history_of_worst: [0.04, 0.24, 0.6, 0.28]
 average_num_of_neuron 7.46
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  100 ---
 max:  0.79
 min:  0.36
@@ -1098,6 +1296,8 @@ history_of_worst: [0.16, 0.28, 0.56, 0.44]
 average_num_of_neuron 7.5
 average_num_of_hidden_neuron 0.32
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  101 ---
 max:  0.77
 min:  0.31
@@ -1109,6 +1309,8 @@ history_of_worst: [0.24, 0.08, 0.44, 0.48]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  102 ---
 max:  0.81
 min:  0.33
@@ -1120,6 +1322,8 @@ history_of_worst: [0.0, 0.0, 0.72, 0.6]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  103 ---
 max:  0.8
 min:  0.4
@@ -1131,6 +1335,8 @@ history_of_worst: [0.24, 0.16, 0.72, 0.48]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  104 ---
 max:  0.81
 min:  0.28
@@ -1142,6 +1348,8 @@ history_of_worst: [0.4, 0.68, 0.04, 0.0]
 average_num_of_neuron 7.28
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  105 ---
 max:  0.78
 min:  0.34
@@ -1153,6 +1361,8 @@ history_of_worst: [0.16, 0.36, 0.28, 0.56]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  106 ---
 max:  0.81
 min:  0.41
@@ -1164,6 +1374,8 @@ history_of_worst: [0.8, 0.8, 0.0, 0.04]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  107 ---
 max:  0.78
 min:  0.36
@@ -1175,6 +1387,8 @@ history_of_worst: [0.04, 0.32, 0.52, 0.56]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  108 ---
 max:  0.81
 min:  0.35
@@ -1186,6 +1400,8 @@ history_of_worst: [0.32, 0.32, 0.48, 0.28]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  109 ---
 max:  0.8
 min:  0.33
@@ -1197,6 +1413,8 @@ history_of_worst: [0.08, 0.12, 0.6, 0.52]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  110 ---
 max:  0.8
 min:  0.38
@@ -1208,6 +1426,8 @@ history_of_worst: [0.16, 0.12, 0.64, 0.6]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  111 ---
 max:  0.8
 min:  0.24
@@ -1219,6 +1439,8 @@ history_of_worst: [0.0, 0.04, 0.4, 0.52]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  112 ---
 max:  0.78
 min:  0.3
@@ -1230,6 +1452,8 @@ history_of_worst: [0.24, 0.32, 0.28, 0.36]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  113 ---
 max:  0.79
 min:  0.26
@@ -1241,6 +1465,8 @@ history_of_worst: [0.4, 0.6, 0.04, 0.0]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  114 ---
 max:  0.79
 min:  0.24
@@ -1252,6 +1478,8 @@ history_of_worst: [0.44, 0.44, 0.08, 0.0]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  115 ---
 max:  0.81
 min:  0.27
@@ -1263,6 +1491,8 @@ history_of_worst: [0.56, 0.36, 0.16, 0.0]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.29
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  116 ---
 max:  0.79
 min:  0.35
@@ -1274,6 +1504,8 @@ history_of_worst: [0.0, 0.0, 0.68, 0.72]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.07
 average_num_of_modulation_neuron 1.34
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  117 ---
 max:  0.82
 min:  0.32
@@ -1285,6 +1517,8 @@ history_of_worst: [0.12, 0.32, 0.36, 0.48]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.05
 average_num_of_modulation_neuron 1.33
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  118 ---
 max:  0.79
 min:  0.35
@@ -1296,6 +1530,8 @@ history_of_worst: [0.36, 0.12, 0.48, 0.44]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.34
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  119 ---
 max:  0.81
 min:  0.37
@@ -1307,6 +1543,8 @@ history_of_worst: [0.24, 0.52, 0.24, 0.48]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.1
 average_num_of_modulation_neuron 1.31
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  120 ---
 max:  0.8
 min:  0.4
@@ -1318,6 +1556,8 @@ history_of_worst: [0.4, 0.28, 0.6, 0.32]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.35
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  121 ---
 max:  0.8
 min:  0.31
@@ -1329,6 +1569,8 @@ history_of_worst: [0.24, 0.4, 0.32, 0.28]
 average_num_of_neuron 7.49
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.36
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  122 ---
 max:  0.77
 min:  0.35
@@ -1340,6 +1582,8 @@ history_of_worst: [0.28, 0.08, 0.52, 0.52]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.27
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  123 ---
 max:  0.82
 min:  0.35
@@ -1351,6 +1595,8 @@ history_of_worst: [0.28, 0.32, 0.36, 0.44]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  124 ---
 max:  0.78
 min:  0.28
@@ -1362,6 +1608,8 @@ history_of_worst: [0.08, 0.0, 0.6, 0.44]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  125 ---
 max:  0.8
 min:  0.38
@@ -1373,6 +1621,8 @@ history_of_worst: [0.32, 0.4, 0.36, 0.44]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.28
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  126 ---
 max:  0.78
 min:  0.31
@@ -1384,6 +1634,8 @@ history_of_worst: [0.36, 0.36, 0.4, 0.12]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  127 ---
 max:  0.8
 min:  0.4
@@ -1395,6 +1647,8 @@ history_of_worst: [0.44, 0.48, 0.52, 0.16]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.07
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  128 ---
 max:  0.83
 min:  0.34
@@ -1406,6 +1660,8 @@ history_of_worst: [0.4, 0.08, 0.4, 0.48]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  129 ---
 max:  0.81
 min:  0.35
@@ -1417,6 +1673,8 @@ history_of_worst: [0.2, 0.36, 0.48, 0.36]
 average_num_of_neuron 7.23
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  130 ---
 max:  0.79
 min:  0.44
@@ -1428,6 +1686,8 @@ history_of_worst: [0.2, 0.12, 0.68, 0.76]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  131 ---
 max:  0.79
 min:  0.41
@@ -1439,6 +1699,8 @@ history_of_worst: [0.28, 0.44, 0.4, 0.52]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  132 ---
 max:  0.78
 min:  0.32
@@ -1450,6 +1712,8 @@ history_of_worst: [0.0, 0.0, 0.8, 0.48]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  133 ---
 max:  0.81
 min:  0.33
@@ -1461,6 +1725,8 @@ history_of_worst: [0.0, 0.12, 0.64, 0.56]
 average_num_of_neuron 7.47
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.25
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  134 ---
 max:  0.81
 min:  0.34
@@ -1472,6 +1738,8 @@ history_of_worst: [0.0, 0.0, 0.64, 0.72]
 average_num_of_neuron 7.53
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.32
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  135 ---
 max:  0.79
 min:  0.34
@@ -1483,6 +1751,8 @@ history_of_worst: [0.04, 0.0, 0.76, 0.56]
 average_num_of_neuron 7.56
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.34
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  136 ---
 max:  0.8
 min:  0.38
@@ -1494,6 +1764,8 @@ history_of_worst: [0.08, 0.28, 0.52, 0.64]
 average_num_of_neuron 7.5
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.3
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  137 ---
 max:  0.8
 min:  0.35
@@ -1505,6 +1777,8 @@ history_of_worst: [0.2, 0.36, 0.36, 0.48]
 average_num_of_neuron 7.54
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.36
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  138 ---
 max:  0.81
 min:  0.34
@@ -1516,6 +1790,8 @@ history_of_worst: [0.2, 0.24, 0.52, 0.4]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.41
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  139 ---
 max:  0.81
 min:  0.33
@@ -1527,6 +1803,8 @@ history_of_worst: [0.28, 0.08, 0.56, 0.4]
 average_num_of_neuron 7.45
 average_num_of_hidden_neuron 0.11
 average_num_of_modulation_neuron 1.34
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  140 ---
 max:  0.8
 min:  0.36
@@ -1538,6 +1816,8 @@ history_of_worst: [0.28, 0.08, 0.52, 0.56]
 average_num_of_neuron 7.46
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.3
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  141 ---
 max:  0.8
 min:  0.35
@@ -1549,6 +1829,8 @@ history_of_worst: [0.0, 0.0, 0.8, 0.6]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  142 ---
 max:  0.81
 min:  0.37
@@ -1560,6 +1842,8 @@ history_of_worst: [0.44, 0.36, 0.32, 0.36]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  143 ---
 max:  0.78
 min:  0.37
@@ -1571,6 +1855,8 @@ history_of_worst: [0.08, 0.12, 0.64, 0.64]
 average_num_of_neuron 7.49
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.28
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  144 ---
 max:  0.83
 min:  0.39
@@ -1582,6 +1868,8 @@ history_of_worst: [0.2, 0.48, 0.36, 0.52]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.29
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  145 ---
 max:  0.77
 min:  0.31
@@ -1593,6 +1881,8 @@ history_of_worst: [0.2, 0.08, 0.48, 0.48]
 average_num_of_neuron 7.63
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.38
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  146 ---
 max:  0.78
 min:  0.45
@@ -1604,6 +1894,8 @@ history_of_worst: [0.44, 0.52, 0.48, 0.36]
 average_num_of_neuron 7.63
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.39
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  147 ---
 max:  0.78
 min:  0.3
@@ -1615,6 +1907,8 @@ history_of_worst: [0.44, 0.72, 0.04, 0.0]
 average_num_of_neuron 7.61
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.33
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  148 ---
 max:  0.82
 min:  0.4
@@ -1626,6 +1920,8 @@ history_of_worst: [0.0, 0.44, 0.6, 0.56]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  149 ---
 max:  0.79
 min:  0.38
@@ -1637,6 +1933,8 @@ history_of_worst: [0.2, 0.2, 0.64, 0.48]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  150 ---
 max:  0.8
 min:  0.32
@@ -1648,6 +1946,8 @@ history_of_worst: [0.08, 0.0, 0.72, 0.48]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  151 ---
 max:  0.8
 min:  0.34
@@ -1659,6 +1959,8 @@ history_of_worst: [0.0, 0.4, 0.36, 0.6]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  152 ---
 max:  0.79
 min:  0.3
@@ -1670,6 +1972,8 @@ history_of_worst: [0.0, 0.16, 0.68, 0.36]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  153 ---
 max:  0.81
 min:  0.4
@@ -1681,6 +1985,8 @@ history_of_worst: [0.0, 0.0, 1.0, 0.6]
 average_num_of_neuron 7.47
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  154 ---
 max:  0.82
 min:  0.22
@@ -1692,6 +1998,8 @@ history_of_worst: [0.32, 0.44, 0.12, 0.0]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  155 ---
 max:  0.8
 min:  0.25
@@ -1703,6 +2011,8 @@ history_of_worst: [0.04, 0.32, 0.24, 0.4]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  156 ---
 max:  0.82
 min:  0.39
@@ -1714,6 +2024,8 @@ history_of_worst: [0.0, 0.0, 0.72, 0.84]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  157 ---
 max:  0.79
 min:  0.36
@@ -1725,6 +2037,8 @@ history_of_worst: [0.04, 0.52, 0.56, 0.32]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  158 ---
 max:  0.85
 min:  0.38
@@ -1736,6 +2050,8 @@ history_of_worst: [0.08, 0.56, 0.44, 0.44]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  159 ---
 max:  0.85
 min:  0.41
@@ -1747,6 +2063,8 @@ history_of_worst: [0.4, 0.24, 0.48, 0.52]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.3
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  160 ---
 max:  0.81
 min:  0.4
@@ -1758,6 +2076,8 @@ history_of_worst: [0.12, 0.0, 0.72, 0.76]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  161 ---
 max:  0.82
 min:  0.28
@@ -1769,6 +2089,8 @@ history_of_worst: [0.0, 0.08, 0.4, 0.64]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.25
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  162 ---
 max:  0.8
 min:  0.3
@@ -1780,6 +2102,8 @@ history_of_worst: [0.44, 0.04, 0.56, 0.16]
 average_num_of_neuron 7.46
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  163 ---
 max:  0.81
 min:  0.28
@@ -1791,6 +2115,8 @@ history_of_worst: [0.28, 0.04, 0.28, 0.52]
 average_num_of_neuron 7.45
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.28
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  164 ---
 max:  0.82
 min:  0.35
@@ -1802,6 +2128,8 @@ history_of_worst: [0.44, 0.56, 0.0, 0.4]
 average_num_of_neuron 7.46
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  165 ---
 max:  0.81
 min:  0.31
@@ -1813,6 +2141,8 @@ history_of_worst: [0.16, 0.0, 0.56, 0.52]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  166 ---
 max:  0.81
 min:  0.38
@@ -1824,6 +2154,8 @@ history_of_worst: [0.16, 0.0, 0.8, 0.56]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  167 ---
 max:  0.81
 min:  0.27
@@ -1835,6 +2167,8 @@ history_of_worst: [0.0, 0.08, 0.64, 0.36]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  168 ---
 max:  0.79
 min:  0.35
@@ -1846,6 +2180,8 @@ history_of_worst: [0.24, 0.28, 0.6, 0.28]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  169 ---
 max:  0.83
 min:  0.38
@@ -1857,6 +2193,8 @@ history_of_worst: [0.48, 0.24, 0.4, 0.4]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.11
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  170 ---
 max:  0.8
 min:  0.41
@@ -1868,6 +2206,8 @@ history_of_worst: [0.36, 0.4, 0.4, 0.48]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.11
 average_num_of_modulation_neuron 1.25
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  171 ---
 max:  0.81
 min:  0.37
@@ -1879,6 +2219,8 @@ history_of_worst: [0.2, 0.04, 0.68, 0.56]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  172 ---
 max:  0.81
 min:  0.36
@@ -1890,6 +2232,8 @@ history_of_worst: [0.16, 0.28, 0.36, 0.64]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.11
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  173 ---
 max:  0.8
 min:  0.37
@@ -1901,6 +2245,8 @@ history_of_worst: [0.36, 0.32, 0.4, 0.4]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  174 ---
 max:  0.8
 min:  0.37
@@ -1912,6 +2258,8 @@ history_of_worst: [0.2, 0.4, 0.36, 0.52]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  175 ---
 max:  0.82
 min:  0.4
@@ -1923,6 +2271,8 @@ history_of_worst: [0.28, 0.24, 0.52, 0.56]
 average_num_of_neuron 7.28
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  176 ---
 max:  0.8
 min:  0.4
@@ -1934,6 +2284,8 @@ history_of_worst: [0.28, 0.04, 0.68, 0.6]
 average_num_of_neuron 7.28
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  177 ---
 max:  0.8
 min:  0.37
@@ -1945,6 +2297,8 @@ history_of_worst: [0.36, 0.4, 0.4, 0.32]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  178 ---
 max:  0.79
 min:  0.31
@@ -1956,6 +2310,8 @@ history_of_worst: [0.04, 0.36, 0.4, 0.44]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  179 ---
 max:  0.81
 min:  0.32
@@ -1967,6 +2323,8 @@ history_of_worst: [0.24, 0.28, 0.36, 0.4]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  180 ---
 max:  0.82
 min:  0.35
@@ -1978,6 +2336,8 @@ history_of_worst: [0.24, 0.32, 0.36, 0.48]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.05
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  181 ---
 max:  0.81
 min:  0.35
@@ -1989,6 +2349,8 @@ history_of_worst: [0.24, 0.48, 0.44, 0.24]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  182 ---
 max:  0.82
 min:  0.28
@@ -2000,6 +2362,8 @@ history_of_worst: [0.04, 0.2, 0.36, 0.52]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  183 ---
 max:  0.81
 min:  0.34
@@ -2011,6 +2375,8 @@ history_of_worst: [0.28, 0.36, 0.36, 0.36]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  184 ---
 max:  0.8
 min:  0.34
@@ -2022,6 +2388,8 @@ history_of_worst: [0.4, 0.04, 0.52, 0.4]
 average_num_of_neuron 7.49
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  185 ---
 max:  0.81
 min:  0.31
@@ -2033,6 +2401,8 @@ history_of_worst: [0.32, 0.36, 0.28, 0.28]
 average_num_of_neuron 7.51
 average_num_of_hidden_neuron 0.34
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  186 ---
 max:  0.78
 min:  0.35
@@ -2044,6 +2414,8 @@ history_of_worst: [0.4, 1.0, 0.0, 0.0]
 average_num_of_neuron 7.5
 average_num_of_hidden_neuron 0.34
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  187 ---
 max:  0.79
 min:  0.32
@@ -2055,6 +2427,8 @@ history_of_worst: [0.24, 0.0, 0.48, 0.56]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  188 ---
 max:  0.81
 min:  0.28
@@ -2066,6 +2440,8 @@ history_of_worst: [0.0, 0.2, 0.56, 0.36]
 average_num_of_neuron 7.47
 average_num_of_hidden_neuron 0.29
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  189 ---
 max:  0.82
 min:  0.3
@@ -2077,6 +2453,8 @@ history_of_worst: [0.52, 0.52, 0.16, 0.0]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.25
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  190 ---
 max:  0.8
 min:  0.26
@@ -2088,6 +2466,8 @@ history_of_worst: [0.2, 0.04, 0.36, 0.44]
 average_num_of_neuron 7.46
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.25
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  191 ---
 max:  0.8
 min:  0.37
@@ -2099,6 +2479,8 @@ history_of_worst: [0.56, 0.84, 0.08, 0.0]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  192 ---
 max:  0.8
 min:  0.29
@@ -2110,6 +2492,8 @@ history_of_worst: [0.0, 0.0, 0.76, 0.4]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  193 ---
 max:  0.8
 min:  0.4
@@ -2121,6 +2505,8 @@ history_of_worst: [0.48, 0.52, 0.24, 0.36]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  194 ---
 max:  0.83
 min:  0.43
@@ -2132,6 +2518,8 @@ history_of_worst: [0.36, 0.08, 0.72, 0.56]
 average_num_of_neuron 7.45
 average_num_of_hidden_neuron 0.33
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  195 ---
 max:  0.8
 min:  0.16
@@ -2143,6 +2531,8 @@ history_of_worst: [0.12, 0.32, 0.2, 0.0]
 average_num_of_neuron 7.48
 average_num_of_hidden_neuron 0.38
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 8
+total_modulated_agent: 92
  --- generation:  196 ---
 max:  0.8
 min:  0.35
@@ -2154,6 +2544,8 @@ history_of_worst: [0.24, 0.48, 0.36, 0.32]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.32
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  197 ---
 max:  0.82
 min:  0.38
@@ -2165,6 +2557,8 @@ history_of_worst: [0.0, 0.0, 1.0, 0.52]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  198 ---
 max:  0.82
 min:  0.31
@@ -2176,6 +2570,8 @@ history_of_worst: [0.0, 0.0, 0.88, 0.36]
 average_num_of_neuron 7.48
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  199 ---
 max:  0.85
 min:  0.35
@@ -2187,6 +2583,8 @@ history_of_worst: [0.28, 0.16, 0.52, 0.44]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.27
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  200 ---
 max:  0.83
 min:  0.37
@@ -2198,6 +2596,8 @@ history_of_worst: [0.0, 0.0, 0.96, 0.52]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  201 ---
 max:  0.81
 min:  0.37
@@ -2209,6 +2609,8 @@ history_of_worst: [0.12, 0.52, 0.44, 0.4]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  202 ---
 max:  0.81
 min:  0.27
@@ -2220,6 +2622,8 @@ history_of_worst: [0.0, 0.0, 0.6, 0.48]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.27
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  203 ---
 max:  0.83
 min:  0.27
@@ -2231,6 +2635,8 @@ history_of_worst: [0.04, 0.0, 0.6, 0.44]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.28
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  204 ---
 max:  0.82
 min:  0.28
@@ -2242,6 +2648,8 @@ history_of_worst: [0.04, 0.0, 0.56, 0.52]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  205 ---
 max:  0.83
 min:  0.35
@@ -2253,6 +2661,8 @@ history_of_worst: [0.2, 0.4, 0.32, 0.48]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  206 ---
 max:  0.79
 min:  0.42
@@ -2264,6 +2674,8 @@ history_of_worst: [0.24, 0.48, 0.44, 0.52]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.1
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  207 ---
 max:  0.85
 min:  0.41
@@ -2275,6 +2687,8 @@ history_of_worst: [0.36, 0.44, 0.44, 0.4]
 average_num_of_neuron 7.47
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.3
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  208 ---
 max:  0.78
 min:  0.35
@@ -2286,6 +2700,8 @@ history_of_worst: [0.12, 0.32, 0.44, 0.52]
 average_num_of_neuron 7.62
 average_num_of_hidden_neuron 0.29
 average_num_of_modulation_neuron 1.33
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  209 ---
 max:  0.8
 min:  0.36
@@ -2297,6 +2713,8 @@ history_of_worst: [0.4, 0.56, 0.24, 0.24]
 average_num_of_neuron 7.52
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  210 ---
 max:  0.81
 min:  0.3
@@ -2308,6 +2726,8 @@ history_of_worst: [0.04, 0.0, 0.6, 0.56]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  211 ---
 max:  0.8
 min:  0.39
@@ -2319,6 +2739,8 @@ history_of_worst: [0.2, 0.16, 0.6, 0.6]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  212 ---
 max:  0.8
 min:  0.33
@@ -2330,6 +2752,8 @@ history_of_worst: [0.16, 0.04, 0.56, 0.56]
 average_num_of_neuron 7.51
 average_num_of_hidden_neuron 0.31
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  213 ---
 max:  0.85
 min:  0.29
@@ -2341,6 +2765,8 @@ history_of_worst: [0.0, 0.28, 0.4, 0.48]
 average_num_of_neuron 7.56
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.29
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  214 ---
 max:  0.78
 min:  0.33
@@ -2352,6 +2778,8 @@ history_of_worst: [0.04, 0.0, 0.72, 0.56]
 average_num_of_neuron 7.51
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.3
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  215 ---
 max:  0.8
 min:  0.39
@@ -2363,6 +2791,8 @@ history_of_worst: [0.48, 0.12, 0.4, 0.56]
 average_num_of_neuron 7.51
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  216 ---
 max:  0.79
 min:  0.36
@@ -2374,6 +2804,8 @@ history_of_worst: [0.56, 0.48, 0.4, 0.0]
 average_num_of_neuron 7.48
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.29
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  217 ---
 max:  0.81
 min:  0.41
@@ -2385,6 +2817,8 @@ history_of_worst: [0.36, 0.4, 0.48, 0.4]
 average_num_of_neuron 7.62
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.37
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  218 ---
 max:  0.79
 min:  0.35
@@ -2396,6 +2830,8 @@ history_of_worst: [0.44, 0.12, 0.4, 0.44]
 average_num_of_neuron 7.56
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.32
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  219 ---
 max:  0.82
 min:  0.37
@@ -2407,6 +2843,8 @@ history_of_worst: [0.2, 0.44, 0.48, 0.36]
 average_num_of_neuron 7.61
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.31
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  220 ---
 max:  0.81
 min:  0.37
@@ -2418,6 +2856,8 @@ history_of_worst: [0.36, 0.28, 0.44, 0.4]
 average_num_of_neuron 7.65
 average_num_of_hidden_neuron 0.36
 average_num_of_modulation_neuron 1.29
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  221 ---
 max:  0.8
 min:  0.33
@@ -2429,6 +2869,8 @@ history_of_worst: [0.2, 0.52, 0.28, 0.32]
 average_num_of_neuron 7.67
 average_num_of_hidden_neuron 0.46
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  222 ---
 max:  0.79
 min:  0.36
@@ -2440,6 +2882,8 @@ history_of_worst: [0.24, 0.32, 0.28, 0.6]
 average_num_of_neuron 7.6
 average_num_of_hidden_neuron 0.38
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  223 ---
 max:  0.81
 min:  0.33
@@ -2451,6 +2895,8 @@ history_of_worst: [0.08, 0.12, 0.56, 0.56]
 average_num_of_neuron 7.49
 average_num_of_hidden_neuron 0.39
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  224 ---
 max:  0.83
 min:  0.38
@@ -2462,6 +2908,8 @@ history_of_worst: [0.36, 0.0, 0.56, 0.6]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  225 ---
 max:  0.86
 min:  0.32
@@ -2473,6 +2921,8 @@ history_of_worst: [0.32, 0.12, 0.4, 0.44]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  226 ---
 max:  0.82
 min:  0.34
@@ -2484,6 +2934,8 @@ history_of_worst: [0.28, 0.0, 0.52, 0.56]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  227 ---
 max:  0.82
 min:  0.35
@@ -2495,6 +2947,8 @@ history_of_worst: [0.04, 0.0, 0.76, 0.6]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  228 ---
 max:  0.82
 min:  0.34
@@ -2506,6 +2960,8 @@ history_of_worst: [0.4, 0.72, 0.04, 0.2]
 average_num_of_neuron 7.45
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.28
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  229 ---
 max:  0.8
 min:  0.4
@@ -2517,6 +2973,8 @@ history_of_worst: [0.28, 0.44, 0.36, 0.52]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.08
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  230 ---
 max:  0.82
 min:  0.29
@@ -2528,6 +2986,8 @@ history_of_worst: [0.04, 0.08, 0.6, 0.44]
 average_num_of_neuron 7.22
 average_num_of_hidden_neuron 0.1
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  231 ---
 max:  0.81
 min:  0.26
@@ -2539,6 +2999,8 @@ history_of_worst: [0.0, 0.24, 0.48, 0.32]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  232 ---
 max:  0.82
 min:  0.27
@@ -2550,6 +3012,8 @@ history_of_worst: [0.28, 0.52, 0.24, 0.04]
 average_num_of_neuron 7.23
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  233 ---
 max:  0.83
 min:  0.38
@@ -2561,6 +3025,8 @@ history_of_worst: [0.28, 0.36, 0.52, 0.36]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  234 ---
 max:  0.82
 min:  0.38
@@ -2572,6 +3038,8 @@ history_of_worst: [0.24, 0.36, 0.44, 0.48]
 average_num_of_neuron 7.22
 average_num_of_hidden_neuron 0.11
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  235 ---
 max:  0.83
 min:  0.39
@@ -2583,6 +3051,8 @@ history_of_worst: [0.44, 0.16, 0.4, 0.56]
 average_num_of_neuron 7.23
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  236 ---
 max:  0.84
 min:  0.38
@@ -2594,6 +3064,8 @@ history_of_worst: [0.08, 0.6, 0.36, 0.48]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  237 ---
 max:  0.83
 min:  0.3
@@ -2605,6 +3077,8 @@ history_of_worst: [0.08, 0.0, 0.72, 0.4]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  238 ---
 max:  0.8
 min:  0.43
@@ -2616,6 +3090,8 @@ history_of_worst: [0.4, 0.48, 0.48, 0.36]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  239 ---
 max:  0.82
 min:  0.33
@@ -2627,6 +3103,8 @@ history_of_worst: [0.24, 0.32, 0.4, 0.36]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  240 ---
 max:  0.83
 min:  0.37
@@ -2638,6 +3116,8 @@ history_of_worst: [0.0, 0.0, 0.72, 0.76]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  241 ---
 max:  0.81
 min:  0.36
@@ -2649,6 +3129,8 @@ history_of_worst: [0.32, 0.16, 0.52, 0.44]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  242 ---
 max:  0.82
 min:  0.3
@@ -2660,6 +3142,8 @@ history_of_worst: [0.0, 0.16, 0.56, 0.48]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  243 ---
 max:  0.82
 min:  0.32
@@ -2671,6 +3155,8 @@ history_of_worst: [0.0, 0.12, 0.68, 0.48]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  244 ---
 max:  0.83
 min:  0.28
@@ -2682,6 +3168,8 @@ history_of_worst: [0.0, 0.08, 0.48, 0.56]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  245 ---
 max:  0.8
 min:  0.31
@@ -2693,6 +3181,8 @@ history_of_worst: [0.04, 0.2, 0.48, 0.52]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  246 ---
 max:  0.82
 min:  0.23
@@ -2704,6 +3194,8 @@ history_of_worst: [0.36, 0.4, 0.0, 0.16]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  247 ---
 max:  0.82
 min:  0.3
@@ -2715,6 +3207,8 @@ history_of_worst: [0.64, 0.36, 0.08, 0.12]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  248 ---
 max:  0.84
 min:  0.3
@@ -2726,6 +3220,8 @@ history_of_worst: [0.44, 0.72, 0.0, 0.04]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.1
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  249 ---
 max:  0.81
 min:  0.36
@@ -2737,6 +3233,8 @@ history_of_worst: [0.24, 0.32, 0.44, 0.44]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  250 ---
 max:  0.8
 min:  0.42
@@ -2748,6 +3246,8 @@ history_of_worst: [0.52, 0.44, 0.32, 0.4]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  251 ---
 max:  0.84
 min:  0.41
@@ -2759,6 +3259,8 @@ history_of_worst: [0.36, 0.32, 0.56, 0.4]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  252 ---
 max:  0.81
 min:  0.32
@@ -2770,6 +3272,8 @@ history_of_worst: [0.2, 0.0, 0.48, 0.6]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  253 ---
 max:  0.8
 min:  0.29
@@ -2781,6 +3285,8 @@ history_of_worst: [0.0, 0.0, 0.68, 0.48]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  254 ---
 max:  0.81
 min:  0.29
@@ -2792,6 +3298,8 @@ history_of_worst: [0.0, 0.32, 0.44, 0.4]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  255 ---
 max:  0.8
 min:  0.36
@@ -2803,6 +3311,8 @@ history_of_worst: [0.0, 0.2, 0.8, 0.44]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  256 ---
 max:  0.8
 min:  0.27
@@ -2814,6 +3324,8 @@ history_of_worst: [0.0, 0.08, 0.44, 0.56]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 6
+total_modulated_agent: 94
  --- generation:  257 ---
 max:  0.79
 min:  0.34
@@ -2825,6 +3337,8 @@ history_of_worst: [0.48, 0.72, 0.0, 0.16]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  258 ---
 max:  0.84
 min:  0.41
@@ -2836,6 +3350,8 @@ history_of_worst: [0.6, 0.4, 0.2, 0.44]
 average_num_of_neuron 7.13
 average_num_of_hidden_neuron 0.11
 average_num_of_modulation_neuron 1.02
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  259 ---
 max:  0.83
 min:  0.37
@@ -2847,6 +3363,8 @@ history_of_worst: [0.32, 0.44, 0.4, 0.32]
 average_num_of_neuron 7.16
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.07
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  260 ---
 max:  0.8
 min:  0.22
@@ -2858,6 +3376,8 @@ history_of_worst: [0.28, 0.0, 0.56, 0.04]
 average_num_of_neuron 7.17
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.05
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  261 ---
 max:  0.83
 min:  0.37
@@ -2869,6 +3389,8 @@ history_of_worst: [0.36, 0.28, 0.4, 0.44]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  262 ---
 max:  0.81
 min:  0.34
@@ -2880,6 +3402,8 @@ history_of_worst: [0.0, 0.4, 0.4, 0.56]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  263 ---
 max:  0.82
 min:  0.39
@@ -2891,6 +3415,8 @@ history_of_worst: [0.32, 0.4, 0.4, 0.44]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  264 ---
 max:  0.8
 min:  0.37
@@ -2902,6 +3428,8 @@ history_of_worst: [0.16, 0.32, 0.6, 0.4]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 6
+total_modulated_agent: 94
  --- generation:  265 ---
 max:  0.78
 min:  0.38
@@ -2913,6 +3441,8 @@ history_of_worst: [0.36, 0.24, 0.44, 0.48]
 average_num_of_neuron 7.46
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  266 ---
 max:  0.81
 min:  0.35
@@ -2924,6 +3454,8 @@ history_of_worst: [0.12, 0.44, 0.4, 0.44]
 average_num_of_neuron 7.5
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  267 ---
 max:  0.8
 min:  0.31
@@ -2935,6 +3467,8 @@ history_of_worst: [0.24, 0.08, 0.52, 0.4]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  268 ---
 max:  0.82
 min:  0.29
@@ -2946,6 +3480,8 @@ history_of_worst: [0.2, 0.08, 0.44, 0.44]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  269 ---
 max:  0.81
 min:  0.21
@@ -2957,6 +3493,8 @@ history_of_worst: [0.0, 0.12, 0.32, 0.4]
 average_num_of_neuron 7.19
 average_num_of_hidden_neuron 0.02
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  270 ---
 max:  0.82
 min:  0.3
@@ -2968,6 +3506,8 @@ history_of_worst: [0.04, 0.0, 0.6, 0.56]
 average_num_of_neuron 7.22
 average_num_of_hidden_neuron 0.06
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  271 ---
 max:  0.82
 min:  0.3
@@ -2979,6 +3519,8 @@ history_of_worst: [0.36, 0.84, 0.0, 0.0]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.1
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  272 ---
 max:  0.81
 min:  0.38
@@ -2990,6 +3532,8 @@ history_of_worst: [0.28, 0.0, 0.68, 0.56]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  273 ---
 max:  0.83
 min:  0.39
@@ -3001,6 +3545,8 @@ history_of_worst: [0.48, 0.0, 0.76, 0.32]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  274 ---
 max:  0.83
 min:  0.26
@@ -3012,6 +3558,8 @@ history_of_worst: [0.0, 0.0, 0.56, 0.48]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  275 ---
 max:  0.81
 min:  0.31
@@ -3023,6 +3571,8 @@ history_of_worst: [0.28, 0.04, 0.44, 0.48]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  276 ---
 max:  0.83
 min:  0.3
@@ -3034,6 +3584,8 @@ history_of_worst: [0.0, 0.0, 0.68, 0.52]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  277 ---
 max:  0.79
 min:  0.33
@@ -3045,6 +3597,8 @@ history_of_worst: [0.0, 0.48, 0.36, 0.48]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  278 ---
 max:  0.8
 min:  0.36
@@ -3056,6 +3610,8 @@ history_of_worst: [0.28, 0.44, 0.44, 0.28]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  279 ---
 max:  0.82
 min:  0.28
@@ -3067,6 +3623,8 @@ history_of_worst: [0.04, 0.16, 0.6, 0.32]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  280 ---
 max:  0.82
 min:  0.32
@@ -3078,6 +3636,8 @@ history_of_worst: [0.0, 0.04, 0.56, 0.68]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  281 ---
 max:  0.82
 min:  0.4
@@ -3089,6 +3649,8 @@ history_of_worst: [0.52, 0.4, 0.4, 0.28]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  282 ---
 max:  0.8
 min:  0.33
@@ -3100,6 +3662,8 @@ history_of_worst: [0.08, 0.2, 0.48, 0.56]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  283 ---
 max:  0.82
 min:  0.26
@@ -3111,6 +3675,8 @@ history_of_worst: [0.12, 0.16, 0.44, 0.32]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  284 ---
 max:  0.82
 min:  0.31
@@ -3122,6 +3688,8 @@ history_of_worst: [0.36, 0.52, 0.36, 0.0]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  285 ---
 max:  0.83
 min:  0.39
@@ -3133,6 +3701,8 @@ history_of_worst: [0.28, 0.36, 0.4, 0.52]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.02
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  286 ---
 max:  0.83
 min:  0.32
@@ -3144,6 +3714,8 @@ history_of_worst: [0.44, 0.56, 0.28, 0.0]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  287 ---
 max:  0.8
 min:  0.35
@@ -3155,6 +3727,8 @@ history_of_worst: [0.16, 0.08, 0.48, 0.68]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.07
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  288 ---
 max:  0.82
 min:  0.3
@@ -3166,6 +3740,8 @@ history_of_worst: [0.04, 0.0, 0.64, 0.52]
 average_num_of_neuron 7.19
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.07
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  289 ---
 max:  0.85
 min:  0.25
@@ -3177,6 +3753,8 @@ history_of_worst: [0.04, 0.0, 0.48, 0.48]
 average_num_of_neuron 7.17
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.05
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  290 ---
 max:  0.82
 min:  0.27
@@ -3188,6 +3766,8 @@ history_of_worst: [0.04, 0.0, 0.68, 0.36]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  291 ---
 max:  0.84
 min:  0.31
@@ -3199,6 +3779,8 @@ history_of_worst: [0.16, 0.12, 0.56, 0.4]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  292 ---
 max:  0.81
 min:  0.3
@@ -3210,6 +3792,8 @@ history_of_worst: [0.16, 0.24, 0.44, 0.36]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  293 ---
 max:  0.82
 min:  0.3
@@ -3221,6 +3805,8 @@ history_of_worst: [0.28, 0.92, 0.0, 0.0]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  294 ---
 max:  0.81
 min:  0.39
@@ -3232,6 +3818,8 @@ history_of_worst: [0.36, 0.28, 0.56, 0.36]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.31
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  295 ---
 max:  0.8
 min:  0.37
@@ -3243,6 +3831,8 @@ history_of_worst: [0.32, 0.4, 0.32, 0.44]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 0.99
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  296 ---
 max:  0.87
 min:  0.32
@@ -3254,6 +3844,8 @@ history_of_worst: [0.16, 0.32, 0.36, 0.44]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 0.99
+total_not_modulated_agent: 9
+total_modulated_agent: 91
  --- generation:  297 ---
 max:  0.82
 min:  0.31
@@ -3265,6 +3857,8 @@ history_of_worst: [0.28, 0.08, 0.36, 0.52]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.31
 average_num_of_modulation_neuron 1.02
+total_not_modulated_agent: 10
+total_modulated_agent: 90
  --- generation:  298 ---
 max:  0.81
 min:  0.3
@@ -3276,6 +3870,8 @@ history_of_worst: [0.24, 0.08, 0.52, 0.36]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.35
 average_num_of_modulation_neuron 0.99
+total_not_modulated_agent: 10
+total_modulated_agent: 90
  --- generation:  299 ---
 max:  0.83
 min:  0.26
@@ -3287,6 +3883,8 @@ history_of_worst: [0.16, 0.08, 0.44, 0.36]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.39
 average_num_of_modulation_neuron 0.96
+total_not_modulated_agent: 13
+total_modulated_agent: 87
  --- generation:  300 ---
 max:  0.83
 min:  0.35
@@ -3298,6 +3896,8 @@ history_of_worst: [0.44, 0.16, 0.36, 0.44]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.31
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 7
+total_modulated_agent: 93
  --- generation:  301 ---
 max:  0.81
 min:  0.38
@@ -3309,6 +3909,8 @@ history_of_worst: [0.36, 0.4, 0.4, 0.36]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.38
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  302 ---
 max:  0.8
 min:  0.31
@@ -3320,6 +3922,8 @@ history_of_worst: [0.04, 0.0, 0.72, 0.48]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.49
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 7
+total_modulated_agent: 93
  --- generation:  303 ---
 max:  0.81
 min:  0.32
@@ -3331,6 +3935,8 @@ history_of_worst: [0.04, 0.16, 0.52, 0.56]
 average_num_of_neuron 7.45
 average_num_of_hidden_neuron 0.41
 average_num_of_modulation_neuron 1.04
+total_not_modulated_agent: 11
+total_modulated_agent: 89
  --- generation:  304 ---
 max:  0.81
 min:  0.31
@@ -3342,6 +3948,8 @@ history_of_worst: [0.0, 0.32, 0.48, 0.44]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 9
+total_modulated_agent: 91
  --- generation:  305 ---
 max:  0.8
 min:  0.3
@@ -3353,6 +3961,8 @@ history_of_worst: [0.0, 0.0, 0.8, 0.4]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  306 ---
 max:  0.8
 min:  0.3
@@ -3364,6 +3974,8 @@ history_of_worst: [0.04, 0.4, 0.36, 0.4]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  307 ---
 max:  0.79
 min:  0.33
@@ -3375,6 +3987,8 @@ history_of_worst: [0.0, 0.04, 0.6, 0.68]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  308 ---
 max:  0.83
 min:  0.3
@@ -3386,6 +4000,8 @@ history_of_worst: [0.0, 0.0, 0.6, 0.6]
 average_num_of_neuron 7.5
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  309 ---
 max:  0.82
 min:  0.28
@@ -3397,6 +4013,8 @@ history_of_worst: [0.0, 0.04, 0.56, 0.52]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  310 ---
 max:  0.81
 min:  0.28
@@ -3408,6 +4026,8 @@ history_of_worst: [0.04, 0.0, 0.64, 0.44]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.27
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  311 ---
 max:  0.83
 min:  0.24
@@ -3419,6 +4039,8 @@ history_of_worst: [0.08, 0.32, 0.28, 0.28]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  312 ---
 max:  0.82
 min:  0.28
@@ -3430,6 +4052,8 @@ history_of_worst: [0.16, 0.0, 0.52, 0.44]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  313 ---
 max:  0.89
 min:  0.34
@@ -3441,6 +4065,8 @@ history_of_worst: [0.2, 0.0, 0.68, 0.48]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  314 ---
 max:  0.82
 min:  0.36
@@ -3452,6 +4078,8 @@ history_of_worst: [0.28, 0.32, 0.4, 0.44]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  315 ---
 max:  0.8
 min:  0.35
@@ -3463,6 +4091,8 @@ history_of_worst: [0.16, 0.0, 0.68, 0.56]
 average_num_of_neuron 7.2
 average_num_of_hidden_neuron 0.1
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  316 ---
 max:  0.79
 min:  0.24
@@ -3474,6 +4104,8 @@ history_of_worst: [0.48, 0.48, 0.0, 0.0]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.08
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  317 ---
 max:  0.81
 min:  0.31
@@ -3485,6 +4117,8 @@ history_of_worst: [0.44, 0.08, 0.44, 0.28]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  318 ---
 max:  0.81
 min:  0.34
@@ -3496,6 +4130,8 @@ history_of_worst: [0.0, 0.0, 0.88, 0.48]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.27
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  319 ---
 max:  0.79
 min:  0.31
@@ -3507,6 +4143,8 @@ history_of_worst: [0.36, 0.0, 0.56, 0.32]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  320 ---
 max:  0.83
 min:  0.36
@@ -3518,6 +4156,8 @@ history_of_worst: [0.32, 0.24, 0.52, 0.36]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  321 ---
 max:  0.8
 min:  0.39
@@ -3529,6 +4169,8 @@ history_of_worst: [0.2, 0.48, 0.44, 0.44]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  322 ---
 max:  0.79
 min:  0.4
@@ -3540,6 +4182,8 @@ history_of_worst: [0.28, 0.16, 0.6, 0.56]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  323 ---
 max:  0.81
 min:  0.39
@@ -3551,6 +4195,8 @@ history_of_worst: [0.12, 0.52, 0.52, 0.4]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.31
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  324 ---
 max:  0.84
 min:  0.37
@@ -3562,6 +4208,8 @@ history_of_worst: [0.12, 0.6, 0.48, 0.28]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  325 ---
 max:  0.82
 min:  0.36
@@ -3573,6 +4221,8 @@ history_of_worst: [0.04, 0.28, 0.68, 0.44]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  326 ---
 max:  0.82
 min:  0.27
@@ -3584,6 +4234,8 @@ history_of_worst: [0.04, 0.0, 0.64, 0.4]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.29
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  327 ---
 max:  0.81
 min:  0.34
@@ -3595,6 +4247,8 @@ history_of_worst: [0.2, 0.12, 0.52, 0.52]
 average_num_of_neuron 7.53
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.34
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  328 ---
 max:  0.81
 min:  0.29
@@ -3606,6 +4260,8 @@ history_of_worst: [0.56, 0.6, 0.0, 0.0]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  329 ---
 max:  0.79
 min:  0.34
@@ -3617,6 +4273,8 @@ history_of_worst: [0.52, 0.52, 0.28, 0.04]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.27
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  330 ---
 max:  0.8
 min:  0.32
@@ -3628,6 +4286,8 @@ history_of_worst: [0.52, 0.0, 0.44, 0.32]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  331 ---
 max:  0.8
 min:  0.36
@@ -3639,6 +4299,8 @@ history_of_worst: [0.4, 0.4, 0.28, 0.36]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  332 ---
 max:  0.79
 min:  0.38
@@ -3650,6 +4312,8 @@ history_of_worst: [0.2, 0.08, 0.56, 0.68]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  333 ---
 max:  0.84
 min:  0.36
@@ -3661,6 +4325,8 @@ history_of_worst: [0.32, 0.52, 0.36, 0.24]
 average_num_of_neuron 7.51
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.25
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  334 ---
 max:  0.79
 min:  0.29
@@ -3672,6 +4338,8 @@ history_of_worst: [0.0, 0.16, 0.56, 0.44]
 average_num_of_neuron 7.57
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.27
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  335 ---
 max:  0.8
 min:  0.32
@@ -3683,6 +4351,8 @@ history_of_worst: [0.2, 0.0, 0.64, 0.44]
 average_num_of_neuron 7.44
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.25
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  336 ---
 max:  0.79
 min:  0.34
@@ -3694,6 +4364,8 @@ history_of_worst: [0.28, 0.2, 0.56, 0.32]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  337 ---
 max:  0.8
 min:  0.36
@@ -3705,6 +4377,8 @@ history_of_worst: [0.36, 0.2, 0.44, 0.44]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  338 ---
 max:  0.8
 min:  0.41
@@ -3716,6 +4390,8 @@ history_of_worst: [0.36, 0.4, 0.4, 0.48]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  339 ---
 max:  0.8
 min:  0.28
@@ -3727,6 +4403,8 @@ history_of_worst: [0.16, 0.0, 0.48, 0.48]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  340 ---
 max:  0.79
 min:  0.29
@@ -3738,6 +4416,8 @@ history_of_worst: [0.28, 0.4, 0.48, 0.0]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  341 ---
 max:  0.79
 min:  0.43
@@ -3749,6 +4429,8 @@ history_of_worst: [0.36, 0.72, 0.4, 0.24]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  342 ---
 max:  0.78
 min:  0.33
@@ -3760,6 +4442,8 @@ history_of_worst: [0.32, 0.28, 0.36, 0.36]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  343 ---
 max:  0.82
 min:  0.29
@@ -3771,6 +4455,8 @@ history_of_worst: [0.12, 0.28, 0.56, 0.2]
 average_num_of_neuron 7.48
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  344 ---
 max:  0.81
 min:  0.32
@@ -3782,6 +4468,8 @@ history_of_worst: [0.2, 0.04, 0.52, 0.52]
 average_num_of_neuron 7.5
 average_num_of_hidden_neuron 0.31
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  345 ---
 max:  0.79
 min:  0.28
@@ -3793,6 +4481,8 @@ history_of_worst: [0.24, 0.2, 0.36, 0.32]
 average_num_of_neuron 7.47
 average_num_of_hidden_neuron 0.29
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  346 ---
 max:  0.79
 min:  0.27
@@ -3804,6 +4494,8 @@ history_of_worst: [0.0, 0.0, 0.64, 0.44]
 average_num_of_neuron 7.46
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  347 ---
 max:  0.82
 min:  0.38
@@ -3815,6 +4507,8 @@ history_of_worst: [0.0, 0.04, 0.6, 0.88]
 average_num_of_neuron 7.56
 average_num_of_hidden_neuron 0.32
 average_num_of_modulation_neuron 1.24
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  348 ---
 max:  0.81
 min:  0.29
@@ -3826,6 +4520,8 @@ history_of_worst: [0.16, 0.08, 0.4, 0.52]
 average_num_of_neuron 7.53
 average_num_of_hidden_neuron 0.32
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  349 ---
 max:  0.84
 min:  0.33
@@ -3837,6 +4533,8 @@ history_of_worst: [0.04, 0.36, 0.52, 0.4]
 average_num_of_neuron 7.48
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  350 ---
 max:  0.79
 min:  0.35
@@ -3848,6 +4546,8 @@ history_of_worst: [0.12, 0.0, 0.6, 0.68]
 average_num_of_neuron 7.45
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  351 ---
 max:  0.8
 min:  0.4
@@ -3859,6 +4559,8 @@ history_of_worst: [0.24, 0.4, 0.44, 0.52]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  352 ---
 max:  0.81
 min:  0.37
@@ -3870,6 +4572,8 @@ history_of_worst: [0.52, 0.2, 0.48, 0.28]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  353 ---
 max:  0.81
 min:  0.29
@@ -3881,6 +4585,8 @@ history_of_worst: [0.08, 0.08, 0.6, 0.4]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  354 ---
 max:  0.79
 min:  0.29
@@ -3892,6 +4598,8 @@ history_of_worst: [0.2, 0.2, 0.36, 0.4]
 average_num_of_neuron 7.51
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  355 ---
 max:  0.78
 min:  0.28
@@ -3903,6 +4611,8 @@ history_of_worst: [0.0, 0.0, 0.6, 0.52]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  356 ---
 max:  0.8
 min:  0.29
@@ -3914,6 +4624,8 @@ history_of_worst: [0.12, 0.08, 0.44, 0.52]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  357 ---
 max:  0.79
 min:  0.35
@@ -3925,6 +4637,8 @@ history_of_worst: [0.24, 0.0, 0.52, 0.64]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  358 ---
 max:  0.81
 min:  0.31
@@ -3936,6 +4650,8 @@ history_of_worst: [0.12, 0.0, 0.6, 0.52]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  359 ---
 max:  0.81
 min:  0.28
@@ -3947,6 +4663,8 @@ history_of_worst: [0.12, 0.0, 0.56, 0.44]
 average_num_of_neuron 7.16
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.04
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  360 ---
 max:  0.78
 min:  0.3
@@ -3958,6 +4676,8 @@ history_of_worst: [0.0, 0.0, 0.6, 0.6]
 average_num_of_neuron 7.28
 average_num_of_hidden_neuron 0.1
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  361 ---
 max:  0.81
 min:  0.3
@@ -3969,6 +4689,8 @@ history_of_worst: [0.0, 0.0, 0.6, 0.6]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  362 ---
 max:  0.78
 min:  0.34
@@ -3980,6 +4702,8 @@ history_of_worst: [0.32, 0.0, 0.52, 0.52]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  363 ---
 max:  0.8
 min:  0.34
@@ -3991,6 +4715,8 @@ history_of_worst: [0.0, 0.0, 0.76, 0.6]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  364 ---
 max:  0.8
 min:  0.34
@@ -4002,6 +4728,8 @@ history_of_worst: [0.12, 0.48, 0.4, 0.36]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  365 ---
 max:  0.78
 min:  0.38
@@ -4013,6 +4741,8 @@ history_of_worst: [0.0, 0.0, 0.96, 0.56]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  366 ---
 max:  0.84
 min:  0.28
@@ -4024,6 +4754,8 @@ history_of_worst: [0.08, 0.0, 0.44, 0.6]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  367 ---
 max:  0.79
 min:  0.35
@@ -4035,6 +4767,8 @@ history_of_worst: [0.32, 0.08, 0.48, 0.52]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  368 ---
 max:  0.79
 min:  0.34
@@ -4046,6 +4780,8 @@ history_of_worst: [0.32, 0.52, 0.2, 0.32]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  369 ---
 max:  0.8
 min:  0.2
@@ -4057,6 +4793,8 @@ history_of_worst: [0.0, 0.16, 0.28, 0.36]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  370 ---
 max:  0.82
 min:  0.24
@@ -4068,6 +4806,8 @@ history_of_worst: [0.0, 0.0, 0.4, 0.56]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  371 ---
 max:  0.8
 min:  0.3
@@ -4079,6 +4819,8 @@ history_of_worst: [0.12, 0.2, 0.4, 0.48]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  372 ---
 max:  0.79
 min:  0.28
@@ -4090,6 +4832,8 @@ history_of_worst: [0.04, 0.24, 0.44, 0.4]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  373 ---
 max:  0.79
 min:  0.31
@@ -4101,6 +4845,8 @@ history_of_worst: [0.08, 0.0, 0.64, 0.52]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  374 ---
 max:  0.78
 min:  0.12
@@ -4112,6 +4858,8 @@ history_of_worst: [0.08, 0.4, 0.0, 0.0]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  375 ---
 max:  0.78
 min:  0.23
@@ -4123,6 +4871,8 @@ history_of_worst: [0.04, 0.12, 0.52, 0.24]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  376 ---
 max:  0.82
 min:  0.32
@@ -4134,6 +4884,8 @@ history_of_worst: [0.0, 0.0, 0.64, 0.64]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  377 ---
 max:  0.81
 min:  0.36
@@ -4145,6 +4897,8 @@ history_of_worst: [0.08, 0.0, 0.68, 0.68]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  378 ---
 max:  0.77
 min:  0.25
@@ -4156,6 +4910,8 @@ history_of_worst: [0.0, 0.0, 0.48, 0.52]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  379 ---
 max:  0.81
 min:  0.34
@@ -4167,6 +4923,8 @@ history_of_worst: [0.12, 0.44, 0.36, 0.44]
 average_num_of_neuron 7.51
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  380 ---
 max:  0.8
 min:  0.26
@@ -4178,6 +4936,8 @@ history_of_worst: [0.28, 0.04, 0.36, 0.36]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  381 ---
 max:  0.81
 min:  0.38
@@ -4189,6 +4949,8 @@ history_of_worst: [0.28, 0.0, 0.44, 0.8]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  382 ---
 max:  0.8
 min:  0.28
@@ -4200,6 +4962,8 @@ history_of_worst: [0.0, 0.24, 0.4, 0.48]
 average_num_of_neuron 7.51
 average_num_of_hidden_neuron 0.29
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  383 ---
 max:  0.79
 min:  0.24
@@ -4211,6 +4975,8 @@ history_of_worst: [0.0, 0.12, 0.4, 0.44]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.33
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  384 ---
 max:  0.79
 min:  0.32
@@ -4222,6 +4988,8 @@ history_of_worst: [0.08, 0.0, 0.64, 0.56]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  385 ---
 max:  0.8
 min:  0.33
@@ -4233,6 +5001,8 @@ history_of_worst: [0.04, 0.2, 0.56, 0.52]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  386 ---
 max:  0.79
 min:  0.25
@@ -4244,6 +5014,8 @@ history_of_worst: [0.12, 0.04, 0.44, 0.4]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  387 ---
 max:  0.8
 min:  0.3
@@ -4255,6 +5027,8 @@ history_of_worst: [0.16, 0.28, 0.44, 0.32]
 average_num_of_neuron 7.22
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  388 ---
 max:  0.79
 min:  0.26
@@ -4266,6 +5040,8 @@ history_of_worst: [0.0, 0.24, 0.44, 0.36]
 average_num_of_neuron 7.23
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  389 ---
 max:  0.8
 min:  0.28
@@ -4277,6 +5053,8 @@ history_of_worst: [0.36, 0.36, 0.4, 0.0]
 average_num_of_neuron 7.21
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  390 ---
 max:  0.79
 min:  0.3
@@ -4288,6 +5066,8 @@ history_of_worst: [0.04, 0.2, 0.48, 0.48]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  391 ---
 max:  0.78
 min:  0.31
@@ -4299,6 +5079,8 @@ history_of_worst: [0.0, 0.04, 0.52, 0.68]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  392 ---
 max:  0.8
 min:  0.3
@@ -4310,6 +5092,8 @@ history_of_worst: [0.04, 0.0, 0.6, 0.56]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  393 ---
 max:  0.79
 min:  0.35
@@ -4321,6 +5105,8 @@ history_of_worst: [0.0, 0.0, 0.88, 0.52]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  394 ---
 max:  0.8
 min:  0.37
@@ -4332,6 +5118,8 @@ history_of_worst: [0.04, 0.0, 0.6, 0.84]
 average_num_of_neuron 7.2
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  395 ---
 max:  0.81
 min:  0.41
@@ -4343,6 +5131,8 @@ history_of_worst: [0.28, 0.0, 0.68, 0.68]
 average_num_of_neuron 7.21
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  396 ---
 max:  0.78
 min:  0.33
@@ -4354,6 +5144,8 @@ history_of_worst: [0.08, 0.0, 0.64, 0.6]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.07
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  397 ---
 max:  0.79
 min:  0.29
@@ -4365,6 +5157,8 @@ history_of_worst: [0.2, 0.0, 0.44, 0.52]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  398 ---
 max:  0.8
 min:  0.34
@@ -4376,6 +5170,8 @@ history_of_worst: [0.04, 0.0, 0.68, 0.64]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  399 ---
 max:  0.8
 min:  0.34
@@ -4387,6 +5183,8 @@ history_of_worst: [0.12, 0.0, 0.64, 0.6]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  400 ---
 max:  0.79
 min:  0.31
@@ -4398,6 +5196,8 @@ history_of_worst: [0.04, 0.12, 0.56, 0.52]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  401 ---
 max:  0.8
 min:  0.37
@@ -4409,6 +5209,8 @@ history_of_worst: [0.36, 0.24, 0.52, 0.36]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  402 ---
 max:  0.81
 min:  0.28
@@ -4420,6 +5222,8 @@ history_of_worst: [0.08, 0.4, 0.16, 0.48]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  403 ---
 max:  0.8
 min:  0.31
@@ -4431,6 +5235,8 @@ history_of_worst: [0.0, 0.0, 0.72, 0.52]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  404 ---
 max:  0.79
 min:  0.22
@@ -4442,6 +5248,8 @@ history_of_worst: [0.04, 0.0, 0.4, 0.44]
 average_num_of_neuron 7.26
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  405 ---
 max:  0.8
 min:  0.3
@@ -4453,6 +5261,8 @@ history_of_worst: [0.28, 0.2, 0.36, 0.36]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  406 ---
 max:  0.81
 min:  0.27
@@ -4464,6 +5274,8 @@ history_of_worst: [0.04, 0.0, 0.44, 0.6]
 average_num_of_neuron 7.28
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  407 ---
 max:  0.81
 min:  0.39
@@ -4475,6 +5287,8 @@ history_of_worst: [0.0, 0.12, 0.72, 0.72]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  408 ---
 max:  0.8
 min:  0.29
@@ -4486,6 +5300,8 @@ history_of_worst: [0.12, 0.0, 0.56, 0.48]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.04
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  409 ---
 max:  0.81
 min:  0.3
@@ -4497,6 +5313,8 @@ history_of_worst: [0.28, 0.36, 0.24, 0.32]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.03
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  410 ---
 max:  0.83
 min:  0.25
@@ -4508,6 +5326,8 @@ history_of_worst: [0.04, 0.0, 0.44, 0.52]
 average_num_of_neuron 7.23
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.0
+total_not_modulated_agent: 8
+total_modulated_agent: 92
  --- generation:  411 ---
 max:  0.81
 min:  0.3
@@ -4519,6 +5339,8 @@ history_of_worst: [0.28, 0.0, 0.52, 0.4]
 average_num_of_neuron 7.22
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.03
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  412 ---
 max:  0.82
 min:  0.28
@@ -4530,6 +5352,8 @@ history_of_worst: [0.2, 0.0, 0.56, 0.36]
 average_num_of_neuron 7.16
 average_num_of_hidden_neuron 0.1
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  413 ---
 max:  0.81
 min:  0.31
@@ -4541,6 +5365,8 @@ history_of_worst: [0.28, 0.16, 0.48, 0.32]
 average_num_of_neuron 7.18
 average_num_of_hidden_neuron 0.06
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  414 ---
 max:  0.8
 min:  0.21
@@ -4552,6 +5378,8 @@ history_of_worst: [0.2, 0.0, 0.56, 0.08]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.07
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  415 ---
 max:  0.82
 min:  0.3
@@ -4563,6 +5391,8 @@ history_of_worst: [0.16, 0.08, 0.48, 0.48]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  416 ---
 max:  0.8
 min:  0.28
@@ -4574,6 +5404,8 @@ history_of_worst: [0.0, 0.0, 0.56, 0.56]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.09
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  417 ---
 max:  0.8
 min:  0.31
@@ -4585,6 +5417,8 @@ history_of_worst: [0.44, 0.12, 0.04, 0.64]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.1
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  418 ---
 max:  0.78
 min:  0.29
@@ -4596,6 +5430,8 @@ history_of_worst: [0.0, 0.0, 0.6, 0.56]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  419 ---
 max:  0.82
 min:  0.35
@@ -4607,6 +5443,8 @@ history_of_worst: [0.36, 0.12, 0.44, 0.48]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.11
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  420 ---
 max:  0.8
 min:  0.27
@@ -4618,6 +5456,8 @@ history_of_worst: [0.0, 0.0, 0.56, 0.52]
 average_num_of_neuron 7.28
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  421 ---
 max:  0.79
 min:  0.32
@@ -4629,6 +5469,8 @@ history_of_worst: [0.04, 0.0, 0.56, 0.68]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  422 ---
 max:  0.81
 min:  0.39
@@ -4640,6 +5482,8 @@ history_of_worst: [0.28, 0.08, 0.8, 0.4]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  423 ---
 max:  0.81
 min:  0.28
@@ -4651,6 +5495,8 @@ history_of_worst: [0.24, 0.04, 0.44, 0.4]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  424 ---
 max:  0.79
 min:  0.27
@@ -4662,6 +5508,8 @@ history_of_worst: [0.04, 0.08, 0.52, 0.44]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  425 ---
 max:  0.79
 min:  0.33
@@ -4673,6 +5521,8 @@ history_of_worst: [0.04, 0.48, 0.36, 0.44]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  426 ---
 max:  0.81
 min:  0.27
@@ -4684,6 +5534,8 @@ history_of_worst: [0.04, 0.04, 0.6, 0.4]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.27
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  427 ---
 max:  0.8
 min:  0.28
@@ -4695,6 +5547,8 @@ history_of_worst: [0.04, 0.4, 0.32, 0.36]
 average_num_of_neuron 7.63
 average_num_of_hidden_neuron 0.4
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  428 ---
 max:  0.83
 min:  0.28
@@ -4706,6 +5560,8 @@ history_of_worst: [0.0, 0.32, 0.32, 0.48]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.32
 average_num_of_modulation_neuron 1.23
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  429 ---
 max:  0.83
 min:  0.28
@@ -4717,6 +5573,8 @@ history_of_worst: [0.0, 0.08, 0.6, 0.44]
 average_num_of_neuron 7.45
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  430 ---
 max:  0.82
 min:  0.34
@@ -4728,6 +5586,8 @@ history_of_worst: [0.12, 0.48, 0.44, 0.32]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.29
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  431 ---
 max:  0.82
 min:  0.35
@@ -4739,6 +5599,8 @@ history_of_worst: [0.2, 0.2, 0.56, 0.44]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  432 ---
 max:  0.84
 min:  0.33
@@ -4750,6 +5612,8 @@ history_of_worst: [0.2, 0.52, 0.28, 0.32]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  433 ---
 max:  0.81
 min:  0.37
@@ -4761,6 +5625,8 @@ history_of_worst: [0.24, 0.48, 0.32, 0.44]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.28
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  434 ---
 max:  0.82
 min:  0.25
@@ -4772,6 +5638,8 @@ history_of_worst: [0.12, 0.04, 0.4, 0.44]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  435 ---
 max:  0.79
 min:  0.31
@@ -4783,6 +5651,8 @@ history_of_worst: [0.2, 0.24, 0.44, 0.36]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  436 ---
 max:  0.86
 min:  0.33
@@ -4794,6 +5664,8 @@ history_of_worst: [0.12, 0.2, 0.4, 0.6]
 average_num_of_neuron 7.47
 average_num_of_hidden_neuron 0.32
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  437 ---
 max:  0.8
 min:  0.3
@@ -4805,6 +5677,8 @@ history_of_worst: [0.2, 0.24, 0.36, 0.4]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  438 ---
 max:  0.82
 min:  0.31
@@ -4816,6 +5690,8 @@ history_of_worst: [0.08, 0.08, 0.56, 0.52]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.26
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 7
+total_modulated_agent: 93
  --- generation:  439 ---
 max:  0.78
 min:  0.33
@@ -4827,6 +5703,8 @@ history_of_worst: [0.04, 0.4, 0.48, 0.4]
 average_num_of_neuron 7.42
 average_num_of_hidden_neuron 0.32
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  440 ---
 max:  0.81
 min:  0.36
@@ -4838,6 +5716,8 @@ history_of_worst: [0.28, 0.32, 0.48, 0.36]
 average_num_of_neuron 7.37
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  441 ---
 max:  0.79
 min:  0.36
@@ -4849,6 +5729,8 @@ history_of_worst: [0.2, 0.0, 0.92, 0.32]
 average_num_of_neuron 7.32
 average_num_of_hidden_neuron 0.21
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  442 ---
 max:  0.8
 min:  0.34
@@ -4860,6 +5742,8 @@ history_of_worst: [0.0, 0.0, 0.6, 0.76]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  443 ---
 max:  0.82
 min:  0.29
@@ -4871,6 +5755,8 @@ history_of_worst: [0.04, 0.0, 0.52, 0.6]
 average_num_of_neuron 7.36
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  444 ---
 max:  0.8
 min:  0.29
@@ -4882,6 +5768,8 @@ history_of_worst: [0.08, 0.0, 0.56, 0.52]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  445 ---
 max:  0.82
 min:  0.38
@@ -4893,6 +5781,8 @@ history_of_worst: [0.28, 0.28, 0.48, 0.48]
 average_num_of_neuron 7.49
 average_num_of_hidden_neuron 0.36
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  446 ---
 max:  0.83
 min:  0.32
@@ -4904,6 +5794,8 @@ history_of_worst: [0.24, 0.12, 0.4, 0.52]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  447 ---
 max:  0.8
 min:  0.38
@@ -4915,6 +5807,8 @@ history_of_worst: [0.24, 0.32, 0.44, 0.52]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  448 ---
 max:  0.84
 min:  0.29
@@ -4926,6 +5820,8 @@ history_of_worst: [0.36, 0.36, 0.36, 0.08]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  449 ---
 max:  0.79
 min:  0.28
@@ -4937,6 +5833,8 @@ history_of_worst: [0.12, 0.32, 0.64, 0.04]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  450 ---
 max:  0.8
 min:  0.39
@@ -4948,6 +5846,8 @@ history_of_worst: [0.4, 0.4, 0.36, 0.4]
 average_num_of_neuron 7.28
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  451 ---
 max:  0.81
 min:  0.34
@@ -4959,6 +5859,8 @@ history_of_worst: [0.12, 0.28, 0.4, 0.56]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.14
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  452 ---
 max:  0.8
 min:  0.31
@@ -4970,6 +5872,8 @@ history_of_worst: [0.04, 0.32, 0.32, 0.56]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  453 ---
 max:  0.8
 min:  0.32
@@ -4981,6 +5885,8 @@ history_of_worst: [0.2, 0.24, 0.48, 0.36]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.22
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  454 ---
 max:  0.82
 min:  0.35
@@ -4992,6 +5898,8 @@ history_of_worst: [0.04, 0.0, 0.84, 0.52]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  455 ---
 max:  0.81
 min:  0.35
@@ -5003,6 +5911,8 @@ history_of_worst: [0.24, 0.16, 0.56, 0.44]
 average_num_of_neuron 7.28
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  456 ---
 max:  0.79
 min:  0.33
@@ -5014,6 +5924,8 @@ history_of_worst: [0.12, 0.32, 0.52, 0.36]
 average_num_of_neuron 7.21
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.03
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  457 ---
 max:  0.83
 min:  0.27
@@ -5025,6 +5937,8 @@ history_of_worst: [0.0, 0.0, 0.68, 0.4]
 average_num_of_neuron 7.22
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.03
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  458 ---
 max:  0.79
 min:  0.32
@@ -5036,6 +5950,8 @@ history_of_worst: [0.52, 0.4, 0.36, 0.0]
 average_num_of_neuron 7.2
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  459 ---
 max:  0.85
 min:  0.34
@@ -5047,6 +5963,8 @@ history_of_worst: [0.32, 0.2, 0.48, 0.36]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.15
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  460 ---
 max:  0.82
 min:  0.26
@@ -5058,6 +5976,8 @@ history_of_worst: [0.04, 0.16, 0.4, 0.44]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  461 ---
 max:  0.83
 min:  0.31
@@ -5069,6 +5989,8 @@ history_of_worst: [0.0, 0.0, 0.6, 0.64]
 average_num_of_neuron 7.19
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.05
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  462 ---
 max:  0.82
 min:  0.3
@@ -5080,6 +6002,8 @@ history_of_worst: [0.08, 0.28, 0.36, 0.48]
 average_num_of_neuron 7.23
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.09
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  463 ---
 max:  0.81
 min:  0.26
@@ -5091,6 +6015,8 @@ history_of_worst: [0.0, 0.0, 0.64, 0.4]
 average_num_of_neuron 7.16
 average_num_of_hidden_neuron 0.06
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  464 ---
 max:  0.81
 min:  0.37
@@ -5102,6 +6028,8 @@ history_of_worst: [0.04, 0.44, 0.48, 0.52]
 average_num_of_neuron 7.2
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  465 ---
 max:  0.81
 min:  0.35
@@ -5113,6 +6041,8 @@ history_of_worst: [0.24, 0.36, 0.4, 0.4]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  466 ---
 max:  0.81
 min:  0.31
@@ -5124,6 +6054,8 @@ history_of_worst: [0.24, 0.08, 0.52, 0.4]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  467 ---
 max:  0.81
 min:  0.33
@@ -5135,6 +6067,8 @@ history_of_worst: [0.08, 0.44, 0.36, 0.44]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.12
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  468 ---
 max:  0.8
 min:  0.35
@@ -5146,6 +6080,8 @@ history_of_worst: [0.0, 0.28, 0.48, 0.64]
 average_num_of_neuron 7.23
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  469 ---
 max:  0.8
 min:  0.31
@@ -5157,6 +6093,8 @@ history_of_worst: [0.12, 0.0, 0.56, 0.56]
 average_num_of_neuron 7.25
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.06
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  470 ---
 max:  0.82
 min:  0.32
@@ -5168,6 +6106,8 @@ history_of_worst: [0.12, 0.4, 0.4, 0.36]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.07
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  471 ---
 max:  0.82
 min:  0.37
@@ -5179,6 +6119,8 @@ history_of_worst: [0.08, 0.16, 0.68, 0.56]
 average_num_of_neuron 7.23
 average_num_of_hidden_neuron 0.13
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  472 ---
 max:  0.8
 min:  0.21
@@ -5190,6 +6132,8 @@ history_of_worst: [0.0, 0.0, 0.48, 0.36]
 average_num_of_neuron 7.29
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  473 ---
 max:  0.81
 min:  0.26
@@ -5201,6 +6145,8 @@ history_of_worst: [0.0, 0.0, 0.8, 0.24]
 average_num_of_neuron 7.27
 average_num_of_hidden_neuron 0.16
 average_num_of_modulation_neuron 1.11
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  474 ---
 max:  0.8
 min:  0.29
@@ -5212,6 +6158,8 @@ history_of_worst: [0.12, 0.04, 0.4, 0.6]
 average_num_of_neuron 7.24
 average_num_of_hidden_neuron 0.14
 average_num_of_modulation_neuron 1.1
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  475 ---
 max:  0.8
 min:  0.34
@@ -5223,6 +6171,8 @@ history_of_worst: [0.52, 0.24, 0.36, 0.24]
 average_num_of_neuron 7.28
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.08
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  476 ---
 max:  0.81
 min:  0.35
@@ -5234,6 +6184,8 @@ history_of_worst: [0.4, 1.0, 0.0, 0.0]
 average_num_of_neuron 7.35
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  477 ---
 max:  0.81
 min:  0.33
@@ -5245,6 +6197,8 @@ history_of_worst: [0.08, 0.0, 0.76, 0.48]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  478 ---
 max:  0.8
 min:  0.28
@@ -5256,6 +6210,8 @@ history_of_worst: [0.4, 0.72, 0.0, 0.0]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.19
 average_num_of_modulation_neuron 1.19
+total_not_modulated_agent: 0
+total_modulated_agent: 100
  --- generation:  479 ---
 max:  0.81
 min:  0.35
@@ -5267,6 +6223,8 @@ history_of_worst: [0.04, 0.16, 0.64, 0.56]
 average_num_of_neuron 7.41
 average_num_of_hidden_neuron 0.23
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  480 ---
 max:  0.81
 min:  0.37
@@ -5278,6 +6236,8 @@ history_of_worst: [0.32, 0.32, 0.44, 0.4]
 average_num_of_neuron 7.31
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  481 ---
 max:  0.8
 min:  0.31
@@ -5289,6 +6249,8 @@ history_of_worst: [0.2, 0.0, 0.44, 0.6]
 average_num_of_neuron 7.38
 average_num_of_hidden_neuron 0.25
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  482 ---
 max:  0.79
 min:  0.21
@@ -5300,6 +6262,8 @@ history_of_worst: [0.2, 0.04, 0.24, 0.36]
 average_num_of_neuron 7.47
 average_num_of_hidden_neuron 0.34
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  483 ---
 max:  0.79
 min:  0.28
@@ -5311,6 +6275,8 @@ history_of_worst: [0.08, 0.0, 0.64, 0.4]
 average_num_of_neuron 7.43
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  484 ---
 max:  0.8
 min:  0.22
@@ -5322,6 +6288,8 @@ history_of_worst: [0.28, 0.6, 0.0, 0.0]
 average_num_of_neuron 7.45
 average_num_of_hidden_neuron 0.27
 average_num_of_modulation_neuron 1.18
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  485 ---
 max:  0.79
 min:  0.24
@@ -5333,6 +6301,8 @@ history_of_worst: [0.04, 0.0, 0.56, 0.36]
 average_num_of_neuron 7.54
 average_num_of_hidden_neuron 0.33
 average_num_of_modulation_neuron 1.21
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  486 ---
 max:  0.81
 min:  0.3
@@ -5344,6 +6314,8 @@ history_of_worst: [0.04, 0.0, 0.6, 0.56]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.22
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  487 ---
 max:  0.78
 min:  0.3
@@ -5355,6 +6327,8 @@ history_of_worst: [0.04, 0.0, 0.68, 0.48]
 average_num_of_neuron 7.4
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  488 ---
 max:  0.8
 min:  0.27
@@ -5366,6 +6340,8 @@ history_of_worst: [0.0, 0.0, 0.64, 0.44]
 average_num_of_neuron 7.34
 average_num_of_hidden_neuron 0.17
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  489 ---
 max:  0.8
 min:  0.33
@@ -5377,6 +6353,8 @@ history_of_worst: [0.0, 0.12, 0.6, 0.6]
 average_num_of_neuron 7.33
 average_num_of_hidden_neuron 0.2
 average_num_of_modulation_neuron 1.13
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  490 ---
 max:  0.83
 min:  0.36
@@ -5388,6 +6366,8 @@ history_of_worst: [0.24, 0.0, 0.56, 0.64]
 average_num_of_neuron 7.3
 average_num_of_hidden_neuron 0.18
 average_num_of_modulation_neuron 1.12
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  491 ---
 max:  0.79
 min:  0.29
@@ -5399,6 +6379,8 @@ history_of_worst: [0.0, 0.0, 0.64, 0.52]
 average_num_of_neuron 7.39
 average_num_of_hidden_neuron 0.24
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 1
+total_modulated_agent: 99
  --- generation:  492 ---
 max:  0.78
 min:  0.33
@@ -5410,6 +6392,8 @@ history_of_worst: [0.04, 0.32, 0.6, 0.36]
 average_num_of_neuron 7.52
 average_num_of_hidden_neuron 0.36
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 2
+total_modulated_agent: 98
  --- generation:  493 ---
 max:  0.83
 min:  0.32
@@ -5421,6 +6405,8 @@ history_of_worst: [0.04, 0.0, 0.72, 0.52]
 average_num_of_neuron 7.59
 average_num_of_hidden_neuron 0.43
 average_num_of_modulation_neuron 1.16
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  494 ---
 max:  0.82
 min:  0.31
@@ -5432,6 +6418,8 @@ history_of_worst: [0.16, 0.4, 0.32, 0.36]
 average_num_of_neuron 7.67
 average_num_of_hidden_neuron 0.5
 average_num_of_modulation_neuron 1.17
+total_not_modulated_agent: 8
+total_modulated_agent: 92
  --- generation:  495 ---
 max:  0.84
 min:  0.3
@@ -5443,6 +6431,8 @@ history_of_worst: [0.08, 0.0, 0.64, 0.48]
 average_num_of_neuron 7.55
 average_num_of_hidden_neuron 0.4
 average_num_of_modulation_neuron 1.15
+total_not_modulated_agent: 5
+total_modulated_agent: 95
  --- generation:  496 ---
 max:  0.77
 min:  0.28
@@ -5454,6 +6444,8 @@ history_of_worst: [0.04, 0.04, 0.4, 0.64]
 average_num_of_neuron 7.75
 average_num_of_hidden_neuron 0.55
 average_num_of_modulation_neuron 1.2
+total_not_modulated_agent: 6
+total_modulated_agent: 94
  --- generation:  497 ---
 max:  0.8
 min:  0.27
@@ -5465,6 +6457,8 @@ history_of_worst: [0.0, 0.0, 0.64, 0.44]
 average_num_of_neuron 7.7
 average_num_of_hidden_neuron 0.44
 average_num_of_modulation_neuron 1.26
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  498 ---
 max:  0.8
 min:  0.27
@@ -5476,6 +6470,8 @@ history_of_worst: [0.0, 0.0, 0.64, 0.44]
 average_num_of_neuron 7.63
 average_num_of_hidden_neuron 0.33
 average_num_of_modulation_neuron 1.3
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  --- generation:  499 ---
 max:  0.79
 min:  0.29
@@ -5487,6 +6483,8 @@ history_of_worst: [0.0, 0.0, 0.68, 0.48]
 average_num_of_neuron 7.64
 average_num_of_hidden_neuron 0.33
 average_num_of_modulation_neuron 1.31
+total_not_modulated_agent: 3
+total_modulated_agent: 97
  --- generation:  500 ---
 max:  0.79
 min:  0.28
@@ -5498,6 +6496,8 @@ history_of_worst: [0.0, 0.0, 0.64, 0.48]
 average_num_of_neuron 7.71
 average_num_of_hidden_neuron 0.3
 average_num_of_modulation_neuron 1.41
+total_not_modulated_agent: 4
+total_modulated_agent: 96
  === This is my self introduction !! === 
 I am  FreeHebbianNetworkAgent
 My neurons are:
