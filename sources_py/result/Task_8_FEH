@@ -1,0 +1,5535 @@
+ --- generation:  1 ---
+max:  0.71
+min:  0.3
+ave:  0.49649999999999983
+perfect:  0
+not_perfect:  100
+history_of_best: [0.6, 0.4, 0.88, 0.96]
+history_of_worst: [0.0, 0.0, 0.6, 0.6]
+average_num_of_neuron 8.0
+average_num_of_hidden_neuron 1.52
+average_num_of_modulation_neuron 0.48
+ --- generation:  2 ---
+max:  0.71
+min:  0.36
+ave:  0.5103000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.6, 0.24, 1.0, 1.0]
+history_of_worst: [0.0, 0.04, 0.72, 0.68]
+average_num_of_neuron 7.98
+average_num_of_hidden_neuron 1.52
+average_num_of_modulation_neuron 0.46
+ --- generation:  3 ---
+max:  0.77
+min:  0.36
+ave:  0.4978999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.52, 0.6, 0.96, 1.0]
+history_of_worst: [0.24, 0.24, 0.36, 0.6]
+average_num_of_neuron 7.93
+average_num_of_hidden_neuron 1.45
+average_num_of_modulation_neuron 0.48
+ --- generation:  4 ---
+max:  0.67
+min:  0.36
+ave:  0.5009999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.8, 0.96, 0.44, 0.48]
+history_of_worst: [0.28, 0.2, 0.48, 0.48]
+average_num_of_neuron 7.94
+average_num_of_hidden_neuron 1.43
+average_num_of_modulation_neuron 0.51
+ --- generation:  5 ---
+max:  0.74
+min:  0.32
+ave:  0.4981999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.92, 0.8, 0.68, 0.56]
+history_of_worst: [0.04, 0.4, 0.36, 0.48]
+average_num_of_neuron 8.0
+average_num_of_hidden_neuron 1.46
+average_num_of_modulation_neuron 0.54
+ --- generation:  6 ---
+max:  0.69
+min:  0.33
+ave:  0.5122000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [0.52, 0.24, 1.0, 1.0]
+history_of_worst: [0.64, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.91
+average_num_of_hidden_neuron 1.31
+average_num_of_modulation_neuron 0.6
+ --- generation:  7 ---
+max:  0.7
+min:  0.28
+ave:  0.5149999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.68, 0.92, 0.6, 0.6]
+history_of_worst: [0.04, 0.0, 0.52, 0.56]
+average_num_of_neuron 7.85
+average_num_of_hidden_neuron 1.22
+average_num_of_modulation_neuron 0.63
+ --- generation:  8 ---
+max:  0.68
+min:  0.31
+ave:  0.5086
+perfect:  0
+not_perfect:  100
+history_of_best: [0.8, 0.68, 0.64, 0.6]
+history_of_worst: [0.52, 0.52, 0.2, 0.0]
+average_num_of_neuron 7.94
+average_num_of_hidden_neuron 1.1
+average_num_of_modulation_neuron 0.84
+ --- generation:  9 ---
+max:  0.7
+min:  0.39
+ave:  0.5273999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.28, 0.52, 1.0, 1.0]
+history_of_worst: [0.56, 0.28, 0.32, 0.4]
+average_num_of_neuron 7.92
+average_num_of_hidden_neuron 1.14
+average_num_of_modulation_neuron 0.78
+ --- generation:  10 ---
+max:  0.71
+min:  0.29
+ave:  0.5297
+perfect:  0
+not_perfect:  100
+history_of_best: [0.48, 0.4, 0.96, 1.0]
+history_of_worst: [0.56, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.92
+average_num_of_hidden_neuron 1.04
+average_num_of_modulation_neuron 0.88
+ --- generation:  11 ---
+max:  0.67
+min:  0.38
+ave:  0.5219999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.76, 0.8, 0.48, 0.64]
+history_of_worst: [0.44, 0.36, 0.32, 0.4]
+average_num_of_neuron 7.9
+average_num_of_hidden_neuron 1.05
+average_num_of_modulation_neuron 0.85
+ --- generation:  12 ---
+max:  0.75
+min:  0.26
+ave:  0.5370999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.44, 0.6]
+history_of_worst: [0.04, 0.32, 0.28, 0.4]
+average_num_of_neuron 7.88
+average_num_of_hidden_neuron 1.02
+average_num_of_modulation_neuron 0.86
+ --- generation:  13 ---
+max:  0.75
+min:  0.35
+ave:  0.5286
+perfect:  0
+not_perfect:  100
+history_of_best: [0.84, 0.96, 0.56, 0.64]
+history_of_worst: [0.0, 0.0, 0.72, 0.68]
+average_num_of_neuron 7.78
+average_num_of_hidden_neuron 0.88
+average_num_of_modulation_neuron 0.9
+ --- generation:  14 ---
+max:  0.76
+min:  0.32
+ave:  0.5213000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.56, 0.48]
+history_of_worst: [0.36, 0.0, 0.48, 0.44]
+average_num_of_neuron 7.68
+average_num_of_hidden_neuron 0.77
+average_num_of_modulation_neuron 0.91
+ --- generation:  15 ---
+max:  0.75
+min:  0.31
+ave:  0.5492999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.4, 0.6]
+history_of_worst: [0.64, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.65
+average_num_of_hidden_neuron 0.67
+average_num_of_modulation_neuron 0.98
+ --- generation:  16 ---
+max:  0.77
+min:  0.27
+ave:  0.5564999999999994
+perfect:  0
+not_perfect:  100
+history_of_best: [0.52, 0.6, 0.96, 1.0]
+history_of_worst: [0.52, 0.44, 0.12, 0.0]
+average_num_of_neuron 7.54
+average_num_of_hidden_neuron 0.61
+average_num_of_modulation_neuron 0.93
+ --- generation:  17 ---
+max:  0.75
+min:  0.32
+ave:  0.5615000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.6, 0.4, 1.0, 1.0]
+history_of_worst: [0.52, 0.56, 0.2, 0.0]
+average_num_of_neuron 7.56
+average_num_of_hidden_neuron 0.63
+average_num_of_modulation_neuron 0.93
+ --- generation:  18 ---
+max:  0.79
+min:  0.29
+ave:  0.5622000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.48, 0.68]
+history_of_worst: [0.52, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.55
+average_num_of_hidden_neuron 0.56
+average_num_of_modulation_neuron 0.99
+ --- generation:  19 ---
+max:  0.77
+min:  0.4
+ave:  0.5639999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.72, 0.92, 0.44, 1.0]
+history_of_worst: [0.36, 0.36, 0.44, 0.44]
+average_num_of_neuron 7.66
+average_num_of_hidden_neuron 0.6
+average_num_of_modulation_neuron 1.06
+ --- generation:  20 ---
+max:  0.87
+min:  0.32
+ave:  0.5709
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.52, 1.0, 1.0]
+history_of_worst: [0.56, 0.4, 0.32, 0.0]
+average_num_of_neuron 7.46
+average_num_of_hidden_neuron 0.44
+average_num_of_modulation_neuron 1.02
+ --- generation:  21 ---
+max:  0.9
+min:  0.33
+ave:  0.5739999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.92, 0.68, 1.0, 1.0]
+history_of_worst: [0.56, 0.56, 0.2, 0.0]
+average_num_of_neuron 7.49
+average_num_of_hidden_neuron 0.42
+average_num_of_modulation_neuron 1.07
+ --- generation:  22 ---
+max:  0.91
+min:  0.3
+ave:  0.5887
+perfect:  0
+not_perfect:  100
+history_of_best: [0.92, 0.72, 1.0, 1.0]
+history_of_worst: [0.52, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.37
+average_num_of_hidden_neuron 0.31
+average_num_of_modulation_neuron 1.06
+ --- generation:  23 ---
+max:  0.91
+min:  0.37
+ave:  0.6148000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.92, 0.72, 1.0, 1.0]
+history_of_worst: [0.08, 0.32, 0.64, 0.44]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.25
+average_num_of_modulation_neuron 1.07
+ --- generation:  24 ---
+max:  0.91
+min:  0.4
+ave:  0.6341000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.92, 0.72, 1.0, 1.0]
+history_of_worst: [0.4, 0.4, 0.44, 0.36]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.06
+ --- generation:  25 ---
+max:  0.92
+min:  0.35
+ave:  0.6674000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.72, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.68, 0.72]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 0.99
+ --- generation:  26 ---
+max:  0.91
+min:  0.28
+ave:  0.6504999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.92, 0.72, 1.0, 1.0]
+history_of_worst: [0.36, 0.72, 0.04, 0.0]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.07
+ --- generation:  27 ---
+max:  0.93
+min:  0.33
+ave:  0.6681999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.92, 0.8, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.76, 0.56]
+average_num_of_neuron 7.31
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.12
+ --- generation:  28 ---
+max:  0.94
+min:  0.37
+ave:  0.7055000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.8, 1.0]
+history_of_worst: [0.64, 0.28, 0.2, 0.36]
+average_num_of_neuron 7.31
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.11
+ --- generation:  29 ---
+max:  0.99
+min:  0.41
+ave:  0.7015
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.64, 0.2, 0.08]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.1
+ --- generation:  30 ---
+max:  0.97
+min:  0.37
+ave:  0.6979999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.92, 1.0]
+history_of_worst: [0.72, 0.76, 0.0, 0.0]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.17
+ --- generation:  31 ---
+max:  0.98
+min:  0.37
+ave:  0.7008
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.36, 0.28, 0.52, 0.32]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.22
+ --- generation:  32 ---
+max:  0.98
+min:  0.38
+ave:  0.6934999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.4, 0.24, 0.44, 0.44]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.17
+ --- generation:  33 ---
+max:  0.98
+min:  0.35
+ave:  0.6692
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.72, 0.6, 0.08, 0.0]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.18
+ --- generation:  34 ---
+max:  0.96
+min:  0.32
+ave:  0.6965
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.84, 1.0]
+history_of_worst: [0.68, 0.56, 0.04, 0.0]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.13
+ --- generation:  35 ---
+max:  0.97
+min:  0.33
+ave:  0.7103000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.88, 1.0, 1.0]
+history_of_worst: [0.28, 0.04, 0.44, 0.56]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.12
+ --- generation:  36 ---
+max:  1.0
+min:  0.31
+ave:  0.7608
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.11
+ --- generation:  37 ---
+max:  0.98
+min:  0.41
+ave:  0.7112000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.96, 1.0]
+history_of_worst: [0.4, 0.4, 0.4, 0.44]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.04
+ --- generation:  38 ---
+max:  0.98
+min:  0.42
+ave:  0.7304999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 1.0, 0.92]
+history_of_worst: [0.36, 0.48, 0.32, 0.52]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.29
+average_num_of_modulation_neuron 1.04
+ --- generation:  39 ---
+max:  0.99
+min:  0.28
+ave:  0.7249000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.44, 0.52, 0.16, 0.0]
+average_num_of_neuron 7.31
+average_num_of_hidden_neuron 0.27
+average_num_of_modulation_neuron 1.04
+ --- generation:  40 ---
+max:  0.98
+min:  0.19
+ave:  0.6942999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.2, 0.32, 0.12, 0.12]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.11
+ --- generation:  41 ---
+max:  0.99
+min:  0.35
+ave:  0.6946999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.35
+average_num_of_hidden_neuron 0.29
+average_num_of_modulation_neuron 1.06
+ --- generation:  42 ---
+max:  0.99
+min:  0.35
+ave:  0.6680999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.44
+average_num_of_hidden_neuron 0.31
+average_num_of_modulation_neuron 1.13
+ --- generation:  43 ---
+max:  1.0
+min:  0.41
+ave:  0.706
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.28, 0.64, 0.48]
+average_num_of_neuron 7.42
+average_num_of_hidden_neuron 0.26
+average_num_of_modulation_neuron 1.16
+ --- generation:  44 ---
+max:  0.99
+min:  0.33
+ave:  0.6812000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.64, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.52
+average_num_of_hidden_neuron 0.36
+average_num_of_modulation_neuron 1.16
+ --- generation:  45 ---
+max:  0.97
+min:  0.26
+ave:  0.6907000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.92, 1.0]
+history_of_worst: [0.6, 0.4, 0.04, 0.0]
+average_num_of_neuron 7.45
+average_num_of_hidden_neuron 0.34
+average_num_of_modulation_neuron 1.11
+ --- generation:  46 ---
+max:  0.98
+min:  0.41
+ave:  0.7437
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.4, 0.52, 0.4, 0.32]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.05
+ --- generation:  47 ---
+max:  0.97
+min:  0.33
+ave:  0.7189999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 0.96, 1.0]
+history_of_worst: [0.4, 0.0, 0.4, 0.52]
+average_num_of_neuron 7.39
+average_num_of_hidden_neuron 0.28
+average_num_of_modulation_neuron 1.11
+ --- generation:  48 ---
+max:  0.99
+min:  0.31
+ave:  0.7149
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.56, 0.52, 0.12, 0.04]
+average_num_of_neuron 7.31
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.1
+ --- generation:  49 ---
+max:  0.99
+min:  0.32
+ave:  0.7289999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.6, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.14
+ --- generation:  50 ---
+max:  1.0
+min:  0.44
+ave:  0.7554999999999997
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.32, 0.48, 0.52]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.05
+average_num_of_modulation_neuron 1.14
+ --- generation:  51 ---
+max:  0.99
+min:  0.38
+ave:  0.7825
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.4, 0.4, 0.4, 0.32]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.1
+ --- generation:  52 ---
+max:  1.0
+min:  0.31
+ave:  0.7682999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.08
+ --- generation:  53 ---
+max:  0.99
+min:  0.35
+ave:  0.7855
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.06
+ --- generation:  54 ---
+max:  0.99
+min:  0.38
+ave:  0.7676999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.8, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.04
+ --- generation:  55 ---
+max:  0.99
+min:  0.33
+ave:  0.7617999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.03
+ --- generation:  56 ---
+max:  0.99
+min:  0.22
+ave:  0.7694999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.16, 0.16, 0.32, 0.24]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.03
+ --- generation:  57 ---
+max:  0.99
+min:  0.41
+ave:  0.7914
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.56, 0.2, 0.48, 0.4]
+average_num_of_neuron 7.11
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.05
+ --- generation:  58 ---
+max:  1.0
+min:  0.35
+ave:  0.7927999999999997
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.12
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.04
+ --- generation:  59 ---
+max:  0.99
+min:  0.36
+ave:  0.7663999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.8, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.1
+ --- generation:  60 ---
+max:  0.99
+min:  0.35
+ave:  0.7984
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.72, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.07
+ --- generation:  61 ---
+max:  0.98
+min:  0.32
+ave:  0.7846999999999995
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.05
+ --- generation:  62 ---
+max:  1.0
+min:  0.29
+ave:  0.7848000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.24, 0.56, 0.28]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.06
+ --- generation:  63 ---
+max:  1.0
+min:  0.31
+ave:  0.7762999999999992
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.68, 0.12, 0.12]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.04
+ --- generation:  64 ---
+max:  0.99
+min:  0.42
+ave:  0.7939999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.48, 0.2, 0.48]
+average_num_of_neuron 7.11
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.0
+ --- generation:  65 ---
+max:  1.0
+min:  0.41
+ave:  0.8210000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.88, 0.76, 0.0, 0.0]
+average_num_of_neuron 7.11
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.0
+ --- generation:  66 ---
+max:  0.98
+min:  0.31
+ave:  0.7839000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.6, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.05
+ --- generation:  67 ---
+max:  0.99
+min:  0.31
+ave:  0.8009000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.08
+ --- generation:  68 ---
+max:  0.99
+min:  0.36
+ave:  0.8291999999999995
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.24, 0.52, 0.36, 0.32]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.06
+ --- generation:  69 ---
+max:  0.99
+min:  0.2
+ave:  0.8043
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.36, 0.16, 0.0]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.1
+ --- generation:  70 ---
+max:  0.98
+min:  0.33
+ave:  0.8418999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.09
+ --- generation:  71 ---
+max:  1.0
+min:  0.31
+ave:  0.8289000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.09
+ --- generation:  72 ---
+max:  0.99
+min:  0.38
+ave:  0.8295999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.84, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.09
+ --- generation:  73 ---
+max:  0.99
+min:  0.4
+ave:  0.8108000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.48, 0.24, 0.44, 0.44]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.07
+ --- generation:  74 ---
+max:  0.98
+min:  0.44
+ave:  0.7947000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.8, 0.56, 0.08, 0.32]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.12
+ --- generation:  75 ---
+max:  0.99
+min:  0.34
+ave:  0.7692999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.36, 0.36, 0.28, 0.36]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.11
+ --- generation:  76 ---
+max:  0.98
+min:  0.35
+ave:  0.7818999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.72, 0.6, 0.08, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.13
+ --- generation:  77 ---
+max:  0.98
+min:  0.45
+ave:  0.7792999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.52, 0.56, 0.36, 0.36]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.09
+ --- generation:  78 ---
+max:  0.99
+min:  0.37
+ave:  0.7478999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.6, 0.6, 0.24, 0.04]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.15
+ --- generation:  79 ---
+max:  0.99
+min:  0.35
+ave:  0.7402000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.56, 0.4, 0.2, 0.24]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.18
+ --- generation:  80 ---
+max:  1.0
+min:  0.38
+ave:  0.7750000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.44, 0.4, 0.36]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.08
+ --- generation:  81 ---
+max:  0.98
+min:  0.43
+ave:  0.7639000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.8, 0.52, 0.2, 0.2]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.07
+ --- generation:  82 ---
+max:  0.99
+min:  0.45
+ave:  0.7692
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.24, 0.08, 0.76, 0.72]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.09
+ --- generation:  83 ---
+max:  1.0
+min:  0.37
+ave:  0.7845999999999997
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.48, 0.28, 0.28]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.07
+ --- generation:  84 ---
+max:  0.99
+min:  0.4
+ave:  0.7878999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.72, 0.56, 0.24, 0.08]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.02
+ --- generation:  85 ---
+max:  0.98
+min:  0.34
+ave:  0.8008999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.03
+ --- generation:  86 ---
+max:  0.98
+min:  0.21
+ave:  0.7877
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.8, 0.0]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.04
+ --- generation:  87 ---
+max:  0.98
+min:  0.33
+ave:  0.7856000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.07
+ --- generation:  88 ---
+max:  0.98
+min:  0.34
+ave:  0.7964000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.68, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.12
+ --- generation:  89 ---
+max:  0.99
+min:  0.41
+ave:  0.7800000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.6, 0.56, 0.28, 0.2]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.1
+ --- generation:  90 ---
+max:  0.99
+min:  0.43
+ave:  0.7992000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.48, 0.44, 0.4, 0.4]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.11
+ --- generation:  91 ---
+max:  0.99
+min:  0.46
+ave:  0.7815999999999995
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.52, 0.52, 0.36, 0.44]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.1
+ --- generation:  92 ---
+max:  0.99
+min:  0.27
+ave:  0.7494000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.44, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.31
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.07
+ --- generation:  93 ---
+max:  0.98
+min:  0.4
+ave:  0.7725999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.88, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.09
+ --- generation:  94 ---
+max:  0.99
+min:  0.26
+ave:  0.7807999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.08, 0.0, 0.52, 0.44]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.07
+ --- generation:  95 ---
+max:  0.99
+min:  0.33
+ave:  0.7883
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.52, 0.36, 0.4, 0.04]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.05
+ --- generation:  96 ---
+max:  1.0
+min:  0.38
+ave:  0.7858000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.68, 0.12, 0.08]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.07
+ --- generation:  97 ---
+max:  1.0
+min:  0.34
+ave:  0.8115000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.24, 0.44, 0.52]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.08
+ --- generation:  98 ---
+max:  0.99
+min:  0.34
+ave:  0.7969999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.15
+ --- generation:  99 ---
+max:  1.0
+min:  0.32
+ave:  0.7982
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.68, 0.04, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.09
+ --- generation:  100 ---
+max:  1.0
+min:  0.29
+ave:  0.7537999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.56, 0.04, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.1
+ --- generation:  101 ---
+max:  0.99
+min:  0.34
+ave:  0.7777999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.03
+ --- generation:  102 ---
+max:  1.0
+min:  0.25
+ave:  0.7500999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.0, 0.44, 0.32]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.07
+ --- generation:  103 ---
+max:  0.99
+min:  0.31
+ave:  0.7722
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.4, 0.32, 0.36]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.06
+ --- generation:  104 ---
+max:  1.0
+min:  0.33
+ave:  0.8089
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.76, 0.0, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.11
+ --- generation:  105 ---
+max:  0.99
+min:  0.44
+ave:  0.8380000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.48, 0.56, 0.4, 0.32]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.09
+ --- generation:  106 ---
+max:  1.0
+min:  0.37
+ave:  0.8447000000000002
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.0, 0.8, 0.52]
+average_num_of_neuron 7.1
+average_num_of_hidden_neuron 0.05
+average_num_of_modulation_neuron 1.05
+ --- generation:  107 ---
+max:  0.99
+min:  0.41
+ave:  0.8275
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.36, 0.56, 0.28, 0.44]
+average_num_of_neuron 7.1
+average_num_of_hidden_neuron 0.07
+average_num_of_modulation_neuron 1.03
+ --- generation:  108 ---
+max:  0.99
+min:  0.43
+ave:  0.8240999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.72, 0.84, 0.04, 0.12]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.07
+ --- generation:  109 ---
+max:  0.99
+min:  0.4
+ave:  0.8172999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.72, 0.88, 0.0, 0.0]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.05
+ --- generation:  110 ---
+max:  0.99
+min:  0.36
+ave:  0.8061000000000006
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.84, 0.56, 0.04, 0.0]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.07
+ --- generation:  111 ---
+max:  0.99
+min:  0.3
+ave:  0.8107000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.4, 0.16, 0.24]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.04
+ --- generation:  112 ---
+max:  0.99
+min:  0.42
+ave:  0.8213000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.44, 0.52, 0.32, 0.4]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.07
+ --- generation:  113 ---
+max:  0.99
+min:  0.25
+ave:  0.7998000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.44, 0.0, 0.0]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.29
+average_num_of_modulation_neuron 1.05
+ --- generation:  114 ---
+max:  0.98
+min:  0.42
+ave:  0.7908
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.68, 1.0, 0.0, 0.0]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.06
+ --- generation:  115 ---
+max:  1.0
+min:  0.39
+ave:  0.8271999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.68, 0.0, 0.32]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.01
+ --- generation:  116 ---
+max:  0.99
+min:  0.41
+ave:  0.7822999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.32, 0.64, 0.36, 0.32]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.08
+ --- generation:  117 ---
+max:  1.0
+min:  0.33
+ave:  0.7974
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.28, 0.28, 0.32]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.08
+ --- generation:  118 ---
+max:  0.99
+min:  0.38
+ave:  0.7868999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.48, 0.32, 0.24, 0.48]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.04
+ --- generation:  119 ---
+max:  1.0
+min:  0.41
+ave:  0.7708000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.44, 0.44, 0.36]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.03
+ --- generation:  120 ---
+max:  0.99
+min:  0.35
+ave:  0.7642999999999995
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.24, 0.64, 0.24, 0.28]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.07
+ --- generation:  121 ---
+max:  0.98
+min:  0.42
+ave:  0.7732999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.28, 0.6, 0.4, 0.4]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.11
+ --- generation:  122 ---
+max:  0.99
+min:  0.39
+ave:  0.7675
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.2, 0.0, 0.72, 0.64]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.09
+ --- generation:  123 ---
+max:  0.99
+min:  0.4
+ave:  0.8025999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.96, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.06
+ --- generation:  124 ---
+max:  0.99
+min:  0.42
+ave:  0.8060000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.48, 0.36, 0.48, 0.36]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.02
+ --- generation:  125 ---
+max:  0.99
+min:  0.29
+ave:  0.8133000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.2, 0.0, 0.6, 0.36]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.05
+ --- generation:  126 ---
+max:  0.98
+min:  0.34
+ave:  0.7746000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.36, 0.96, 0.0, 0.04]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.05
+ --- generation:  127 ---
+max:  0.99
+min:  0.33
+ave:  0.7933000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.56, 0.52, 0.24, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.04
+ --- generation:  128 ---
+max:  0.99
+min:  0.24
+ave:  0.8093
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.56, 0.4, 0.0, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.02
+ --- generation:  129 ---
+max:  0.99
+min:  0.38
+ave:  0.7982999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.56, 0.68, 0.28, 0.0]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.26
+average_num_of_modulation_neuron 1.04
+ --- generation:  130 ---
+max:  1.0
+min:  0.35
+ave:  0.7961999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.64, 0.04, 0.08]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.3
+average_num_of_modulation_neuron 1.04
+ --- generation:  131 ---
+max:  0.98
+min:  0.29
+ave:  0.7687
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.52, 0.56, 0.08, 0.0]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.1
+ --- generation:  132 ---
+max:  0.99
+min:  0.38
+ave:  0.7491999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.28, 0.32, 0.4, 0.52]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.1
+ --- generation:  133 ---
+max:  0.98
+min:  0.3
+ave:  0.7376
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.44, 0.76, 0.0, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.12
+ --- generation:  134 ---
+max:  0.98
+min:  0.35
+ave:  0.7494999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.24, 0.48, 0.32, 0.36]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.1
+ --- generation:  135 ---
+max:  0.99
+min:  0.38
+ave:  0.7711999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.52, 0.12, 0.32]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.1
+ --- generation:  136 ---
+max:  0.99
+min:  0.42
+ave:  0.7755
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.88, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.13
+ --- generation:  137 ---
+max:  0.99
+min:  0.36
+ave:  0.8363999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.68, 0.76, 0.0, 0.0]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.06
+ --- generation:  138 ---
+max:  0.99
+min:  0.36
+ave:  0.8003999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.8, 0.6, 0.04, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.06
+ --- generation:  139 ---
+max:  0.99
+min:  0.32
+ave:  0.767
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.52, 0.28, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.05
+ --- generation:  140 ---
+max:  0.99
+min:  0.39
+ave:  0.7665000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.44, 0.48, 0.28]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.06
+ --- generation:  141 ---
+max:  0.99
+min:  0.38
+ave:  0.7669999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.4, 0.28]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.08
+ --- generation:  142 ---
+max:  0.99
+min:  0.41
+ave:  0.7952000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.36, 0.4, 0.48]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 0.96
+ --- generation:  143 ---
+max:  0.99
+min:  0.29
+ave:  0.7588000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.56, 0.52, 0.08, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 0.99
+ --- generation:  144 ---
+max:  0.99
+min:  0.38
+ave:  0.7762000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.44, 0.24, 0.2]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.08
+ --- generation:  145 ---
+max:  0.99
+min:  0.39
+ave:  0.8023999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.08
+ --- generation:  146 ---
+max:  0.98
+min:  0.3
+ave:  0.7472999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.6, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.13
+ --- generation:  147 ---
+max:  1.0
+min:  0.37
+ave:  0.7731999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.4, 0.36, 0.28]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.08
+ --- generation:  148 ---
+max:  1.0
+min:  0.38
+ave:  0.7977000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.84, 0.08, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.02
+ --- generation:  149 ---
+max:  1.0
+min:  0.41
+ave:  0.8065000000000008
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [1.0, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.03
+ --- generation:  150 ---
+max:  0.99
+min:  0.33
+ave:  0.7739999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.05
+ --- generation:  151 ---
+max:  0.99
+min:  0.39
+ave:  0.7649000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.56, 1.0, 0.0, 0.0]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.03
+ --- generation:  152 ---
+max:  0.99
+min:  0.3
+ave:  0.7804999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.12, 0.04, 0.56, 0.48]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.02
+ --- generation:  153 ---
+max:  1.0
+min:  0.39
+ave:  0.7571000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.2, 0.4, 0.48]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.07
+ --- generation:  154 ---
+max:  0.98
+min:  0.37
+ave:  0.7612000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.92, 0.56, 0.0, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.09
+ --- generation:  155 ---
+max:  1.0
+min:  0.4
+ave:  0.7537
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.8, 0.72, 0.08, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.15
+ --- generation:  156 ---
+max:  1.0
+min:  0.3
+ave:  0.7535999999999997
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.32, 0.28, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.04
+average_num_of_modulation_neuron 1.18
+ --- generation:  157 ---
+max:  0.99
+min:  0.38
+ave:  0.7865999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.84, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.12
+average_num_of_hidden_neuron 0.04
+average_num_of_modulation_neuron 1.08
+ --- generation:  158 ---
+max:  0.99
+min:  0.35
+ave:  0.8014000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.6, 0.28, 0.28]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.1
+ --- generation:  159 ---
+max:  0.99
+min:  0.34
+ave:  0.8119000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.48, 0.4, 0.0]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.09
+ --- generation:  160 ---
+max:  0.99
+min:  0.36
+ave:  0.8322000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.6, 0.08, 0.04]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.04
+ --- generation:  161 ---
+max:  1.0
+min:  0.36
+ave:  0.8107999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.84, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.06
+ --- generation:  162 ---
+max:  0.97
+min:  0.36
+ave:  0.7973999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.92, 1.0, 1.0]
+history_of_worst: [0.48, 0.28, 0.4, 0.28]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.06
+ --- generation:  163 ---
+max:  0.99
+min:  0.28
+ave:  0.7962
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.48, 0.04, 0.0]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.02
+ --- generation:  164 ---
+max:  0.99
+min:  0.32
+ave:  0.7912999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.4, 0.68, 0.12, 0.08]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.12
+ --- generation:  165 ---
+max:  1.0
+min:  0.23
+ave:  0.7734000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.48, 0.0, 0.0]
+average_num_of_neuron 7.35
+average_num_of_hidden_neuron 0.25
+average_num_of_modulation_neuron 1.1
+ --- generation:  166 ---
+max:  0.99
+min:  0.37
+ave:  0.7402999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.44, 0.32, 0.28, 0.44]
+average_num_of_neuron 7.41
+average_num_of_hidden_neuron 0.37
+average_num_of_modulation_neuron 1.04
+ --- generation:  167 ---
+max:  0.99
+min:  0.36
+ave:  0.7524999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.72, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.29
+average_num_of_modulation_neuron 1.09
+ --- generation:  168 ---
+max:  0.99
+min:  0.32
+ave:  0.7347999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.16, 0.08, 0.52, 0.52]
+average_num_of_neuron 7.47
+average_num_of_hidden_neuron 0.36
+average_num_of_modulation_neuron 1.11
+ --- generation:  169 ---
+max:  0.99
+min:  0.38
+ave:  0.7311999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.6, 0.72, 0.12, 0.08]
+average_num_of_neuron 7.48
+average_num_of_hidden_neuron 0.37
+average_num_of_modulation_neuron 1.11
+ --- generation:  170 ---
+max:  0.99
+min:  0.34
+ave:  0.7553000000000005
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.36, 0.16, 0.2]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.28
+average_num_of_modulation_neuron 1.02
+ --- generation:  171 ---
+max:  0.99
+min:  0.3
+ave:  0.7655999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.12, 0.0, 0.72, 0.36]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.27
+average_num_of_modulation_neuron 1.03
+ --- generation:  172 ---
+max:  0.99
+min:  0.33
+ave:  0.7575999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.72, 0.44, 0.16, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.02
+ --- generation:  173 ---
+max:  0.99
+min:  0.39
+ave:  0.7600999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.12, 0.4, 0.56, 0.48]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 0.99
+ --- generation:  174 ---
+max:  0.99
+min:  0.3
+ave:  0.7692000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.28, 0.0, 0.48, 0.44]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.05
+ --- generation:  175 ---
+max:  1.0
+min:  0.4
+ave:  0.8043999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.96, 0.6, 0.04, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.06
+ --- generation:  176 ---
+max:  0.99
+min:  0.34
+ave:  0.8062000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.08, 0.28, 0.4, 0.6]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.04
+ --- generation:  177 ---
+max:  1.0
+min:  0.3
+ave:  0.7944999999999999
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.12, 0.48, 0.52]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.07
+ --- generation:  178 ---
+max:  0.99
+min:  0.29
+ave:  0.7768000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.52, 0.0, 0.0]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.06
+ --- generation:  179 ---
+max:  0.98
+min:  0.32
+ave:  0.7349999999999994
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.08, 0.2, 0.48, 0.52]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.13
+ --- generation:  180 ---
+max:  0.99
+min:  0.31
+ave:  0.7704000000000005
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.48, 0.68, 0.08, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.11
+ --- generation:  181 ---
+max:  0.99
+min:  0.21
+ave:  0.7657
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.52, 0.32, 0.0, 0.0]
+average_num_of_neuron 7.31
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.13
+ --- generation:  182 ---
+max:  0.99
+min:  0.36
+ave:  0.7471000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.64, 0.08, 0.0]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.18
+ --- generation:  183 ---
+max:  0.98
+min:  0.35
+ave:  0.7787999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.96, 1.0]
+history_of_worst: [0.76, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.19
+ --- generation:  184 ---
+max:  1.0
+min:  0.39
+ave:  0.7929999999999999
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.76, 0.04, 0.24]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.21
+ --- generation:  185 ---
+max:  0.98
+min:  0.3
+ave:  0.7907000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.52, 0.64, 0.04, 0.0]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.14
+ --- generation:  186 ---
+max:  0.99
+min:  0.28
+ave:  0.7879999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.44, 0.0, 0.0]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.11
+ --- generation:  187 ---
+max:  0.99
+min:  0.36
+ave:  0.7914000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.25
+average_num_of_modulation_neuron 1.08
+ --- generation:  188 ---
+max:  1.0
+min:  0.46
+ave:  0.8032
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.56, 0.44, 0.44]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.02
+ --- generation:  189 ---
+max:  0.99
+min:  0.37
+ave:  0.7851999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.32, 0.36, 0.36, 0.44]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.06
+ --- generation:  190 ---
+max:  0.99
+min:  0.32
+ave:  0.8195999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.04
+ --- generation:  191 ---
+max:  0.98
+min:  0.37
+ave:  0.8197000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.32, 0.48, 0.48, 0.2]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.07
+average_num_of_modulation_neuron 1.06
+ --- generation:  192 ---
+max:  0.99
+min:  0.33
+ave:  0.7688000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.6, 0.6, 0.12, 0.0]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.14
+ --- generation:  193 ---
+max:  0.99
+min:  0.3
+ave:  0.7794999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.14
+ --- generation:  194 ---
+max:  0.98
+min:  0.32
+ave:  0.7671000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.32, 0.2, 0.36, 0.4]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.05
+ --- generation:  195 ---
+max:  0.98
+min:  0.36
+ave:  0.7844000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.32, 0.28, 0.36, 0.48]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.04
+ --- generation:  196 ---
+max:  0.98
+min:  0.29
+ave:  0.7800999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.44, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.09
+ --- generation:  197 ---
+max:  0.97
+min:  0.39
+ave:  0.7739999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.92, 1.0]
+history_of_worst: [0.8, 0.72, 0.04, 0.0]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.11
+ --- generation:  198 ---
+max:  0.99
+min:  0.41
+ave:  0.7865999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.72, 0.72, 0.2, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.04
+ --- generation:  199 ---
+max:  0.99
+min:  0.42
+ave:  0.8184000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.72, 0.44, 0.32, 0.2]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.01
+ --- generation:  200 ---
+max:  0.99
+min:  0.37
+ave:  0.7660000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [1.0, 0.4, 0.08, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.04
+ --- generation:  201 ---
+max:  0.99
+min:  0.34
+ave:  0.7869999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.52, 0.0, 0.12]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.0
+ --- generation:  202 ---
+max:  1.0
+min:  0.37
+ave:  0.7780000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.76, 0.08, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.05
+ --- generation:  203 ---
+max:  0.98
+min:  0.32
+ave:  0.7795000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.6, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.05
+ --- generation:  204 ---
+max:  1.0
+min:  0.45
+ave:  0.7760999999999997
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.96, 0.84, 0.0, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.07
+ --- generation:  205 ---
+max:  1.0
+min:  0.43
+ave:  0.7919000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.32, 0.56, 0.32]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.06
+ --- generation:  206 ---
+max:  1.0
+min:  0.33
+ave:  0.7753999999999996
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.64, 0.12, 0.0]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.05
+ --- generation:  207 ---
+max:  1.0
+min:  0.32
+ave:  0.8164999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.64, 0.6]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.03
+ --- generation:  208 ---
+max:  0.99
+min:  0.31
+ave:  0.7755
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.0, 0.0, 0.64, 0.6]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.02
+ --- generation:  209 ---
+max:  1.0
+min:  0.32
+ave:  0.8142999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.0, 0.6, 0.64]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 0.98
+ --- generation:  210 ---
+max:  0.99
+min:  0.27
+ave:  0.7902
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.48, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.08
+ --- generation:  211 ---
+max:  0.99
+min:  0.24
+ave:  0.7890999999999994
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.28, 0.04, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.07
+ --- generation:  212 ---
+max:  0.99
+min:  0.42
+ave:  0.7814999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.48, 0.32, 0.36, 0.52]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.06
+ --- generation:  213 ---
+max:  1.0
+min:  0.33
+ave:  0.7474000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.1
+ --- generation:  214 ---
+max:  0.99
+min:  0.31
+ave:  0.7691
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.6, 0.16, 0.08]
+average_num_of_neuron 7.31
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.15
+ --- generation:  215 ---
+max:  0.99
+min:  0.34
+ave:  0.7646000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.72, 0.52, 0.12, 0.0]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.15
+ --- generation:  216 ---
+max:  0.99
+min:  0.35
+ave:  0.7480999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.6, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.11
+ --- generation:  217 ---
+max:  0.98
+min:  0.35
+ave:  0.7929000000000005
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.96, 1.0]
+history_of_worst: [0.68, 0.68, 0.04, 0.0]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.15
+ --- generation:  218 ---
+max:  0.99
+min:  0.28
+ave:  0.8137000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.56, 0.48, 0.08, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.15
+ --- generation:  219 ---
+max:  0.99
+min:  0.29
+ave:  0.7992999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.56, 0.08, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.07
+average_num_of_modulation_neuron 1.14
+ --- generation:  220 ---
+max:  1.0
+min:  0.32
+ave:  0.8053000000000001
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.56, 0.08, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.1
+ --- generation:  221 ---
+max:  0.99
+min:  0.42
+ave:  0.7993000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.36, 0.36, 0.52, 0.44]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.13
+ --- generation:  222 ---
+max:  0.99
+min:  0.43
+ave:  0.8229
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.28, 0.36, 0.56, 0.52]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.04
+ --- generation:  223 ---
+max:  1.0
+min:  0.35
+ave:  0.8046000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.07
+ --- generation:  224 ---
+max:  0.99
+min:  0.25
+ave:  0.7898
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.6, 0.24, 0.16, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.1
+ --- generation:  225 ---
+max:  1.0
+min:  0.41
+ave:  0.7881000000000004
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.6, 0.08, 0.28]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.14
+ --- generation:  226 ---
+max:  0.99
+min:  0.38
+ave:  0.7918
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.8, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.07
+ --- generation:  227 ---
+max:  0.99
+min:  0.4
+ave:  0.8059000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.16, 0.6, 0.64]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.11
+ --- generation:  228 ---
+max:  0.99
+min:  0.35
+ave:  0.7915000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.68, 0.08, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.13
+ --- generation:  229 ---
+max:  1.0
+min:  0.29
+ave:  0.8068
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.6, 0.16, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.08
+ --- generation:  230 ---
+max:  1.0
+min:  0.31
+ave:  0.8044999999999993
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.6, 0.04, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.05
+ --- generation:  231 ---
+max:  1.0
+min:  0.38
+ave:  0.8064000000000004
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.05
+ --- generation:  232 ---
+max:  0.99
+min:  0.31
+ave:  0.7836000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.52, 0.0, 0.0]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.08
+ --- generation:  233 ---
+max:  1.0
+min:  0.34
+ave:  0.8228000000000003
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.48, 0.24, 0.2]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.06
+ --- generation:  234 ---
+max:  1.0
+min:  0.28
+ave:  0.8045999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.48, 0.04, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.06
+ --- generation:  235 ---
+max:  1.0
+min:  0.41
+ave:  0.7886
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.44, 0.56, 0.28]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.02
+ --- generation:  236 ---
+max:  0.99
+min:  0.41
+ave:  0.7974000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.52, 0.4, 0.4, 0.32]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.07
+ --- generation:  237 ---
+max:  1.0
+min:  0.29
+ave:  0.7724999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.56, 0.12, 0.04]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.26
+average_num_of_modulation_neuron 1.08
+ --- generation:  238 ---
+max:  0.99
+min:  0.23
+ave:  0.7711999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.48, 0.44, 0.0, 0.0]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.3
+average_num_of_modulation_neuron 1.03
+ --- generation:  239 ---
+max:  1.0
+min:  0.33
+ave:  0.7844000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.6, 0.08, 0.16]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.01
+ --- generation:  240 ---
+max:  0.99
+min:  0.42
+ave:  0.7846
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.4, 0.48, 0.36, 0.44]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.01
+ --- generation:  241 ---
+max:  0.99
+min:  0.31
+ave:  0.7423000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.52, 0.44, 0.28, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.07
+ --- generation:  242 ---
+max:  0.99
+min:  0.42
+ave:  0.7753999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.24, 0.4, 0.64, 0.4]
+average_num_of_neuron 7.31
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.12
+ --- generation:  243 ---
+max:  1.0
+min:  0.45
+ave:  0.7836999999999997
+perfect:  3
+not_perfect:  97
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.8, 1.0, 0.0, 0.0]
+average_num_of_neuron 7.4
+average_num_of_hidden_neuron 0.29
+average_num_of_modulation_neuron 1.11
+ --- generation:  244 ---
+max:  0.99
+min:  0.37
+ave:  0.7516000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.2, 0.36, 0.48, 0.44]
+average_num_of_neuron 7.4
+average_num_of_hidden_neuron 0.3
+average_num_of_modulation_neuron 1.1
+ --- generation:  245 ---
+max:  1.0
+min:  0.3
+ave:  0.7587000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.48, 0.0, 0.0]
+average_num_of_neuron 7.47
+average_num_of_hidden_neuron 0.35
+average_num_of_modulation_neuron 1.12
+ --- generation:  246 ---
+max:  1.0
+min:  0.37
+ave:  0.7654000000000003
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.28, 0.36, 0.4]
+average_num_of_neuron 7.42
+average_num_of_hidden_neuron 0.35
+average_num_of_modulation_neuron 1.07
+ --- generation:  247 ---
+max:  1.0
+min:  0.36
+ave:  0.7653000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.44, 0.44, 0.32]
+average_num_of_neuron 7.45
+average_num_of_hidden_neuron 0.32
+average_num_of_modulation_neuron 1.13
+ --- generation:  248 ---
+max:  1.0
+min:  0.41
+ave:  0.7688000000000004
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.92, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.31
+average_num_of_modulation_neuron 1.07
+ --- generation:  249 ---
+max:  1.0
+min:  0.42
+ave:  0.7632000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.44, 0.32, 0.2]
+average_num_of_neuron 7.4
+average_num_of_hidden_neuron 0.33
+average_num_of_modulation_neuron 1.07
+ --- generation:  250 ---
+max:  1.0
+min:  0.41
+ave:  0.7731000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.84, 0.56, 0.2, 0.04]
+average_num_of_neuron 7.37
+average_num_of_hidden_neuron 0.3
+average_num_of_modulation_neuron 1.07
+ --- generation:  251 ---
+max:  1.0
+min:  0.37
+ave:  0.7767000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.0, 0.48, 0.44]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.12
+ --- generation:  252 ---
+max:  0.99
+min:  0.3
+ave:  0.7876000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.12, 0.08, 0.44, 0.56]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.09
+ --- generation:  253 ---
+max:  0.99
+min:  0.43
+ave:  0.7736000000000005
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.12, 0.48, 0.56]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.09
+ --- generation:  254 ---
+max:  0.99
+min:  0.36
+ave:  0.7803999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.36, 0.4, 0.36, 0.32]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.13
+ --- generation:  255 ---
+max:  0.99
+min:  0.36
+ave:  0.7828999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.6, 0.68, 0.16, 0.0]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.12
+ --- generation:  256 ---
+max:  0.99
+min:  0.42
+ave:  0.7590000000000005
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.8, 0.6, 0.24, 0.04]
+average_num_of_neuron 7.4
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.18
+ --- generation:  257 ---
+max:  1.0
+min:  0.39
+ave:  0.7797999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.96, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.11
+ --- generation:  258 ---
+max:  1.0
+min:  0.37
+ave:  0.7970000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.44, 0.16, 0.32]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.06
+ --- generation:  259 ---
+max:  0.99
+min:  0.37
+ave:  0.7540000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.12
+ --- generation:  260 ---
+max:  1.0
+min:  0.27
+ave:  0.7780999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.2, 0.4, 0.32]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.09
+ --- generation:  261 ---
+max:  1.0
+min:  0.31
+ave:  0.7794000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.56, 0.0, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.07
+ --- generation:  262 ---
+max:  0.99
+min:  0.39
+ave:  0.8305999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.72, 0.08, 0.0]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.03
+ --- generation:  263 ---
+max:  0.99
+min:  0.39
+ave:  0.8413
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.56, 1.0, 0.0, 0.0]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.0
+ --- generation:  264 ---
+max:  1.0
+min:  0.27
+ave:  0.8117
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.52, 0.0, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.07
+ --- generation:  265 ---
+max:  0.99
+min:  0.32
+ave:  0.7715999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.07
+ --- generation:  266 ---
+max:  0.99
+min:  0.34
+ave:  0.7846
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.68, 0.64, 0.04, 0.0]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.1
+ --- generation:  267 ---
+max:  0.99
+min:  0.36
+ave:  0.7636999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.48, 0.24, 0.28]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.16
+ --- generation:  268 ---
+max:  0.99
+min:  0.34
+ave:  0.7713
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.09
+ --- generation:  269 ---
+max:  0.98
+min:  0.33
+ave:  0.7676999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.96, 1.0]
+history_of_worst: [0.64, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.1
+ --- generation:  270 ---
+max:  0.99
+min:  0.39
+ave:  0.7778000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.36, 0.48, 0.32]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.12
+ --- generation:  271 ---
+max:  0.99
+min:  0.31
+ave:  0.7501000000000008
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.64, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.07
+ --- generation:  272 ---
+max:  0.99
+min:  0.31
+ave:  0.7119
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.76, 0.48, 0.0, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.13
+ --- generation:  273 ---
+max:  1.0
+min:  0.29
+ave:  0.7332999999999994
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.88, 0.0, 0.0]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.09
+ --- generation:  274 ---
+max:  1.0
+min:  0.42
+ave:  0.7334000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.44, 0.56, 0.52]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.19
+ --- generation:  275 ---
+max:  0.98
+min:  0.36
+ave:  0.7175
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.72, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.39
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.2
+ --- generation:  276 ---
+max:  0.98
+min:  0.34
+ave:  0.7134000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.96, 1.0]
+history_of_worst: [0.0, 0.0, 0.72, 0.64]
+average_num_of_neuron 7.46
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.25
+ --- generation:  277 ---
+max:  0.99
+min:  0.34
+ave:  0.7254000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.08, 0.56, 0.68]
+average_num_of_neuron 7.47
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.23
+ --- generation:  278 ---
+max:  0.99
+min:  0.34
+ave:  0.7354
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.72, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.43
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.2
+ --- generation:  279 ---
+max:  0.99
+min:  0.34
+ave:  0.7832999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.4, 0.96, 0.0, 0.0]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.13
+ --- generation:  280 ---
+max:  1.0
+min:  0.32
+ave:  0.8072000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.07
+ --- generation:  281 ---
+max:  0.99
+min:  0.31
+ave:  0.7556000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.6, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.17
+ --- generation:  282 ---
+max:  0.99
+min:  0.35
+ave:  0.7678999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.64, 0.72, 0.04, 0.0]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.1
+ --- generation:  283 ---
+max:  0.98
+min:  0.4
+ave:  0.7663000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.32, 0.44, 0.28, 0.56]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.04
+average_num_of_modulation_neuron 1.11
+ --- generation:  284 ---
+max:  0.98
+min:  0.3
+ave:  0.7554
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.56, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.15
+ --- generation:  285 ---
+max:  0.99
+min:  0.37
+ave:  0.7724
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.28, 0.48, 0.24, 0.48]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.04
+ --- generation:  286 ---
+max:  0.98
+min:  0.36
+ave:  0.7777999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.84, 0.4, 0.2, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.03
+ --- generation:  287 ---
+max:  0.99
+min:  0.33
+ave:  0.7643
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.07
+ --- generation:  288 ---
+max:  0.99
+min:  0.38
+ave:  0.7901999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.76, 0.04, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.05
+average_num_of_modulation_neuron 1.14
+ --- generation:  289 ---
+max:  0.99
+min:  0.33
+ave:  0.7629
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.56, 0.0, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.04
+average_num_of_modulation_neuron 1.17
+ --- generation:  290 ---
+max:  0.98
+min:  0.35
+ave:  0.7936999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.6, 0.72, 0.0, 0.08]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.12
+ --- generation:  291 ---
+max:  0.99
+min:  0.35
+ave:  0.7831
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.6, 0.2, 0.08]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.05
+ --- generation:  292 ---
+max:  0.99
+min:  0.38
+ave:  0.7842999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.6, 0.08, 0.2]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.08
+ --- generation:  293 ---
+max:  0.98
+min:  0.36
+ave:  0.7888999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.76, 0.6, 0.08, 0.0]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.08
+ --- generation:  294 ---
+max:  0.99
+min:  0.39
+ave:  0.7937999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.72, 0.44, 0.24, 0.16]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.06
+ --- generation:  295 ---
+max:  1.0
+min:  0.33
+ave:  0.8011
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.03
+ --- generation:  296 ---
+max:  0.99
+min:  0.34
+ave:  0.8029999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.64, 0.68, 0.04, 0.0]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.08
+ --- generation:  297 ---
+max:  0.99
+min:  0.3
+ave:  0.7626
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.36, 0.0, 0.36, 0.48]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.14
+ --- generation:  298 ---
+max:  0.99
+min:  0.38
+ave:  0.7659999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.4, 0.4, 0.44, 0.28]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.06
+ --- generation:  299 ---
+max:  0.98
+min:  0.39
+ave:  0.7909000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.64, 0.08, 0.2]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.04
+ --- generation:  300 ---
+max:  1.0
+min:  0.37
+ave:  0.7749000000000001
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.6, 0.12, 0.0]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.06
+ --- generation:  301 ---
+max:  1.0
+min:  0.31
+ave:  0.7529000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.39
+average_num_of_hidden_neuron 0.35
+average_num_of_modulation_neuron 1.04
+ --- generation:  302 ---
+max:  0.99
+min:  0.45
+ave:  0.7753
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.48, 0.44, 0.4, 0.48]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.3
+average_num_of_modulation_neuron 1.08
+ --- generation:  303 ---
+max:  1.0
+min:  0.36
+ave:  0.7350999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.08, 0.52, 0.36]
+average_num_of_neuron 7.36
+average_num_of_hidden_neuron 0.27
+average_num_of_modulation_neuron 1.09
+ --- generation:  304 ---
+max:  0.99
+min:  0.33
+ave:  0.7433999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.36
+average_num_of_hidden_neuron 0.27
+average_num_of_modulation_neuron 1.09
+ --- generation:  305 ---
+max:  1.0
+min:  0.34
+ave:  0.7703000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.35
+average_num_of_hidden_neuron 0.3
+average_num_of_modulation_neuron 1.05
+ --- generation:  306 ---
+max:  1.0
+min:  0.32
+ave:  0.7984
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.52, 0.16, 0.0]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.27
+average_num_of_modulation_neuron 1.03
+ --- generation:  307 ---
+max:  1.0
+min:  0.43
+ave:  0.7624999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.96, 0.72, 0.04, 0.0]
+average_num_of_neuron 7.35
+average_num_of_hidden_neuron 0.28
+average_num_of_modulation_neuron 1.07
+ --- generation:  308 ---
+max:  1.0
+min:  0.25
+ave:  0.7634000000000001
+perfect:  3
+not_perfect:  97
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.92, 0.0, 0.0]
+average_num_of_neuron 7.36
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.14
+ --- generation:  309 ---
+max:  0.99
+min:  0.24
+ave:  0.7583000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.0, 0.96, 0.0, 0.0]
+average_num_of_neuron 7.35
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.17
+ --- generation:  310 ---
+max:  1.0
+min:  0.26
+ave:  0.7617000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.2, 0.0]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.14
+ --- generation:  311 ---
+max:  1.0
+min:  0.43
+ave:  0.7668
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.32, 0.56, 0.4]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.08
+ --- generation:  312 ---
+max:  1.0
+min:  0.38
+ave:  0.7701000000000007
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.04, 0.28, 0.64, 0.56]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.27
+average_num_of_modulation_neuron 1.11
+ --- generation:  313 ---
+max:  0.99
+min:  0.38
+ave:  0.7683999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.48, 0.32, 0.32, 0.4]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.16
+ --- generation:  314 ---
+max:  1.0
+min:  0.4
+ave:  0.7877000000000001
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.28, 0.52, 0.6]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.06
+ --- generation:  315 ---
+max:  1.0
+min:  0.32
+ave:  0.8246000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.04
+ --- generation:  316 ---
+max:  1.0
+min:  0.41
+ave:  0.8228999999999997
+perfect:  3
+not_perfect:  97
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.84, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.02
+ --- generation:  317 ---
+max:  0.99
+min:  0.35
+ave:  0.8244999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.6, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.0
+ --- generation:  318 ---
+max:  1.0
+min:  0.31
+ave:  0.8277000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.6, 0.08, 0.0]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.08
+ --- generation:  319 ---
+max:  1.0
+min:  0.31
+ave:  0.8187000000000006
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.2, 0.4, 0.56]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.12
+ --- generation:  320 ---
+max:  1.0
+min:  0.3
+ave:  0.7913
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.1
+ --- generation:  321 ---
+max:  1.0
+min:  0.36
+ave:  0.7972999999999999
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.64, 0.04, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.09
+ --- generation:  322 ---
+max:  1.0
+min:  0.35
+ave:  0.8213000000000003
+perfect:  4
+not_perfect:  96
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.36, 0.4, 0.24]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.1
+ --- generation:  323 ---
+max:  1.0
+min:  0.37
+ave:  0.7971000000000003
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.12, 0.52, 0.56]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.15
+ --- generation:  324 ---
+max:  1.0
+min:  0.34
+ave:  0.7911000000000001
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.08, 0.92, 0.28]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.09
+ --- generation:  325 ---
+max:  1.0
+min:  0.35
+ave:  0.7844
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.6, 0.12, 0.2]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.01
+ --- generation:  326 ---
+max:  1.0
+min:  0.4
+ave:  0.8028000000000003
+perfect:  3
+not_perfect:  97
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.56, 0.28, 0.12]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.05
+ --- generation:  327 ---
+max:  0.99
+min:  0.3
+ave:  0.8070999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.56, 0.0, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.02
+ --- generation:  328 ---
+max:  1.0
+min:  0.37
+ave:  0.7967
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.02
+ --- generation:  329 ---
+max:  0.99
+min:  0.33
+ave:  0.8131999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.01
+ --- generation:  330 ---
+max:  1.0
+min:  0.39
+ave:  0.7949999999999997
+perfect:  3
+not_perfect:  97
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.0
+ --- generation:  331 ---
+max:  1.0
+min:  0.35
+ave:  0.8062999999999997
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.07
+average_num_of_modulation_neuron 1.07
+ --- generation:  332 ---
+max:  1.0
+min:  0.32
+ave:  0.7726999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.09
+ --- generation:  333 ---
+max:  0.99
+min:  0.39
+ave:  0.8205999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.32, 0.32, 0.28, 0.64]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.09
+ --- generation:  334 ---
+max:  1.0
+min:  0.45
+ave:  0.8325000000000005
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.4, 0.48, 0.48]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.04
+ --- generation:  335 ---
+max:  0.99
+min:  0.39
+ave:  0.8045999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.2, 0.48, 0.48, 0.4]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.04
+ --- generation:  336 ---
+max:  1.0
+min:  0.33
+ave:  0.7830000000000001
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.4, 0.4, 0.28]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.08
+ --- generation:  337 ---
+max:  1.0
+min:  0.35
+ave:  0.7447000000000004
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.41
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.17
+ --- generation:  338 ---
+max:  0.98
+min:  0.39
+ave:  0.722
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.68, 0.76, 0.04, 0.08]
+average_num_of_neuron 7.47
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.23
+ --- generation:  339 ---
+max:  1.0
+min:  0.35
+ave:  0.7631999999999995
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.28, 0.32, 0.36]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.13
+ --- generation:  340 ---
+max:  0.98
+min:  0.34
+ave:  0.7541999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.72, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.18
+ --- generation:  341 ---
+max:  0.99
+min:  0.35
+ave:  0.7324999999999995
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.28, 0.0, 0.64, 0.48]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.15
+ --- generation:  342 ---
+max:  0.99
+min:  0.36
+ave:  0.7618000000000005
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.56, 0.8, 0.04, 0.04]
+average_num_of_neuron 7.37
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.2
+ --- generation:  343 ---
+max:  0.99
+min:  0.39
+ave:  0.8021999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.8, 0.68, 0.08, 0.0]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.19
+ --- generation:  344 ---
+max:  0.98
+min:  0.34
+ave:  0.7865999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.96, 1.0]
+history_of_worst: [0.44, 0.48, 0.08, 0.36]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.13
+ --- generation:  345 ---
+max:  1.0
+min:  0.35
+ave:  0.7622000000000004
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.72, 0.04, 0.0]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.07
+ --- generation:  346 ---
+max:  1.0
+min:  0.39
+ave:  0.7914000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.36, 0.52, 0.36]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.09
+ --- generation:  347 ---
+max:  1.0
+min:  0.33
+ave:  0.7689
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.6, 0.04, 0.0]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.1
+ --- generation:  348 ---
+max:  1.0
+min:  0.35
+ave:  0.7855999999999999
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.56, 0.0, 0.12]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.06
+ --- generation:  349 ---
+max:  0.99
+min:  0.34
+ave:  0.7827999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.52, 0.68, 0.16, 0.0]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.08
+ --- generation:  350 ---
+max:  0.99
+min:  0.36
+ave:  0.7634000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.72, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.08
+ --- generation:  351 ---
+max:  0.99
+min:  0.4
+ave:  0.7431000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.32, 0.44, 0.36]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.06
+ --- generation:  352 ---
+max:  1.0
+min:  0.35
+ave:  0.7396999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.68, 0.04, 0.0]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.29
+average_num_of_modulation_neuron 1.09
+ --- generation:  353 ---
+max:  0.97
+min:  0.32
+ave:  0.7414000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.92, 1.0]
+history_of_worst: [0.04, 0.0, 0.52, 0.72]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.29
+average_num_of_modulation_neuron 1.09
+ --- generation:  354 ---
+max:  1.0
+min:  0.29
+ave:  0.7840999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.6, 0.04, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.09
+ --- generation:  355 ---
+max:  0.99
+min:  0.32
+ave:  0.7597
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.56, 0.56, 0.16, 0.0]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.07
+ --- generation:  356 ---
+max:  0.98
+min:  0.4
+ave:  0.7913999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.96, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.08
+ --- generation:  357 ---
+max:  1.0
+min:  0.31
+ave:  0.7844
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.05
+ --- generation:  358 ---
+max:  1.0
+min:  0.43
+ave:  0.7935000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 1.0, 0.0, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.09
+ --- generation:  359 ---
+max:  0.99
+min:  0.14
+ave:  0.7687999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.04, 0.24, 0.28, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.1
+ --- generation:  360 ---
+max:  0.99
+min:  0.35
+ave:  0.7968999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.6, 0.16, 0.0]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.09
+ --- generation:  361 ---
+max:  1.0
+min:  0.3
+ave:  0.7635000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.04
+ --- generation:  362 ---
+max:  1.0
+min:  0.29
+ave:  0.7493000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.56, 0.0, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.06
+ --- generation:  363 ---
+max:  0.98
+min:  0.32
+ave:  0.7376000000000005
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.56, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.29
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.09
+ --- generation:  364 ---
+max:  0.99
+min:  0.28
+ave:  0.7434000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.35
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.13
+ --- generation:  365 ---
+max:  1.0
+min:  0.26
+ave:  0.7347000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.44, 0.08, 0.0]
+average_num_of_neuron 7.37
+average_num_of_hidden_neuron 0.27
+average_num_of_modulation_neuron 1.1
+ --- generation:  366 ---
+max:  1.0
+min:  0.3
+ave:  0.7649000000000001
+perfect:  3
+not_perfect:  97
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.6, 0.04, 0.0]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.12
+ --- generation:  367 ---
+max:  0.98
+min:  0.42
+ave:  0.7859
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.4, 0.4, 0.44, 0.44]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.08
+ --- generation:  368 ---
+max:  0.99
+min:  0.35
+ave:  0.7599000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.56, 0.16, 0.16]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.12
+ --- generation:  369 ---
+max:  1.0
+min:  0.4
+ave:  0.7318999999999996
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.52, 0.36, 0.48]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.15
+ --- generation:  370 ---
+max:  1.0
+min:  0.32
+ave:  0.7562000000000001
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.24, 0.24, 0.44, 0.36]
+average_num_of_neuron 7.39
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.23
+ --- generation:  371 ---
+max:  1.0
+min:  0.29
+ave:  0.7838
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.48, 0.12, 0.2]
+average_num_of_neuron 7.36
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.14
+ --- generation:  372 ---
+max:  0.99
+min:  0.33
+ave:  0.7846999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.09
+ --- generation:  373 ---
+max:  1.0
+min:  0.34
+ave:  0.7649000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.68, 0.04, 0.0]
+average_num_of_neuron 7.37
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.13
+ --- generation:  374 ---
+max:  0.99
+min:  0.32
+ave:  0.7402000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.56, 0.64, 0.04, 0.04]
+average_num_of_neuron 7.42
+average_num_of_hidden_neuron 0.31
+average_num_of_modulation_neuron 1.11
+ --- generation:  375 ---
+max:  0.99
+min:  0.32
+ave:  0.7371999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.6, 0.48, 0.12, 0.08]
+average_num_of_neuron 7.36
+average_num_of_hidden_neuron 0.26
+average_num_of_modulation_neuron 1.1
+ --- generation:  376 ---
+max:  0.99
+min:  0.24
+ave:  0.7204999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.56, 0.4, 0.0, 0.0]
+average_num_of_neuron 7.37
+average_num_of_hidden_neuron 0.26
+average_num_of_modulation_neuron 1.11
+ --- generation:  377 ---
+max:  1.0
+min:  0.3
+ave:  0.7485999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.56, 0.04, 0.0]
+average_num_of_neuron 7.35
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.12
+ --- generation:  378 ---
+max:  1.0
+min:  0.22
+ave:  0.7556999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.0, 0.36, 0.0]
+average_num_of_neuron 7.35
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.19
+ --- generation:  379 ---
+max:  1.0
+min:  0.33
+ave:  0.7740999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.72, 0.04, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.11
+ --- generation:  380 ---
+max:  0.99
+min:  0.35
+ave:  0.7625000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.64, 0.72, 0.04, 0.0]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.14
+ --- generation:  381 ---
+max:  1.0
+min:  0.31
+ave:  0.7875000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.56, 0.04, 0.0]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.07
+ --- generation:  382 ---
+max:  1.0
+min:  0.42
+ave:  0.8173999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.48, 0.36, 0.28]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.02
+ --- generation:  383 ---
+max:  0.99
+min:  0.45
+ave:  0.7970999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.96, 0.84, 0.0, 0.0]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.06
+ --- generation:  384 ---
+max:  1.0
+min:  0.44
+ave:  0.7785000000000001
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.36, 0.4, 0.36]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.1
+ --- generation:  385 ---
+max:  1.0
+min:  0.4
+ave:  0.7382
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.88, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.13
+ --- generation:  386 ---
+max:  1.0
+min:  0.28
+ave:  0.7071999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.4, 0.32, 0.0]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.14
+ --- generation:  387 ---
+max:  1.0
+min:  0.27
+ave:  0.7206999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.6, 0.04, 0.0]
+average_num_of_neuron 7.31
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.11
+ --- generation:  388 ---
+max:  1.0
+min:  0.4
+ave:  0.7322000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.92, 0.64, 0.04, 0.0]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.11
+ --- generation:  389 ---
+max:  1.0
+min:  0.35
+ave:  0.709
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.26
+average_num_of_modulation_neuron 1.07
+ --- generation:  390 ---
+max:  0.98
+min:  0.32
+ave:  0.7188
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.96, 1.0]
+history_of_worst: [0.56, 0.44, 0.16, 0.12]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.27
+average_num_of_modulation_neuron 1.03
+ --- generation:  391 ---
+max:  1.0
+min:  0.39
+ave:  0.7359000000000004
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.4, 0.32]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.26
+average_num_of_modulation_neuron 1.08
+ --- generation:  392 ---
+max:  0.99
+min:  0.27
+ave:  0.7452000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.52, 0.56, 0.0, 0.0]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.12
+ --- generation:  393 ---
+max:  0.98
+min:  0.33
+ave:  0.7192999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.72, 0.6, 0.0, 0.0]
+average_num_of_neuron 7.38
+average_num_of_hidden_neuron 0.23
+average_num_of_modulation_neuron 1.15
+ --- generation:  394 ---
+max:  0.98
+min:  0.35
+ave:  0.7408999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.12, 0.0, 0.8, 0.48]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.11
+ --- generation:  395 ---
+max:  1.0
+min:  0.39
+ave:  0.7348000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.36, 0.96, 0.16, 0.08]
+average_num_of_neuron 7.35
+average_num_of_hidden_neuron 0.27
+average_num_of_modulation_neuron 1.08
+ --- generation:  396 ---
+max:  0.98
+min:  0.4
+ave:  0.7277
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.72, 0.32, 0.2, 0.36]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.06
+ --- generation:  397 ---
+max:  0.99
+min:  0.22
+ave:  0.7388999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.44, 0.36, 0.08, 0.0]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.06
+ --- generation:  398 ---
+max:  0.99
+min:  0.41
+ave:  0.7839999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.8, 0.84, 0.0, 0.0]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.05
+ --- generation:  399 ---
+max:  0.98
+min:  0.42
+ave:  0.773
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.4, 0.44, 0.6, 0.24]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.28
+average_num_of_modulation_neuron 1.04
+ --- generation:  400 ---
+max:  0.98
+min:  0.25
+ave:  0.7544000000000005
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.92, 1.0]
+history_of_worst: [0.6, 0.4, 0.0, 0.0]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.26
+average_num_of_modulation_neuron 1.06
+ --- generation:  401 ---
+max:  0.98
+min:  0.34
+ave:  0.7572
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.33
+average_num_of_hidden_neuron 0.27
+average_num_of_modulation_neuron 1.06
+ --- generation:  402 ---
+max:  0.99
+min:  0.38
+ave:  0.7303999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.48, 0.44, 0.2, 0.4]
+average_num_of_neuron 7.42
+average_num_of_hidden_neuron 0.34
+average_num_of_modulation_neuron 1.08
+ --- generation:  403 ---
+max:  0.99
+min:  0.34
+ave:  0.7485999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.6, 0.68, 0.08, 0.0]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.06
+ --- generation:  404 ---
+max:  0.99
+min:  0.3
+ave:  0.7567000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.05
+ --- generation:  405 ---
+max:  0.99
+min:  0.45
+ave:  0.7811999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.56, 0.36, 0.32, 0.56]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.25
+average_num_of_modulation_neuron 1.02
+ --- generation:  406 ---
+max:  1.0
+min:  0.34
+ave:  0.7508000000000004
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.44, 0.12, 0.24]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.01
+ --- generation:  407 ---
+max:  1.0
+min:  0.42
+ave:  0.7698000000000004
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.56, 0.48, 0.32]
+average_num_of_neuron 7.3
+average_num_of_hidden_neuron 0.25
+average_num_of_modulation_neuron 1.05
+ --- generation:  408 ---
+max:  0.99
+min:  0.37
+ave:  0.7675000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.76, 0.68, 0.04, 0.0]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.18
+average_num_of_modulation_neuron 1.05
+ --- generation:  409 ---
+max:  0.99
+min:  0.33
+ave:  0.7267
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.1
+ --- generation:  410 ---
+max:  0.98
+min:  0.33
+ave:  0.7639
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.36, 0.52, 0.16, 0.28]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.07
+ --- generation:  411 ---
+max:  0.99
+min:  0.35
+ave:  0.7427999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.64, 0.76, 0.0, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.08
+ --- generation:  412 ---
+max:  0.99
+min:  0.35
+ave:  0.6943999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.4, 0.52, 0.4, 0.08]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.22
+average_num_of_modulation_neuron 1.12
+ --- generation:  413 ---
+max:  0.99
+min:  0.37
+ave:  0.7134000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.44, 0.12, 0.28]
+average_num_of_neuron 7.32
+average_num_of_hidden_neuron 0.24
+average_num_of_modulation_neuron 1.08
+ --- generation:  414 ---
+max:  0.99
+min:  0.36
+ave:  0.7298999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.6, 0.2, 0.04]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.02
+ --- generation:  415 ---
+max:  1.0
+min:  0.37
+ave:  0.7665999999999997
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.8, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.07
+ --- generation:  416 ---
+max:  0.98
+min:  0.4
+ave:  0.7758000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.36, 0.44, 0.4, 0.4]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.06
+ --- generation:  417 ---
+max:  1.0
+min:  0.42
+ave:  0.7841999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.48, 0.4, 0.36]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.09
+ --- generation:  418 ---
+max:  1.0
+min:  0.24
+ave:  0.8388999999999994
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.48, 0.0, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.07
+ --- generation:  419 ---
+max:  0.99
+min:  0.33
+ave:  0.8111000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.12, 0.48, 0.56]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.08
+ --- generation:  420 ---
+max:  1.0
+min:  0.32
+ave:  0.7938999999999994
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.44, 0.2, 0.2]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.16
+ --- generation:  421 ---
+max:  0.99
+min:  0.33
+ave:  0.8259000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.6, 0.08, 0.0]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.11
+ --- generation:  422 ---
+max:  0.99
+min:  0.35
+ave:  0.8433000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.12, 0.0, 0.8, 0.48]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.13
+ --- generation:  423 ---
+max:  0.99
+min:  0.43
+ave:  0.8429999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.12, 0.04, 0.8, 0.76]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.03
+ --- generation:  424 ---
+max:  1.0
+min:  0.39
+ave:  0.8205999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.08, 0.6, 0.56]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.1
+ --- generation:  425 ---
+max:  0.99
+min:  0.31
+ave:  0.8721000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.6, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.11
+average_num_of_hidden_neuron 0.05
+average_num_of_modulation_neuron 1.06
+ --- generation:  426 ---
+max:  1.0
+min:  0.31
+ave:  0.8583000000000003
+perfect:  3
+not_perfect:  97
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.07
+average_num_of_modulation_neuron 1.06
+ --- generation:  427 ---
+max:  0.99
+min:  0.39
+ave:  0.825
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.52, 0.48, 0.24, 0.32]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.12
+ --- generation:  428 ---
+max:  0.99
+min:  0.33
+ave:  0.8033
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.44, 0.6, 0.16, 0.12]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.07
+average_num_of_modulation_neuron 1.12
+ --- generation:  429 ---
+max:  1.0
+min:  0.35
+ave:  0.8321
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.56, 0.04, 0.12]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.08
+ --- generation:  430 ---
+max:  0.99
+min:  0.35
+ave:  0.8444999999999995
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.72, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.07
+average_num_of_modulation_neuron 1.07
+ --- generation:  431 ---
+max:  0.99
+min:  0.36
+ave:  0.8390000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.6, 0.08, 0.0]
+average_num_of_neuron 7.12
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.06
+ --- generation:  432 ---
+max:  0.99
+min:  0.43
+ave:  0.8329000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.92, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.06
+ --- generation:  433 ---
+max:  0.99
+min:  0.34
+ave:  0.8273
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.03
+ --- generation:  434 ---
+max:  0.99
+min:  0.34
+ave:  0.8388999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.68, 0.04, 0.0]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.07
+average_num_of_modulation_neuron 1.06
+ --- generation:  435 ---
+max:  1.0
+min:  0.41
+ave:  0.8347999999999997
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.4, 0.4, 0.36]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.06
+ --- generation:  436 ---
+max:  1.0
+min:  0.34
+ave:  0.8001999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.6, 0.08, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.07
+ --- generation:  437 ---
+max:  0.99
+min:  0.36
+ave:  0.7761000000000005
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.68, 0.68, 0.08, 0.0]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.08
+ --- generation:  438 ---
+max:  1.0
+min:  0.3
+ave:  0.7568
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.52, 0.56, 0.12, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.08
+ --- generation:  439 ---
+max:  0.99
+min:  0.31
+ave:  0.7476999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.08, 0.0, 0.6, 0.56]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.07
+ --- generation:  440 ---
+max:  0.99
+min:  0.39
+ave:  0.7927999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.64, 0.28, 0.0]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.05
+ --- generation:  441 ---
+max:  0.98
+min:  0.4
+ave:  0.7827999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 0.96, 1.0]
+history_of_worst: [0.48, 0.48, 0.32, 0.32]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.04
+ --- generation:  442 ---
+max:  0.99
+min:  0.36
+ave:  0.7648000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.64, 0.16, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.05
+ --- generation:  443 ---
+max:  1.0
+min:  0.37
+ave:  0.7695000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.48, 0.24, 0.32]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.05
+ --- generation:  444 ---
+max:  0.97
+min:  0.32
+ave:  0.7674999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 0.96, 1.0]
+history_of_worst: [0.2, 0.0, 0.52, 0.56]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.05
+ --- generation:  445 ---
+max:  0.97
+min:  0.32
+ave:  0.7655999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.92, 1.0, 1.0]
+history_of_worst: [0.76, 0.48, 0.04, 0.0]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.07
+ --- generation:  446 ---
+max:  0.99
+min:  0.17
+ave:  0.7931999999999995
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.2, 0.4, 0.08, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.06
+ --- generation:  447 ---
+max:  0.99
+min:  0.29
+ave:  0.7926000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.64, 0.52, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.04
+ --- generation:  448 ---
+max:  0.99
+min:  0.32
+ave:  0.8221999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.48, 0.76, 0.04, 0.0]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.06
+ --- generation:  449 ---
+max:  0.98
+min:  0.35
+ave:  0.8025000000000001
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.12, 0.36, 0.56, 0.36]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.2
+average_num_of_modulation_neuron 1.05
+ --- generation:  450 ---
+max:  0.98
+min:  0.24
+ave:  0.7945
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.92, 1.0, 1.0]
+history_of_worst: [0.24, 0.36, 0.36, 0.0]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.06
+ --- generation:  451 ---
+max:  0.98
+min:  0.42
+ave:  0.8181999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.76, 0.92, 0.0, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.09
+ --- generation:  452 ---
+max:  0.98
+min:  0.37
+ave:  0.8028999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 0.96, 1.0]
+history_of_worst: [0.44, 0.08, 0.6, 0.36]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.07
+ --- generation:  453 ---
+max:  0.99
+min:  0.31
+ave:  0.7874999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.64, 0.48, 0.0, 0.12]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.13
+ --- generation:  454 ---
+max:  0.99
+min:  0.36
+ave:  0.8040999999999993
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.76, 0.6, 0.08, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.1
+ --- generation:  455 ---
+max:  1.0
+min:  0.31
+ave:  0.8001999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.16, 0.0, 0.6, 0.48]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.08
+ --- generation:  456 ---
+max:  0.99
+min:  0.39
+ave:  0.8244
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.56, 0.24, 0.12]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.05
+ --- generation:  457 ---
+max:  0.98
+min:  0.36
+ave:  0.8194999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.4, 0.48, 0.32, 0.24]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.07
+ --- generation:  458 ---
+max:  0.99
+min:  0.44
+ave:  0.8333999999999995
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.4, 0.56, 0.4, 0.4]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.04
+ --- generation:  459 ---
+max:  0.99
+min:  0.27
+ave:  0.8292999999999995
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.56, 0.52, 0.0, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.06
+ --- generation:  460 ---
+max:  1.0
+min:  0.39
+ave:  0.8305000000000001
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.44, 0.24, 0.24]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.07
+ --- generation:  461 ---
+max:  1.0
+min:  0.37
+ave:  0.8151
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.44, 0.28, 0.36]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.06
+ --- generation:  462 ---
+max:  0.99
+min:  0.36
+ave:  0.8454000000000004
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.36, 0.52, 0.28, 0.28]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.03
+ --- generation:  463 ---
+max:  0.99
+min:  0.32
+ave:  0.8316999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.48, 0.24, 0.24, 0.32]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.07
+ --- generation:  464 ---
+max:  0.99
+min:  0.31
+ave:  0.8697000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.24, 0.24, 0.44, 0.32]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.08
+ --- generation:  465 ---
+max:  1.0
+min:  0.35
+ave:  0.8230999999999998
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.28, 0.28, 0.36]
+average_num_of_neuron 7.28
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.13
+ --- generation:  466 ---
+max:  0.99
+min:  0.34
+ave:  0.8154000000000003
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.36, 0.36, 0.36, 0.28]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.12
+ --- generation:  467 ---
+max:  1.0
+min:  0.45
+ave:  0.8315
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.8, 1.0, 0.0, 0.0]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.08
+ --- generation:  468 ---
+max:  0.99
+min:  0.33
+ave:  0.8177999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.16, 0.12, 0.52, 0.52]
+average_num_of_neuron 7.2
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.1
+ --- generation:  469 ---
+max:  1.0
+min:  0.4
+ave:  0.8272000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.36, 0.48, 0.32]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.06
+ --- generation:  470 ---
+max:  0.99
+min:  0.3
+ave:  0.8022000000000005
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.48, 0.12, 0.0]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.11
+ --- generation:  471 ---
+max:  0.99
+min:  0.39
+ave:  0.8088999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.6, 0.48, 0.32, 0.16]
+average_num_of_neuron 7.18
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.07
+ --- generation:  472 ---
+max:  1.0
+min:  0.42
+ave:  0.8580999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.32, 0.48, 0.32]
+average_num_of_neuron 7.1
+average_num_of_hidden_neuron 0.05
+average_num_of_modulation_neuron 1.05
+ --- generation:  473 ---
+max:  1.0
+min:  0.39
+ave:  0.8382000000000002
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.84, 0.72, 0.0, 0.0]
+average_num_of_neuron 7.16
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.08
+ --- generation:  474 ---
+max:  0.99
+min:  0.29
+ave:  0.8221999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.6, 0.56, 0.0, 0.0]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.07
+average_num_of_modulation_neuron 1.06
+ --- generation:  475 ---
+max:  0.98
+min:  0.36
+ave:  0.8212999999999994
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 0.96, 1.0, 1.0]
+history_of_worst: [0.76, 0.68, 0.0, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.09
+ --- generation:  476 ---
+max:  1.0
+min:  0.4
+ave:  0.8462000000000002
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.64, 0.24, 0.16]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.05
+ --- generation:  477 ---
+max:  0.99
+min:  0.37
+ave:  0.8440000000000002
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.6, 0.12, 0.2]
+average_num_of_neuron 7.14
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.08
+ --- generation:  478 ---
+max:  1.0
+min:  0.3
+ave:  0.8139000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.08, 0.28]
+average_num_of_neuron 7.24
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.15
+ --- generation:  479 ---
+max:  0.99
+min:  0.4
+ave:  0.8168
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.8, 0.8, 0.0, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.12
+ --- generation:  480 ---
+max:  1.0
+min:  0.41
+ave:  0.789199999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.48, 0.52, 0.44]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.1
+ --- generation:  481 ---
+max:  0.99
+min:  0.35
+ave:  0.7882999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.16, 0.28, 0.4, 0.56]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.11
+ --- generation:  482 ---
+max:  0.99
+min:  0.37
+ave:  0.8142
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.28, 0.36]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.1
+average_num_of_modulation_neuron 1.11
+ --- generation:  483 ---
+max:  0.99
+min:  0.39
+ave:  0.8013999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.4, 0.28, 0.44]
+average_num_of_neuron 7.27
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.11
+ --- generation:  484 ---
+max:  1.0
+min:  0.38
+ave:  0.8138000000000001
+perfect:  2
+not_perfect:  98
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.2, 0.16, 0.56, 0.6]
+average_num_of_neuron 7.34
+average_num_of_hidden_neuron 0.21
+average_num_of_modulation_neuron 1.13
+ --- generation:  485 ---
+max:  0.99
+min:  0.28
+ave:  0.8000999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.48, 0.32, 0.04, 0.28]
+average_num_of_neuron 7.31
+average_num_of_hidden_neuron 0.17
+average_num_of_modulation_neuron 1.14
+ --- generation:  486 ---
+max:  1.0
+min:  0.33
+ave:  0.8111000000000006
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.48, 0.36, 0.2, 0.28]
+average_num_of_neuron 7.26
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.14
+ --- generation:  487 ---
+max:  1.0
+min:  0.3
+ave:  0.8375999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.56, 0.64, 0.0, 0.0]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.11
+average_num_of_modulation_neuron 1.1
+ --- generation:  488 ---
+max:  0.99
+min:  0.39
+ave:  0.8365999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.6, 0.6, 0.16, 0.2]
+average_num_of_neuron 7.17
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.09
+ --- generation:  489 ---
+max:  1.0
+min:  0.36
+ave:  0.8091999999999996
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.64, 0.48, 0.32, 0.0]
+average_num_of_neuron 7.25
+average_num_of_hidden_neuron 0.19
+average_num_of_modulation_neuron 1.06
+ --- generation:  490 ---
+max:  0.99
+min:  0.44
+ave:  0.8455999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.44, 0.44, 0.48, 0.4]
+average_num_of_neuron 7.12
+average_num_of_hidden_neuron 0.06
+average_num_of_modulation_neuron 1.06
+ --- generation:  491 ---
+max:  0.99
+min:  0.32
+ave:  0.8383999999999997
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 1.0, 0.96, 1.0]
+history_of_worst: [0.56, 0.64, 0.08, 0.0]
+average_num_of_neuron 7.13
+average_num_of_hidden_neuron 0.07
+average_num_of_modulation_neuron 1.06
+ --- generation:  492 ---
+max:  0.99
+min:  0.46
+ave:  0.8627999999999996
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.36, 0.48, 0.44, 0.56]
+average_num_of_neuron 7.11
+average_num_of_hidden_neuron 0.04
+average_num_of_modulation_neuron 1.07
+ --- generation:  493 ---
+max:  1.0
+min:  0.35
+ave:  0.8156999999999992
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.4, 0.4, 0.36, 0.24]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.13
+ --- generation:  494 ---
+max:  0.99
+min:  0.38
+ave:  0.8011999999999994
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.68, 0.84, 0.0, 0.0]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.16
+average_num_of_modulation_neuron 1.07
+ --- generation:  495 ---
+max:  0.99
+min:  0.35
+ave:  0.7924
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.84, 0.56, 0.0, 0.0]
+average_num_of_neuron 7.23
+average_num_of_hidden_neuron 0.15
+average_num_of_modulation_neuron 1.08
+ --- generation:  496 ---
+max:  0.99
+min:  0.3
+ave:  0.8152999999999999
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.6, 0.48, 0.12, 0.0]
+average_num_of_neuron 7.22
+average_num_of_hidden_neuron 0.14
+average_num_of_modulation_neuron 1.08
+ --- generation:  497 ---
+max:  0.99
+min:  0.33
+ave:  0.8280999999999998
+perfect:  0
+not_perfect:  100
+history_of_best: [0.96, 1.0, 1.0, 1.0]
+history_of_worst: [0.08, 0.28, 0.6, 0.36]
+average_num_of_neuron 7.15
+average_num_of_hidden_neuron 0.09
+average_num_of_modulation_neuron 1.06
+ --- generation:  498 ---
+max:  1.0
+min:  0.26
+ave:  0.8202999999999999
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.32, 0.52, 0.2, 0.0]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.08
+average_num_of_modulation_neuron 1.11
+ --- generation:  499 ---
+max:  0.99
+min:  0.42
+ave:  0.8186
+perfect:  0
+not_perfect:  100
+history_of_best: [1.0, 0.96, 1.0, 1.0]
+history_of_worst: [0.24, 0.04, 0.76, 0.64]
+average_num_of_neuron 7.21
+average_num_of_hidden_neuron 0.12
+average_num_of_modulation_neuron 1.09
+ --- generation:  500 ---
+max:  1.0
+min:  0.43
+ave:  0.8285000000000003
+perfect:  1
+not_perfect:  99
+history_of_best: [1.0, 1.0, 1.0, 1.0]
+history_of_worst: [0.44, 0.4, 0.36, 0.52]
+average_num_of_neuron 7.19
+average_num_of_hidden_neuron 0.13
+average_num_of_modulation_neuron 1.06
+ === This is my self introduction !! === 
+I am  FreeExtendedHebbianNetworkAgent
+My neurons are:
+NeuronType.INPUT
+NeuronType.INPUT
+NeuronType.INPUT
+NeuronType.INPUT
+NeuronType.OUTPUT
+NeuronType.OUTPUT
+NeuronType.MODULATION
+My original_connections:
+[[ 2.71434720e-01 -1.44316516e-01 -5.19803951e-01 -8.24242273e-01
+   6.72893429e-01  6.53856383e-01  3.16467806e-02]
+ [ 3.09846992e-02  9.81197769e-02 -8.92723041e-02 -8.55431644e-01
+   8.86709986e-01  1.92670738e-01  1.76746701e-04]
+ [ 6.62673008e-01  7.18696032e-01 -4.67521230e-01  1.33973977e-01
+  -9.24562015e-01  7.52512336e-01  1.71522848e-01]
+ [ 1.15014603e-01 -2.61772002e-01 -2.64098048e-01 -7.15700782e-01
+   7.25833292e-01 -5.66776648e-01  5.54703229e-03]
+ [-9.35487308e-01 -9.38391947e-01 -1.93191219e-01  2.24847074e-01
+  -7.29833894e-01 -8.94461922e-01 -1.97735283e-02]
+ [ 2.98722256e-01  9.36140837e-01  9.81828019e-01  6.35895160e-01
+   6.14343856e-01  1.00000000e+00 -1.98029905e-08]
+ [-5.97187939e-01 -5.40513276e-01  3.95529909e-01 -3.18174715e-01
+  -7.15180324e-01  9.99968377e-01 -3.94431546e-03]]
+My original_mask_array:
+[[0 0 0 0 1 1 1]
+ [1 1 0 1 0 0 0]
+ [1 0 1 1 0 0 1]
+ [1 1 1 1 0 0 0]
+ [1 1 1 0 1 1 0]
+ [0 1 1 1 1 1 1]
+ [0 1 1 0 0 1 0]]
+My fitness was  1.0
+ ====================================== 
