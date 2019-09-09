@@ -17,7 +17,7 @@ os.system(command)
 command = []
 command += 'cat '
 command += args[1]
-command += " | grep aveave | cut -d ' ' -f 3 > ./ave"
+command += " | grep ave | grep -v num | cut -d ' ' -f 3 > ./ave"
 command = ''.join(command)
 os.system(command)
 
