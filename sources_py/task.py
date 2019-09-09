@@ -125,7 +125,7 @@ class Task_9(Task_1):
         self.step += 1
         if self.step == LIFETIME_NUM +1:
             self.step = 1
-        print(self.step)
+        #print(self.step)
         if(self.step <= LIFETIME_NUM // 2 + self.dispersion):
             return CurrentRule.PIECE
         else:

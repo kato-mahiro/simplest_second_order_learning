@@ -46,6 +46,10 @@ if __name__=='__main__':
             task = Task_7(g_num)
         elif args[2] == '8':
             task = Task_8(g_num)
+        elif args[2] == '9':
+            task = Task_9(g_num)
+        elif args[2] == '10':
+            task = Task_10(g_num)
 
         for a_num in range(POPULATION_NUM):
             for l_num in range(LIFETIME_NUM):
@@ -109,6 +113,17 @@ if __name__=='__main__':
         print('average_num_of_neuron', n_sum / POPULATION_NUM)
         print('average_num_of_hidden_neuron', h_sum / POPULATION_NUM)
         print('average_num_of_modulation_neuron', m_sum / POPULATION_NUM)
+
+        modulated_num = 0
+        not_modulated_num = 0
+        for a_num in range(POPULATION_NUM):
+            if(agents[a_num].nn.num_of_modulation_neuron == 0):
+                not_modulated_num += 1
+            else:
+                modulated_num  += 1
+        print('total_not_modulated_agent:',not_modulated_num)
+        print('total_modulated_agent:',modulated_num)
+
 
         # if the last generation of evolution, see best individual and pickle agents
         if(g_num == GENERATION_NUM-1):
