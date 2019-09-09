@@ -10,48 +10,35 @@ args = sys.argv
 command = []
 command += 'cat '
 command += args[1]
-command += " | grep can_learning | cut -d ' ' -f 3 > ./can"
+command += " | grep total_modulated_agent | cut -d ' ' -f 2 > ./mod"
 command = ''.join(command)
 os.system(command)
 
 command = []
 command += 'cat '
 command += args[1]
-command += " | grep cannot_learning | cut -d ' ' -f 3 > ./cannot"
+command += " | grep total_not_modulated_agent | cut -d ' ' -f 2 > ./not_mod"
 command = ''.join(command)
 os.system(command)
 
-command = []
-command += 'cat '
-command += args[1]
-command += " | grep perfect | cut -d ' ' -f 3 > ./perfect"
-command = ''.join(command)
-os.system(command)
 
-can_data = open("can","r")
-can_lines = can_data.readlines()
-can_data.close()
+mod_data = open("mod","r")
+mod_lines = mod_data.readlines()
+mod_data.close()
 
-cannot_data = open("cannot","r")
-cannot_lines = cannot_data.readlines()
-cannot_data.close()
-
-perfect_data = open("perfect","r")
-perfect_lines = perfect_data.readlines()
-perfect_data.close()
+not_mod_data = open("not_mod","r")
+not_mod_lines = not_mod_data.readlines()
+not_mod_data.close()
 
 add_lines = []
 for i in range(500):
-    can_lines[i] = int(can_lines[i])
-    cannot_lines[i] = int(cannot_lines[i])
-    perfect_lines[i] = int(perfect_lines[i])
-    add_lines.append(cannot_lines[i] + can_lines[i])
+    mod_lines[i] = int(mod_lines[i])
+    not_mod_lines[i] = int(not_mod_lines[i])
 
 x = np.arange(1,501)
 fig,axes = plt.subplots()
-axes.bar(x, cannot_lines,width=1.0,color='plum',label="couldn't learning")
-axes.bar(x, can_lines, width=1.0,bottom = cannot_lines,color='aquamarine',label="could learning")
-axes.bar(x,perfect_lines, width=1.0,bottom = add_lines,color='darkblue',label="perfect")
+axes.bar(x, not_mod_lines,width=1.0,color='plum',label="not_modulated")
+axes.bar(x, mod_lines, width=1.0,bottom = not_mod_lines,color='aquamarine',label="modulated")
 
 plt.title(args[1])
 plt.legend()
