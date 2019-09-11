@@ -48,6 +48,9 @@ class NeuralNetworkAgent:
     def revert_initial_state(self):
         self.nn.connections = self.original_connections
         self.nn.mask_array = self.original_mask_array
+        for i in range(self.nn.num_of_neuron):
+            self.nn.neurons[i].activation = 0.0
+            self.nn.neurons[i].modulation = 0.0
 
     def mutate(self):
         for r in range(self.nn.num_of_neuron):
@@ -242,6 +245,10 @@ class ExtendedHebbianNetworkAgent(NeuralNetworkAgent):
         self.nn.B = self.original_B
         self.nn.C = self.original_C
         self.nn.D = self.original_D
+
+        for i in range(self.nn.num_of_neuron):
+            self.nn.neurons[i].activation = 0.0
+            self.nn.neurons[i].modulation = 0.0
 
     def mutate(self):
         for r in range(self.nn.num_of_neuron):
