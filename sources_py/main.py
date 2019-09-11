@@ -72,7 +72,7 @@ if __name__=='__main__':
                     agents[a_num].nn.get_output(task.feedback(False))
             agents[a_num].fitness = agents[a_num].num_correct_answer / LIFETIME_NUM
             agents[a_num].num_correct_answer = 0.0
-            agents[a_num].revert_initial_state()
+            #agents[a_num].revert_initial_state()
 
         # evolution
         next_agents=[]
