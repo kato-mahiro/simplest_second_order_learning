@@ -10,60 +10,37 @@ args = sys.argv
 command = []
 command += 'cat '
 command += args[1]
-command += " | grep average_num_of_neuron | cut -d ' ' -f 2 > ./num_of_neuron"
+command += " | grep total_modulated_agent | cut -d ' ' -f 2 > ./mod"
 command = ''.join(command)
 os.system(command)
 
 command = []
 command += 'cat '
 command += args[1]
-command += " | grep average_num_of_modulation_neuron | cut -d ' ' -f 2 > ./num_of_modulation_neuron"
+command += " | grep total_not_modulated_agent | cut -d ' ' -f 2 > ./not_mod"
 command = ''.join(command)
 os.system(command)
 
-command = []
-command += 'cat '
-command += args[1]
-command += " | grep average_num_of_hidden_neuron | cut -d ' ' -f 2 > ./num_of_hidden_neuron"
-command = ''.join(command)
-os.system(command)
 
-num_of_neuron_data = open("num_of_neuron","r")
-num_of_neuron_lines = num_of_neuron_data.readlines()
-num_of_neuron_data.close()
+mod_data = open("mod","r")
+mod_lines = mod_data.readlines()
+mod_data.close()
 
-num_of_modulation_neuron_data = open("num_of_modulation_neuron","r")
-num_of_modulation_neuron_lines = num_of_modulation_neuron_data.readlines()
-num_of_modulation_neuron_data.close()
+not_mod_data = open("not_mod","r")
+not_mod_lines = not_mod_data.readlines()
+not_mod_data.close()
 
-num_of_hidden_neuron_data = open("num_of_hidden_neuron","r")
-num_of_hidden_neuron_lines = num_of_hidden_neuron_data.readlines()
-num_of_hidden_neuron_data.close()
-
-x = np.arange(1,501,1)
+add_lines = []
 for i in range(500):
-    num_of_neuron_lines[i] = float(num_of_neuron_lines[i])
-    num_of_modulation_neuron_lines[i] = float(num_of_modulation_neuron_lines[i])
-    num_of_hidden_neuron_lines[i] = float(num_of_hidden_neuron_lines[i])
+    mod_lines[i] = int(mod_lines[i])
+    not_mod_lines[i] = int(not_mod_lines[i])
+
+x = np.arange(1,501)
+fig,axes = plt.subplots()
+axes.bar(x, not_mod_lines,width=1.0,color='plum',label="not_modulated")
+axes.bar(x, mod_lines, width=1.0,bottom = not_mod_lines,color='aquamarine',label="modulated")
 
 plt.title(args[1])
-plt.ylim(0.0,4.0)
-plt.xlim(0,510)
-plt.yticks([1.0,2.0,3.0,4.0])
-plt.grid(True)
-plt.xlabel('Generation')
-plt.ylabel('average_num_of_neuron')
-
-#plt.plot(x,num_of_neuron_lines,label='num of total neuron')
-plt.plot(x,num_of_modulation_neuron_lines,label='num of moddulation neuron')
-plt.plot(x,num_of_hidden_neuron_lines,label='num of hidden neuron(not modulation)')
-
-
-#plt.plot(x,min_lines,label='worst')
-#plt.plot(x,min_ave_line,label='average of worst fitness')
-#print('min-ave:',sum(min_lines)/len(min_lines))
-#print('min-max:',max(min_lines))
-
 plt.legend()
 #plt.show()
-plt.savefig('./graphs/' + args[1] + '_result.png')
+plt.savefig('./graphs/' + args[1] + '_distribution.png')
