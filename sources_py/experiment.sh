@@ -1,5 +1,9 @@
 #!/bin/bash
-#python main.py FEH 8 > ./result/Task_8_FEH
-python main.py FH 8 > ./result/Task_8_FH
-python main.py M1EH 8 > ./result/Task_8_M1EH
-python main.py EH 8 > ./result/Task_8_EH
+python main.py FEH 10 > ./result/Task_10_FEH
+echo '1/4'
+python main.py FH 10 > ./result/Task_10_FH
+echo '2/4'
+python main.py M1EH 10 > ./result/Task_10_M1EH
+echo '3/4'
+python main.py EH 10 > ./result/Task_10_EH
+echo '4/4'
