@@ -17,4 +17,4 @@ MUTATION_PROB = 0.001
 MUTATION_PROB_A = 0.01 #For FreeNetwork
 MUTATION_PROB_B = 0.1 #For FreeNetwork
 
-SEED = 777
+SEED = 999
